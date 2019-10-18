@@ -1,4 +1,9 @@
-export default {
+const lightGray = "#ebeef2";
+const black = "black";
+// const primary = "rgb(57, 105, 186)";
+const primary = "#0070f3";
+
+const defaultTheme = {
   breakpoints: ['40em', '52em', '64em'],
   colors: {
     white: '#fff',
@@ -16,4 +21,25 @@ export default {
   space: [
     0, 4, 8, 16, 32, 64, 128, 256
   ]
+};
+
+const lightMode = {
+  primary: primary,
+  background: "white",
+  backgroundAlt: lightGray,
+  body: "black",
+  inputBorder: "#eaeaea"
+}
+
+const darkMode = {
+  primary: primary,
+  background: "black",
+  backgroundAlt: "#111111",
+  body: "white",
+  inputBorder: "#333333"
+};
+
+export {
+  lightMode,
+  darkMode
 }
