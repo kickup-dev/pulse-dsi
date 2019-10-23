@@ -65,7 +65,7 @@ export default class CategorySelect extends Component {
         if (this.state.open) {
             return (
                 <FormGroup outlined>
-                    <h4 style={{marginTop: "0px"}}>New Category</h4>
+                    <Header style={{marginTop: "0px"}}>New Category</Header>
                     <FormGroup>
                       <Label htmlFor="">Name {!item.name ? <Indicator type={"undefined"} /> : ""}</Label>
                       <Input type="text" onChange={(e) => this.onChange(e)} name="name" value={data.name || ""} placeholder="Category name" size="60"/>
@@ -78,7 +78,7 @@ export default class CategorySelect extends Component {
                       </Select>
                     </FormGroup>
                     <FooterActions>
-                      <Button outline onClick={() => this.setState({open: !this.state.open})}>Cancel</Button>
+                      <Button ghost onClick={() => this.setState({open: !this.state.open})}>Cancel</Button>
                       <Button primary style={{marginLeft: "8px"}} onClick={() => this.submitNewCategory()}>{this.state.savingCategory ? "Saving..." : "Save"}</Button>
                     </FooterActions>
                 </FormGroup>
@@ -126,4 +126,9 @@ const Indicator = styled.div`
   border-radius: 50%;
   background: ${props => props.theme.primary};
   margin-left: 4px;
+`;
+const Header = styled.h3`
+  font-size: 16px;
+  font-weight: 600;
+  margin: 16px 0 30px;
 `;

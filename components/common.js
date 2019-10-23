@@ -1,21 +1,20 @@
 import styled from 'styled-components';
-import {darken} from 'polished';
-import { withTheme } from 'styled-components';
+import {darken, transparentize} from 'polished';
 
-const Label = withTheme(styled.label`
+const Label = styled.label`
   font-size: 12px;
   font-weight: 600;
   margin-bottom: 4px;
-`);
-const Checkbox = withTheme(styled.input`
+`;
+const Checkbox = styled.input`
   padding: 8px 12px;
   border-radius: 4px;
   font-size: 14px;
   border: 1px solid ${props => props.theme.backgroundAlt};
   background: ${props => props.theme.background};
   color: ${props => props.theme.body};
-`);
-const Input = withTheme(styled.input`
+`;
+const Input = styled.input`
   padding: 8px 12px;
   border-radius: 4px;
   font-size: 14px;
@@ -23,25 +22,26 @@ const Input = withTheme(styled.input`
   background: ${props => props.theme.background};
   transition: background 1s, border 1s;
   color: ${props => props.theme.body};
-`);
-const Select = withTheme(styled.select`
+`;
+const Select = styled.select`
   height: 35px;
   border-radius: 4px;
   font-size: 14px;
   border: 1px solid ${props => props.theme.inputBorder};
-  background: ${props => props.theme.background};
   transition: background 1s, border 1s;
   color: ${props => props.theme.body};
-`);
-const Button = withTheme(styled.button`
+  background: transparent;
+  `;
+const Button = styled.button`
   padding: 8px 12px;
   border-radius: 4px;
   font-size: 14px;
   cursor: pointer;
 
-  border: 1px solid ${props => props.theme.body};
-  background: ${props => props.theme.body};
-  color: ${props => props.theme.background};
+  border: 1px solid ${props => props.theme.background};
+  background: ${props => props.theme.background};
+  color: ${props => props.theme.body};
+  &:active, &:focus {outline: none;}
   
   &:hover {
     background: ${props => darken(.15, props.theme.body)};
@@ -71,6 +71,17 @@ const Button = withTheme(styled.button`
           background: rgba(230, 62, 52, .125);
         }
       `
+    } else if (props.outline) {
+      return `
+        border: 1px solid ${props.theme.inputBorder};
+        background: transparent;
+        color: ${props.theme.body};
+        &:hover {
+          color: white;
+          border: 1px solid ${props.theme.body};
+          background: ${props.theme.body};
+        }
+      `
     } else if (props.selected) {
       return `
         border: 1px solid ${props.theme.primary};
@@ -81,10 +92,21 @@ const Button = withTheme(styled.button`
         }
 
       `
+    } else if (props.ghost) {
+      return `
+      border: none;
+      background: transparent;
+      color: ${props.theme.body};
+      &:hover {
+        border: none;
+        color: ${props.theme.body};
+        background: ${transparentize(.9, props.theme.body)};
+      }
+    `
     }
   }}
-`);
-const Radio = withTheme(styled.button`
+`;
+const Radio = styled.button`
   padding: 8px 12px;
   border-radius: 4px;
   border: 1px solid #ccc;
@@ -104,8 +126,8 @@ const Radio = withTheme(styled.button`
       `
     }
   }}
-`);
-const TextArea = withTheme(styled.textarea`
+`;
+const TextArea = styled.textarea`
   padding: 8px 12px;
   border-radius: 4px;
   font-size: 14px;
@@ -114,7 +136,7 @@ const TextArea = withTheme(styled.textarea`
   background: ${props => props.theme.background};
   transition: background 1s, border 1s;
   color: ${props => props.theme.body};
-`);
+`;
 
 export {
   Label,

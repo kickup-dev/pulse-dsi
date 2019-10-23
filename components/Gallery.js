@@ -181,15 +181,15 @@ const Image = (props) => {
 }
 const ImageBlock = styled.div`
   position: absolute;
-  top: 0;
+  top: 5%;
+  left: 5%;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  width: 100%;
-  height: 100%;
+  width: 90%;
+  height: 90%;
   background-color: white;
   border-radius: 6px;
-  // overflow: hidden;
   
   &::after {
     content: '';
@@ -215,6 +215,7 @@ const ImageContainer = styled.div`
   cursor: pointer;
   border: ${props => props.selected ? `2px solid ${props.theme.primary};` : `2px solid transparent`};
   border-radius: 8px;
+  background: white;
 
   &::before {
     content: "";
@@ -263,7 +264,7 @@ const MetaData = styled.div`
   }
 `;
 const ImageID = styled.p`
-  color: black;
+  color: rgba(0,0,0,.5);
   font-size: 10px;
   word-break: break-all;
 `;

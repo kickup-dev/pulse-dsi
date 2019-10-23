@@ -7,7 +7,6 @@ class ThemeToggle extends React.Component {
     
     render() {
         let themeName = this.props.theme.body === "white" ? "darkMode" : "lightMode";
-        console.log(themeName)
         return (
             <Container>
                 <ToggleIcon>☀️</ToggleIcon>
@@ -36,7 +35,7 @@ const ToggleContainer = styled.div`
     position: relative;
     margin: 0 8px;
     cursor: pointer;
-    transition: background 1s;
+    // transition: background .1s;
 
     &:hover {
         background: ${props => props.themeName === "lightMode" ? darken(.1, props.theme.backgroundAlt) : darken(.1, props.theme.primary)};

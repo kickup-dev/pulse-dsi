@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import {transparentize} from 'polished';
 import hotkeys from 'hotkeys-js';
 import copy from 'copy-to-clipboard';
 
@@ -269,37 +270,53 @@ export default class Form extends React.Component {
 }
 
 const FormContainer = styled.div`
-width: 30vw;
-height: 100vh;
-overflow: scroll;
+  width: 30vw;
+  height: 100vh;
+  overflow: scroll;
 
-display: flex;
-flex-direction: column;
-align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 
-padding: 50px;
-box-sizing: border-box;
+  padding: 50px;
+  box-sizing: border-box;
 
-background: ${props => props.theme.background};
-transition: background 1s;
-color: ${props => props.theme.body};
+  background: ${props => props.theme.background};
+  transition: background 1s;
+  color: ${props => props.theme.body};
 `;
 const ImagePreviewContainer = styled.div`
-border: 1px solid ${props => props.theme.backgroundAlt};
-transition: border 1s;
-border-radius: 4px;
-padding: 24px;
-display: block;
-margin-bottom: 8px;
-width: 100%;
-box-sizing: border-box;
-background: white;
-overflow: scroll;
+  border: 1px solid ${props => props.theme.backgroundAlt};
+  transition: border 1s;
+  border-radius: 4px;
+  padding: 24px;
+  display: block;
+  margin-bottom: 8px;
+  width: 100%;
+  box-sizing: border-box;
+  background: white;
+  position: relative;
+
+  &::after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition-duration: .1s;
+    box-shadow: 0 10px 20px ${props => transparentize(.9, props.theme.body)};
+  }
+
+  &:hover {
+    &::after {
+      opacity: 1;
+    }
+  }
 `;
-const ImagePreview = styled.img`
-// display: block;
-// margin-bottom: 8px;
-`;
+const ImagePreview = styled.img``;
 const Header = styled.div`
   width: 100%;
   display: flex;
