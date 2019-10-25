@@ -1,7 +1,7 @@
 import React from 'react';
 import fetch from 'isomorphic-unfetch';
 import styled from 'styled-components';
-import CategoryList from './CategoryList.js/index.js.js';
+import CategoryList from './CategoryList.js';
 import {titleCase, missingAttributes} from '../helpers/Helpers.js';
 import {Label, Select} from './common.js';
 import { transparentize } from 'polished';
