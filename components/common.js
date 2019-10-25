@@ -42,7 +42,7 @@ const Button = styled.button`
   background: ${props => props.theme.background};
   color: ${props => props.theme.body};
   &:active, &:focus {outline: none;}
-  
+
   &:hover {
     background: ${props => darken(.15, props.theme.body)};
     border: 1px solid ${props => darken(.15, props.theme.body)};
@@ -122,7 +122,7 @@ const Radio = styled.button`
         &:hover {
           background: rgb(45, 88, 159);
         }
-        
+
       `
     }
   }}

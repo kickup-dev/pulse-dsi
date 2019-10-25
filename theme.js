@@ -28,7 +28,8 @@ const lightMode = {
   background: "white",
   backgroundAlt: lightGray,
   body: "black",
-  inputBorder: "#eaeaea"
+  inputBorder: "#eaeaea",
+  ...defaultTheme
 }
 
 const darkMode = {
@@ -36,7 +37,8 @@ const darkMode = {
   background: "black",
   backgroundAlt: "#111111",
   body: "white",
-  inputBorder: "#333333"
+  inputBorder: "#333333",
+  ...defaultTheme
 };
 
 export {

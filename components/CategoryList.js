@@ -1,15 +1,17 @@
 import React from 'react';
+import fetch from 'isomorphic-unfetch';
 import styled from 'styled-components';
 import ThemeToggle from './ThemeToggle.js';
 import {darken, transparentize} from 'polished';
 import {missingAttributes} from '../helpers/Helpers.js';
+import Ghost from './Ghost';
 
 export default class CategoryList extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
       categories: [],
-      selected: "All"
+      selected: {name: "All"}
     }
   }
 
@@ -17,7 +19,7 @@ export default class CategoryList extends React.Component {
     this.fetchCategories()
   }
   fetchCategories() {
-    fetch('http://localhost:8000/categories')
+    fetch('api/categories')
       .then(res => res.json())
       .then(categories => {
         this.setState({
@@ -36,8 +38,13 @@ export default class CategoryList extends React.Component {
   }
   listCategories() {
     const {categories} = this.state;
-    if (!categories) return;
-    let firstLevelCategories = categories.filter(category => category.parent === "All").sort((a,b) => a.name > b.name ? 1 : -1);
+    const all = categories.filter(cat => cat.name === "All")[0];
+    let filteredCategories = categories.filter(cat => cat.name !== "All");
+
+    if (!filteredCategories) return;
+    let firstLevelCategories = filteredCategories.filter(category => {
+      return (category !== all) && category.parent && (category.parent._id === all._id)
+    }).sort((a,b) => a.name > b.name ? 1 : -1);
 
     let anyMissingAttributes = 0;
     this.props.images.forEach(image => {
@@ -47,7 +54,7 @@ export default class CategoryList extends React.Component {
     })
 
     let result = [
-      <CategoryButton key={"all"} selected={this.state.selected === "All"} onClick={()=> this.handleClick("All")} missingAttributes={anyMissingAttributes}>
+      <CategoryButton key={"all"} selected={this.state.selected.name === "All"} onClick={()=> this.handleClick(all)} missingAttributes={anyMissingAttributes}>
         All
       </CategoryButton>
     ];
@@ -63,13 +70,20 @@ export default class CategoryList extends React.Component {
           count++;
         }
       })
-      
+
       result.push(
-        <CategoryButton disabled={count === 0} key={category.id} selected={this.state.selected === category.name} onClick={()=> this.handleClick(category.name)} missingAttributes={anyMissingAttributes}  indent={category.parent === "All" ? 0 : 1}>
+        <CategoryButton
+          disabled={count === 0}
+          key={category._id}
+          selected={this.state.selected._id === category._id}
+          onClick={()=> this.handleClick(category)}
+          missingAttributes={anyMissingAttributes}
+          indent={category.parent.name === "All" ? 0 : 1}
+        >
           {category.name}
         </CategoryButton>
       )
-      result.push(this.listSubcategories(category.name, 1))
+      result.push(this.listSubcategories(category, 1))
 
     })
     return result
@@ -78,39 +92,40 @@ export default class CategoryList extends React.Component {
     const {categories} = this.state;
     let result = [];
     categories.forEach((category, i) => {
-      if (category.parent === parent) {
+      if (category.parent && category.parent._id === parent._id) {
 
         let anyMissingAttributes = 0;
         this.props.images.forEach(image => {
-          if (image.category === category.name && missingAttributes(image)) {
+          if (image.category._id === category._id && missingAttributes(image)) {
             anyMissingAttributes++;
           }
         })
         result.push(
           <CategoryButton
-            key={category.id}
-            selected={this.state.selected === category.name}
-            onClick={()=> this.handleClick(category.name)}
+            key={category._id}
+            selected={this.state.selected === category}
+            onClick={()=> this.handleClick(category)}
             missingAttributes={anyMissingAttributes}
             indent={indent}
           >{category.name}
           </CategoryButton>)
-        result.push(this.listSubcategories(category.name, indent + 1))
+        result.push(this.listSubcategories(category, indent + 1))
       }
     })
     return result
   }
 
   render() {
-    console.log()
-
     return (
       <Container>
         <Header>
           <H3>KickUp Design System Inventory</H3>
           <ThemeToggle onClick={() => this.props.handleToggleTheme()} />
         </Header>
-        {this.listCategories()}
+        {
+          this.state.categories.length > 0  ?  this.listCategories() : <Ghost.Sidebar  length={6}/>
+        }
+
       </Container>
     )
   }
@@ -144,7 +159,7 @@ const CategoryButton = styled.a`
   border-radius: 4px;
   cursor: pointer;
   outline: none;
-  
+
   &:hover {
     background: ${props => transparentize(.9, props.theme.body)};
   }

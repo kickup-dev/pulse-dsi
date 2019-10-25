@@ -14,7 +14,7 @@ export default class CategorySelect extends Component {
     onChange(e) {
       var obj = {};
       obj[e.target.name] = e.target.value;
-  
+
       this.setState({
         data: Object.assign(this.state.data, obj)
       })
@@ -45,7 +45,7 @@ export default class CategorySelect extends Component {
       }
 
       var that = this;
-      fetch('http://localhost:8000/category/', {
+      fetch('api/category/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
@@ -55,10 +55,10 @@ export default class CategorySelect extends Component {
       .then(() => {
         that.setState({
           savingCategory: false
-        })  
+        })
       })
     }
-      
+
     render() {
       const {item} = this.props;
       const {data} = this.state;
