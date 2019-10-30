@@ -215,7 +215,7 @@ export default class Form extends React.Component {
               <Title>{item.name}</Title>
               <Link target="_blank" href={item.url}>{url}</Link>
             </div>
-            <Button primary style={{marginLeft: "16px"}} onClick={() => this.handleSubmit()}>{this.state.saving ? "Saving..." : "Save"}</Button>
+             { process.env.DEV && <Button primary style={{marginLeft: "16px"}} onClick={() => this.handleSubmit()}>{this.state.saving ? "Saving..." : "Save"}</Button> }
           </Header>
           <br/>
           <FormGroup>
