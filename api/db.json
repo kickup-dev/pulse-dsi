@@ -13,7 +13,8 @@
       "clientFacing": true,
       "styleSource": [
         "In-product Less"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "RzCFp6FRbc8sVdje5RPfvs",
@@ -26,7 +27,8 @@
       },
       "category": "Button",
       "clientFacing": true,
-      "styleSource": "Pulse UI"
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "U5PY4njWcJeBRJURmqvqKe",
@@ -40,21 +42,21 @@
       "category": "Button",
       "filetype": ".png",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": "Pulse UI"
     },
     {
       "id": "kreHCjt6Lq8HU9ajCtwgtu",
       "name": "Dropdown",
       "url": "https://pulse-staging.kickup.co/",
-      "description": "Icon + Action",
+      "description": "Section: Recent Reports",
       "dimensions": {
         "width": 372,
         "height": 252
       },
       "category": "Menu",
       "filetype": ".png",
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": "Pulse UI"
     },
     {
@@ -67,8 +69,9 @@
         "height": 116
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": true,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "dpjac8Ktv9tbzZZzgVck6p",
@@ -81,8 +84,9 @@
       },
       "category": "Button Group",
       "saving": false,
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": true,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "HdqMkmet5f3fTnW8jig2Bk",
@@ -95,8 +99,13 @@
       },
       "category": "Tabs",
       "saving": false,
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "f6RWvBjKtFjS48mmfGFZ7g",
@@ -108,8 +117,9 @@
         "height": 140
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "ARfBNjvN5tdHwyn5tCv5Up",
@@ -123,7 +133,7 @@
       "category": "Button",
       "filetype": ".png",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": "Styled Component"
     },
     {
@@ -136,8 +146,9 @@
         "height": 100
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "RrrJMe5gyCf7qy4ft5ps9t",
@@ -149,8 +160,9 @@
         "height": 108
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "eqEeHXxMM7RbamaGgAo63o",
@@ -163,10 +175,11 @@
       },
       "category": "Button Group",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Styled Component"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "dkPZsDgiCAejqjH9fS7ZJa",
@@ -179,8 +192,13 @@
       },
       "category": "Tabs",
       "saving": false,
-      "clientFacing": null,
-      "styleSource": ""
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "PZhb4TrCprjLmxiV8FpLtD",
@@ -192,8 +210,9 @@
         "height": 108
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "eXBep2NqkwCQeaZdoZggsr",
@@ -206,10 +225,11 @@
       },
       "category": "Button Group",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Styled Component"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "DMvKYji35nJ93anymkuQkv",
@@ -221,8 +241,9 @@
         "height": 92
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "baSKYjjkLQEsCrwgGb8iCX",
@@ -236,7 +257,7 @@
       "category": "Button",
       "filetype": ".png",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": "Styled Component"
     },
     {
@@ -249,8 +270,9 @@
         "height": 96
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "nXc4R8pZU3MdHsq3To25g7",
@@ -262,8 +284,9 @@
         "height": 86
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "Xd6SpXUfJ7Guiu9rn5gF7F",
@@ -275,8 +298,9 @@
         "height": 90
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "qSfVG35NYcSdBximp5LR75",
@@ -288,8 +312,9 @@
         "height": 84
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "cRsexcGquiDxPfBhG4wJbR",
@@ -302,8 +327,10 @@
       },
       "category": "Menu",
       "filetype": ".png",
-      "clientFacing": null,
-      "styleSource": ""
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "DP3ekXCLXvbNUa7TjaBFpM",
@@ -315,8 +342,9 @@
         "height": 118
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "Vb9JMVS3aPwgc2k6KKrZHU",
@@ -329,10 +357,11 @@
       },
       "category": "Button Group",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Styled Component"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "qGHMqr4uh6yKazeggds2ba",
@@ -344,8 +373,9 @@
         "height": 76
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": true,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "QMfwpWqZKjFvZNVjpBdQ86",
@@ -357,8 +387,9 @@
         "height": 80
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "67Qoquinew5Fm4BDm2EaYP",
@@ -371,7 +402,12 @@
       },
       "category": "Select",
       "filetype": ".png",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component",
+        "Pulse UI"
+      ]
     },
     {
       "id": "x54MDxR6pMKiAgVL9mnCo3",
@@ -383,8 +419,9 @@
         "height": 96
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Styled Component"
+      "clientFacing": true,
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "WxhQPcqCUmPTJhMF8BSeSR",
@@ -395,7 +432,13 @@
         "width": 1536,
         "height": 142
       },
-      "category": "Tabs"
+      "category": "Tabs",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "3Edn4kxUcsf3ZMJbzucYgd",
@@ -407,8 +450,9 @@
         "height": 82
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": true,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "CTJ53AJs8dKfDQiydRxrg7",
@@ -420,8 +464,9 @@
         "height": 86
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": true,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "t7N2tyr7DB9aKdK8GwQbGJ",
@@ -433,8 +478,9 @@
         "height": 108
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": true,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "epzXeQiV4zsC62yK6RypjA",
@@ -446,8 +492,9 @@
         "height": 102
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": false,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "iRp3VSGHTqxMHWubKbDzcr",
@@ -459,8 +506,9 @@
         "height": 78
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": false,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "dTYh9vGFjKJxeKPGJ8WvNb",
@@ -472,8 +520,9 @@
         "height": 96
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": false,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "7xGKQC8LtPZqAtCrnPAJwW",
@@ -487,7 +536,7 @@
       "category": "Button Group",
       "filetype": ".png",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Bootstrap"
       ]
@@ -504,9 +553,9 @@
       "category": "Button Group",
       "filetype": ".png",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
-        "Pulse UI"
+        "Bootstrap"
       ]
     },
     {
@@ -519,8 +568,9 @@
         "height": 74
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": true,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "vnUbvzAgod2D88Euaq35ZS",
@@ -532,8 +582,9 @@
         "height": 70
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": true,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "zrUuTx6qSPsrqeeGgKkaQ2",
@@ -545,8 +596,9 @@
         "height": 96
       },
       "category": "Button",
-      "clientFacing": null,
-      "styleSource": "Pulse UI"
+      "clientFacing": true,
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "U8eAk6Sn9S6VbxHDemdGEF",
@@ -558,11 +610,12 @@
         "height": 116
       },
       "category": "Button",
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI",
         "Bootstrap"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "Dw6P2BnLsqufLYfe9KCGP2",
@@ -575,7 +628,7 @@
       },
       "category": "Button",
       "filetype": ".png",
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI",
         "Bootstrap"
@@ -593,7 +646,7 @@
       "category": "Button",
       "filetype": ".png",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
       ]
@@ -610,7 +663,7 @@
       "category": "Button",
       "filetype": ".png",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI",
         "Bootstrap"
@@ -626,7 +679,12 @@
         "height": 86
       },
       "category": "Button Group",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "YUTX6YTmi7KaUVXY5qW7BA",
@@ -638,7 +696,12 @@
         "height": 106
       },
       "category": "Button Group",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "CgDRS6oEiJiQ82YJbPQZmd",
@@ -650,10 +713,11 @@
         "height": 92
       },
       "category": "Button",
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "S6b3qPvjKRBjqysuhRNhwR",
@@ -666,7 +730,11 @@
       },
       "category": "Menu",
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "roqAiK3XsY4bh8UieYQhH2",
@@ -680,7 +748,11 @@
       "category": "Menu",
       "filetype": ".png",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "hysVsASXNGscfZaJ4TmiUh",
@@ -693,7 +765,11 @@
       },
       "category": "Select",
       "filetype": ".png",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "uYVrxJUBTc4HyuWArsEu6B",
@@ -706,7 +782,12 @@
       },
       "category": "Select",
       "filetype": ".png",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less",
+        "Bootstrap"
+      ]
     },
     {
       "id": "k3jRp2uMaMnfDdyhq3paCt",
@@ -718,7 +799,12 @@
         "height": 76
       },
       "category": "Button Group",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "NTbDBsmz3dXK7qpXemfVzF",
@@ -730,7 +816,12 @@
         "height": 62
       },
       "category": "Button Group",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "ayeVKumisG7b7LqGQHWqKa",
@@ -742,32 +833,43 @@
         "height": 214
       },
       "category": "Card",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "KSKM3DPYw9AP8TBp6hT5V9",
       "name": "Grouped Select",
       "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
-      "description": "Initial Group selection dropdown\nReact Select",
+      "description": "Section: Configure Heatmap\nNotes: Initial Group selection dropdown\nReact Select",
       "dimensions": {
         "width": 3004,
         "height": 1100
       },
       "category": "Select",
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ]
     },
     {
       "id": "dKgnRxiwPt2f7hKgjtoMfk",
       "name": "Multi-select Dropdown",
       "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
-      "description": "Goal selector",
+      "description": "Edit Heatmap\nGoal selector",
       "dimensions": {
         "width": 3022,
         "height": 842
       },
       "category": "Select",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ]
     },
     {
       "id": "KurCNPcbhX5G3QbWvRcceC",
@@ -780,10 +882,11 @@
       },
       "category": "Button",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "UAW2YkdtRfQG9VJkdt4Sig",
@@ -795,10 +898,11 @@
         "height": 308
       },
       "category": "Button",
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "aVE6shqzmYq6oGmH3pcfSs",
@@ -810,10 +914,11 @@
         "height": 100
       },
       "category": "Button",
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "QoUMzjSrCDzSygg6nFQhid",
@@ -825,10 +930,11 @@
         "height": 110
       },
       "category": "Button",
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "8M37uKKMAQRRSqdZoDeBaL",
@@ -839,7 +945,13 @@
         "width": 3360,
         "height": 1696
       },
-      "category": "Overlay"
+      "category": "Overlay",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "zu6QjFWfGsbssrsriWnm54",
@@ -850,7 +962,13 @@
         "width": 1434,
         "height": 680
       },
-      "category": "Overlay"
+      "category": "Overlay",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "NPCVoVSYiVE75oahq7ogPq",
@@ -863,7 +981,12 @@
       },
       "category": "Tooltip",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "4L5St8JSgSoYhdLzAJ72tR",
@@ -876,7 +999,12 @@
       },
       "category": "Tooltip",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "qimpiASiHmhAoXbgKhvpyc",
@@ -889,7 +1017,10 @@
       },
       "category": "Multi Select",
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "fjp5rksvwE3F665fvhmmZr",
@@ -900,7 +1031,13 @@
         "width": 2478,
         "height": 222
       },
-      "category": "Pagination"
+      "category": "Pagination",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "3xsLH2BQybNvqwM8m53zs2",
@@ -913,7 +1050,11 @@
       },
       "category": "Select",
       "filetype": ".png",
-      "saving": true
+      "saving": true,
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "F7eYkTtX65vKvruHhd8b8q",
@@ -926,7 +1067,11 @@
       },
       "category": "Menu",
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "a62cLg6VsxL8LWh7fozKb7",
@@ -938,10 +1083,11 @@
         "height": 124
       },
       "category": "Button",
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "RJci7Q9bm9YwoVRrfGngRr",
@@ -953,10 +1099,11 @@
         "height": 104
       },
       "category": "Button",
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "pY2q8efwwV6UB5Qivt43kM",
@@ -968,7 +1115,12 @@
         "height": 72
       },
       "category": "Button Group",
-      "saving": false
+      "saving": false,
+      "clientFacing": false,
+      "styleSource": [
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "TKoGs52mXzDzrj6zrsEG4Y",
@@ -980,10 +1132,11 @@
         "height": 76
       },
       "category": "Button",
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "5LB2kmUfdx2G7dAYebsiZt",
@@ -995,10 +1148,11 @@
         "height": 78
       },
       "category": "Button",
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "Uo3HKvuc68ezRdU3Pfexec",
@@ -1011,7 +1165,11 @@
       },
       "category": "Tooltip",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": false,
+      "styleSource": [
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "dxM7w56g2HbBh4AJ68dyRS",
@@ -1025,7 +1183,10 @@
       "category": "Menu",
       "filetype": ".png",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ]
     },
     {
       "id": "RyejniSJzagdx6yHXwb9eu",
@@ -1039,7 +1200,10 @@
       "category": "Multi Select",
       "filetype": ".png",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "XtcvjBKnz8VJGjspALYuEp",
@@ -1052,7 +1216,11 @@
       },
       "category": "Multi Select",
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "aJyftdgmq9PrNbwhxyV8Tj",
@@ -1064,10 +1232,11 @@
         "height": 96
       },
       "category": "Button",
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Styled Component"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "p2ZB5ieghwABWNBzogxcyx",
@@ -1079,7 +1248,11 @@
         "height": 1188
       },
       "category": "List",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "n2AGFYeBkRMxsrnWtRnbnn",
@@ -1091,7 +1264,11 @@
         "height": 616
       },
       "category": "List",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "8ZdonecCsvbPH74PLAy4dg",
@@ -1103,7 +1280,11 @@
         "height": 562
       },
       "category": "List",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "Tq3tuQfKsush3aLVH4saPt",
@@ -1114,7 +1295,12 @@
         "width": 2744,
         "height": 1056
       },
-      "category": "List"
+      "category": "List",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "tm4unJijRnmMy2qubvkXsz",
@@ -1125,7 +1311,12 @@
         "width": 2592,
         "height": 1338
       },
-      "category": "List"
+      "category": "List",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "6gX9n4dxuL8PNZ4Yv7jijk",
@@ -1137,8 +1328,12 @@
         "height": 982
       },
       "category": "Item",
-      "clientFacing": null,
-      "styleSource": ""
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "FKTmG7AKyemm7d3Batfhzh",
@@ -1150,7 +1345,12 @@
         "height": 1424
       },
       "category": "Item",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "4ig7FDKmbVoVv6ANa7Tdsx",
@@ -1162,7 +1362,13 @@
         "height": 788
       },
       "category": "Table",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component",
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "mDskNR84trp7pUSXzNHbxP",
@@ -1174,7 +1380,13 @@
         "height": 1306
       },
       "category": "Table",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component",
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "6tiVwSp7shomnMsTtsmUyb",
@@ -1188,7 +1400,8 @@
       "category": "Accordions",
       "saving": false,
       "clientFacing": true,
-      "styleSource": "Pulse UI"
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "AcvzGN4q8uW5uVFbZCqdvi",
@@ -1199,7 +1412,12 @@
         "width": 846,
         "height": 880
       },
-      "category": "List"
+      "category": "List",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "htFBiaD57onM66XfuSCLik",
@@ -1212,11 +1430,12 @@
       },
       "category": "Button",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI",
         "In-product Less"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "HpFZnattYuuDfYpsVHFuvh",
@@ -1228,7 +1447,12 @@
         "height": 96
       },
       "category": "Select",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less"
+      ]
     },
     {
       "id": "TyoEPSQfKakVrqB75S3fiz",
@@ -1241,10 +1465,11 @@
       },
       "category": "Button",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "zA6mce2kHby6KoGD6NqFq6",
@@ -1256,7 +1481,12 @@
         "height": 772
       },
       "category": "Table",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "mkaA9BbLv4Pu3cqgVMGbDM",
@@ -1268,7 +1498,11 @@
         "height": 766
       },
       "category": "Select",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "rvb7hNfJ7uV3DZqZ4Pk33t",
@@ -1281,19 +1515,29 @@
       },
       "category": "Tooltip",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "oks9NnLAixobr87vkvdYNg",
       "name": "Bulk Register Attendance",
       "url": "https://pulse-staging.kickup.co/events/browse/KoSD6f8h5pdLykZtnmrNLR",
-      "description": "New style",
+      "description": "Section: Event Attendance ︙ => Bulk Register\nNotes: Newest style",
       "dimensions": {
         "width": 1420,
         "height": 736
       },
       "category": "Overlay",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "W7GaV4PnaFMPJGXXhwNQPs",
@@ -1305,7 +1549,11 @@
         "height": 172
       },
       "category": "Input",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "aMXFqfCwkYytcHN4J3mxtZ",
@@ -1318,19 +1566,28 @@
       },
       "category": "Rich Text",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "HajRupKA7UecSHmRjwmVkk",
       "name": "Confirm Attendance Modal",
-      "url": "https://pulse-staging.kickup.co/events/collection/create",
-      "description": "",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "Section: Actions Dropdown => Confirm Attendance",
       "dimensions": {
         "width": 1386,
         "height": 590
       },
       "category": "Overlay",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "7jPCUYiVvvn3sykV7qDv5S",
@@ -1342,7 +1599,12 @@
         "height": 86
       },
       "category": "Radio Button",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "YSYqsR28NcARxFNnc497Ex",
@@ -1354,7 +1616,12 @@
         "height": 892
       },
       "category": "List",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "---"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "vpniQkjQ2J4wKukrGuoybm",
@@ -1366,7 +1633,12 @@
         "height": 426
       },
       "category": "Checkbox",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "ZrqivHyb5XmtRjXRoEHhtr",
@@ -1378,7 +1650,12 @@
         "height": 1360
       },
       "category": "Table",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "qHC9fgpZ8Fha4CCfYxGCvh",
@@ -1391,7 +1668,10 @@
       },
       "category": "Calendar",
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ]
     },
     {
       "id": "iPNLjS3Rzm3jdasJaKA3V7",
@@ -1404,19 +1684,30 @@
       },
       "category": "Rich Text",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less",
+        "Summer Note"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "oAqghJB3hwak3GtbBmYb8f",
       "name": "Column Selector",
       "url": "https://pulse-staging.kickup.co/reports/manage/22/edit",
-      "description": "",
+      "description": "Section: Edit All Table Widget",
       "dimensions": {
         "width": 2354,
         "height": 396
       },
-      "category": "Other",
-      "saving": false
+      "category": "Select",
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "TimiDTZwvA7dBhkHnLugrN",
@@ -1428,7 +1719,12 @@
         "height": 264
       },
       "category": "Table",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "uzRJRWatbjD6ps2njpTTZM",
@@ -1440,7 +1736,12 @@
         "height": 1034
       },
       "category": "Overlay",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "hNL4aCxtFo5YZ8B6fD6ddE",
@@ -1454,7 +1755,10 @@
       "category": "Calendar",
       "saving": false,
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "aHSYACHWAB4fkmSBKG5GyA",
@@ -1468,7 +1772,8 @@
       "category": "Accordions",
       "saving": false,
       "clientFacing": true,
-      "styleSource": "Styled Component"
+      "styleSource": "Styled Component",
+      "filetype": ".png"
     },
     {
       "id": "8Tz5n4BfNcgf7Mtbvsat3g",
@@ -1481,7 +1786,11 @@
       },
       "category": "Button Group",
       "saving": false,
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "fyLT2ApMXJsTANbencs3iX",
@@ -1493,7 +1802,13 @@
         "height": 1030
       },
       "category": "Table",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "e93U7Aa4Buzz62YegnWUzF",
@@ -1505,7 +1820,12 @@
         "height": 822
       },
       "category": "Table",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "kVjL6B9nVEqxubzZ4TCaDa",
@@ -1517,7 +1837,12 @@
         "height": 858
       },
       "category": "List",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "FDhQF7ZR5YsysbToLD6ps2",
@@ -1529,7 +1854,12 @@
         "height": 1750
       },
       "category": "Overlay",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "86RXAPNH67hTY4a72qCeZA",
@@ -1541,7 +1871,12 @@
         "height": 360
       },
       "category": "Table",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "TBNmS4yhKdhy4zfWVtzdjq",
@@ -1552,22 +1887,29 @@
         "width": 816,
         "height": 670
       },
-      "category": "Other",
+      "category": "Menu",
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "Hykwf7yU4LYFisN87a9yvv",
       "name": "Opened & Last Activity",
       "url": "https://pulse-staging.kickup.co/",
-      "description": "From: Recently Active Reports\nIncludes label",
+      "description": "Section: Recently Active Reports\nNotes: Includes label",
       "dimensions": {
         "width": 410,
         "height": 92
       },
       "category": "Metadata",
       "saving": false,
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "sBhHKLyCxk7KsqehTKc8hV",
@@ -1580,7 +1922,11 @@
       },
       "category": "Metadata",
       "saving": false,
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "mu3dyxcQRsYBqZu88k7iar",
@@ -1594,7 +1940,10 @@
       "category": "Metadata",
       "saving": false,
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "rhfDHZ5ato5MPqjDafugEQ",
@@ -1607,7 +1956,11 @@
       },
       "category": "Metadata",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "78fyajhrtqUePfnxgE68wn",
@@ -1619,7 +1972,12 @@
         "height": 176
       },
       "category": "Subheader",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less"
+      ]
     },
     {
       "id": "TsuFzNwMypWR5zd9nnc5z2",
@@ -1631,7 +1989,12 @@
         "height": 48
       },
       "category": "Metadata",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "c3XiYMjGkJNsaBe4cCwBTe",
@@ -1643,7 +2006,12 @@
         "height": 80
       },
       "category": "Metadata",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "9uTDzfvaycwRfwe2t9T3WV",
@@ -1655,7 +2023,11 @@
         "height": 106
       },
       "category": "Subheader",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "478TamXFgiiCmuN9nazaf9",
@@ -1666,8 +2038,12 @@
         "width": 450,
         "height": 458
       },
-      "category": "Other",
-      "filetype": ".png"
+      "category": "Calendar",
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "9UNu5aty5BtwvkgvFXh4G5",
@@ -1679,7 +2055,12 @@
         "height": 268
       },
       "category": "Button Group",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "754hqCBmfGgF7LghTHWvsX",
@@ -1691,7 +2072,12 @@
         "height": 264
       },
       "category": "Button Group",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "H5b2zd7zvQmFCyhHMdDzJS",
@@ -1703,7 +2089,12 @@
         "height": 48
       },
       "category": "Metadata",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "UHHixNNvLfYqr699sJ48ZY",
@@ -1716,10 +2107,11 @@
       },
       "category": "Button",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Styled Component"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "Vu85Mu9XuXuSQPH9VLD2ey",
@@ -1732,7 +2124,11 @@
       },
       "category": "Table",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "uQiWjbbk2HYqqWRr84VWR6",
@@ -1745,7 +2141,12 @@
       },
       "category": "Search",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component",
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "zPTbWLgd4GnSL7NRV9BbNi",
@@ -1757,7 +2158,12 @@
         "height": 1314
       },
       "category": "Search",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "JrxBhfrcd2cnd7JNbfKGqu",
@@ -1770,7 +2176,10 @@
       },
       "category": "Calendar",
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "iGYfiupKU9BaDcYMqswMjr",
@@ -1782,7 +2191,13 @@
         "height": 822
       },
       "category": "Search",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component",
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "nzZ6H5oGDoeazZhks53vFF",
@@ -1794,7 +2209,12 @@
         "height": 92
       },
       "category": "Search",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "3XbLP49QjREZopiMf6U8oC",
@@ -1807,7 +2227,11 @@
       },
       "category": "Empty State",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "bv8fNmzTmAJPCktn2MxcaZ",
@@ -1819,7 +2243,11 @@
         "height": 74
       },
       "category": "Checkbox",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "EiHqGqZH5EYi2ZaqAZ7wUr",
@@ -1832,7 +2260,12 @@
       },
       "category": "Tags",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component",
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "ZFAX2hj49PBuKknma3UpbR",
@@ -1844,7 +2277,13 @@
         "height": 70
       },
       "category": "Text",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "6LZuKF5MK5RdfwhdjCfNzQ",
@@ -1857,7 +2296,11 @@
       },
       "category": "Tags",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "7EXD6ejaCRdyAKe3ERx384",
@@ -1869,7 +2312,11 @@
         "height": 84
       },
       "category": "Subheader",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "psn9mwkX5z4k2KHhKMJKCU",
@@ -1882,7 +2329,11 @@
       },
       "category": "Empty State",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "jzeQcbjGZyYDwSjTZVp65p",
@@ -1895,7 +2346,10 @@
       },
       "category": "Subheader",
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "jwV67dhm6swrP99qw73tWt",
@@ -1908,7 +2362,11 @@
       },
       "category": "Subheader",
       "filetype": ".png",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "iGaB3u8nv6KqzZs5goRCut",
@@ -1921,7 +2379,11 @@
       },
       "category": "Metadata",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "NknCPHoVChtJrnodGQrA4Y",
@@ -1934,10 +2396,11 @@
       },
       "category": "Button Group",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "t8qabHj8xid24abonceq2b",
@@ -1949,7 +2412,11 @@
         "height": 130
       },
       "category": "Header",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "6s6cnCdyV9UcSNuWXQCJ5E",
@@ -1961,7 +2428,12 @@
         "height": 82
       },
       "category": "Other",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "Bi9bvK4r2Ye7v9a7EaJ8Fi",
@@ -1973,19 +2445,30 @@
         "height": 68
       },
       "category": "Other",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "ind7eahF2fd4urNoo5jefS",
       "name": "Data Filters",
       "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
-      "description": "",
+      "description": "Section: Under each widget",
       "dimensions": {
         "width": 1438,
         "height": 304
       },
       "category": "List",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "ooknXQ9c2QoVUnXopDABbF",
@@ -1998,23 +2481,28 @@
       },
       "category": "Button Group",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "GbYa4iXWm6HK5duPZJPjaH",
-      "name": "Share Report User List",
+      "name": "Empty User List",
       "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
-      "description": "",
+      "description": "Section: Share Report > Share with Specific Users and Groups",
       "dimensions": {
         "width": 230,
         "height": 46
       },
       "category": "Empty State",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "uipepvtYZBVkckuT5MVNVA",
@@ -2027,7 +2515,11 @@
       },
       "category": "Search",
       "filetype": ".png",
-      "clientFacing": null
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "Faq8FVLb3SsC6kJWZ2L9vS",
@@ -2041,7 +2533,7 @@
       "category": "Button",
       "filetype": ".png",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI"
       ]
@@ -2055,7 +2547,12 @@
         "width": 2684,
         "height": 1004
       },
-      "category": "Table"
+      "category": "Table",
+      "clientFacing": false,
+      "styleSource": [
+        "In-product Less"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "Mzr4UZvgZrgdrzSJUvt6xt",
@@ -2067,7 +2564,11 @@
         "height": 176
       },
       "category": "Message",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "vXgPqcPV5PvgNhMf9pHR67",
@@ -2080,7 +2581,12 @@
       },
       "category": "Metadata",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "x7Q9xCz6jFZSnrsxPV2x4T",
@@ -2093,7 +2599,12 @@
       },
       "category": "Metadata",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "zXKe7Gp7Spe4rwWcgdvq9g",
@@ -2106,10 +2617,11 @@
       },
       "category": "Button",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "v6smt4n2K3npsot7ZdqY2M",
@@ -2122,10 +2634,11 @@
       },
       "category": "Button",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "t2fn57VGzmgA8QvmKBWaAj",
@@ -2138,11 +2651,12 @@
       },
       "category": "Button",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI",
         "Bootstrap"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "kZbcASyfWphQordpPf5xXy",
@@ -2156,7 +2670,8 @@
       "category": "Accordions",
       "saving": false,
       "clientFacing": false,
-      "styleSource": "Pulse UI"
+      "styleSource": "Pulse UI",
+      "filetype": ".png"
     },
     {
       "id": "4fYspdAujsfRLjP39iwm6g",
@@ -2168,7 +2683,13 @@
         "height": 418
       },
       "category": "Text",
-      "saving": false
+      "saving": false,
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "vKUtvVDEaHFHEhS8oY9CaZ",
@@ -2180,19 +2701,29 @@
         "height": 162
       },
       "category": "Input",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "LU6n5h99os9xVj3evCB93Q",
       "name": "District Dropdown Options",
       "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
-      "description": "",
+      "description": "Section: Edit Details",
       "dimensions": {
         "width": 1528,
         "height": 1950
       },
       "category": "Select",
-      "saving": true
+      "saving": true,
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "4Q44GAgdkt898uF2yn9wou",
@@ -2205,19 +2736,29 @@
       },
       "category": "Multi Select",
       "saving": true,
-      "clientFacing": false
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "LpTM6mfk6WVmHyJb8PaSRL",
       "name": "Checkbox item",
       "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
-      "description": "",
+      "description": "Section: Edit Details",
       "dimensions": {
         "width": 152,
         "height": 60
       },
       "category": "Checkbox",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "YjSYjhqNmHXHqdFnvi3pKd",
@@ -2230,7 +2771,7 @@
       },
       "category": "Button Group",
       "filetype": ".png",
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Bootstrap"
       ]
@@ -2246,7 +2787,11 @@
       },
       "category": "Select",
       "saving": false,
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "ZuMJjVmki6x4dTZQ6mGUSA",
@@ -2257,8 +2802,14 @@
         "width": 2264,
         "height": 200
       },
-      "category": "Form",
-      "saving": false
+      "category": "Number",
+      "saving": false,
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "wB2RoiM8T9PB2CQ6i4Hkod",
@@ -2271,10 +2822,11 @@
       },
       "category": "Button Group",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "bscCpUGwRjrR3dTCJp9Tfn",
@@ -2287,7 +2839,12 @@
       },
       "category": "List",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "EQfTwKRa9zBcNaG8z9rJkm",
@@ -2300,10 +2857,11 @@
       },
       "category": "Button",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "58ad62opLkFNHpb9oQ6RZm",
@@ -2316,7 +2874,12 @@
       },
       "category": "Textarea",
       "saving": false,
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "rquSsABoHRr7LuDGUX4Kk9",
@@ -2329,10 +2892,11 @@
       },
       "category": "Button Group",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "oHyrQw6c8Mho4bk7bojTjj",
@@ -2344,7 +2908,13 @@
         "height": 1214
       },
       "category": "Table",
-      "saving": false
+      "saving": false,
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "Gr38q3AykN3NYB3dp42tzc",
@@ -2357,7 +2927,7 @@
       },
       "category": "Button",
       "filetype": ".png",
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Bootstrap"
       ]
@@ -2372,7 +2942,11 @@
         "height": 174
       },
       "category": "Select",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": false,
+      "styleSource": [
+        "Bootstrap"
+      ]
     },
     {
       "id": "qKDs5i4hP3RFzpv92us4Xx",
@@ -2385,10 +2959,11 @@
       },
       "category": "Button",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Pulse UI"
-      ]
+      ],
+      "filetype": ".png"
     },
     {
       "id": "YxBPAsqJmXdkXw92Enoxtt",
@@ -2400,18 +2975,29 @@
         "height": 1716
       },
       "category": "List",
-      "saving": true
+      "saving": true,
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "kVLyo8fr3W6pi8dvYrZcK7",
       "name": "Label + Icon",
       "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
-      "description": "",
+      "description": "Section: Response Processor List",
       "dimensions": {
         "width": 180,
         "height": 52
       },
-      "category": "Metadata"
+      "category": "Metadata",
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "KiqRVhtugLzu4DYNo4giqF",
@@ -2424,7 +3010,12 @@
       },
       "category": "Radio Button",
       "filetype": ".png",
-      "saving": false
+      "saving": false,
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "8hgWai5UoyinUM5kmRovmt",
@@ -2436,7 +3027,11 @@
         "height": 146
       },
       "category": "Message",
-      "filetype": ".png"
+      "filetype": ".png",
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "F8m3Sk9QEwD3omTFmj77K8",
@@ -2450,7 +3045,8 @@
       "category": "Badge",
       "saving": false,
       "clientFacing": false,
-      "styleSource": "In-product Less"
+      "styleSource": "In-product Less",
+      "filetype": ".png"
     },
     {
       "id": "vV7ouQEgBg72HqktfoXnkf",
@@ -2464,7 +3060,8 @@
       "category": "Badge",
       "saving": false,
       "clientFacing": false,
-      "styleSource": "In-product Less"
+      "styleSource": "In-product Less",
+      "filetype": ".png"
     },
     {
       "id": "j5wtadRTeWr9uo2Ppe79JD",
@@ -2478,7 +3075,8 @@
       "category": "Badge",
       "saving": false,
       "clientFacing": false,
-      "styleSource": "In-product Less"
+      "styleSource": "In-product Less",
+      "filetype": ".png"
     },
     {
       "id": "n6AdWuQS3qghRcTGYrfyxw",
@@ -2490,7 +3088,12 @@
         "height": 1458
       },
       "category": "Tooltip",
-      "clientFacing": null
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ],
+      "filetype": ".png"
     },
     {
       "id": "Yifj4EYqKSra6VhyhKpatW",
@@ -2502,7 +3105,13 @@
         "height": 602
       },
       "filetype": ".png",
-      "category": "Overlay"
+      "category": "Overlay",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less",
+        "Bootstrap"
+      ]
     },
     {
       "id": "BnrYofYZ688TaNJ9j9VNre",
@@ -2514,7 +3123,11 @@
         "height": 324
       },
       "filetype": ".gif",
-      "category": "Motion"
+      "category": "Motion",
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "MqG3WrL89VhbEs3iZSMY4e",
@@ -2527,7 +3140,11 @@
       },
       "filetype": ".gif",
       "category": "Motion",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "rAW7MV6EKyqjqochYoRYon",
@@ -2540,7 +3157,11 @@
       },
       "filetype": ".gif",
       "category": "Motion",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "s4hZ9GekTP2hdCvYuHCg2n",
@@ -2553,7 +3174,12 @@
       },
       "filetype": ".gif",
       "category": "Motion",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "N/A",
+        "In-product Less"
+      ]
     },
     {
       "id": "arit5DtJCewqX8JNsRfdmC",
@@ -2566,7 +3192,11 @@
       },
       "filetype": ".png",
       "category": "Pagination",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "wuTWammDGPZNYz5XhhQrzN",
@@ -2579,20 +3209,29 @@
       },
       "filetype": ".png",
       "category": "Overlay",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "w3A2iKW9tefB9DtLLqH5hz",
       "name": "Alternating Selectable List",
       "url": "https://pulse-staging.kickup.co/directory/people",
-      "description": "",
+      "description": "Section: Bulk Groups Edit Modal",
       "dimensions": {
         "width": 1346,
         "height": 656
       },
       "filetype": ".png",
       "category": "List",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "xoMFYnjg8LnGkdsducHqHg",
@@ -2606,7 +3245,7 @@
       "filetype": ".png",
       "category": "Button Group",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "In-product Less"
       ]
@@ -2621,7 +3260,12 @@
         "height": 920
       },
       "filetype": ".png",
-      "category": "Overlay"
+      "category": "Overlay",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "wWNq64uZjy726Kpuv9E6CD",
@@ -2634,7 +3278,13 @@
       },
       "filetype": ".png",
       "category": "Tabs",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap",
+        "Styled Component"
+      ]
     },
     {
       "id": "cvja7fijuq7S3oPqT4uUtE",
@@ -2648,7 +3298,7 @@
       "filetype": ".png",
       "category": "Button Group",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Bootstrap"
       ]
@@ -2665,7 +3315,10 @@
       "filetype": ".png",
       "category": "Message",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "FmhLQezyj5PTaZhZ2ooCDq",
@@ -2678,7 +3331,11 @@
       },
       "filetype": ".png",
       "category": "Input",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "BkqEmnnbq2ghanrQEp6E7r",
@@ -2691,7 +3348,11 @@
       },
       "filetype": ".png",
       "category": "Header",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "Xf7w393WTuejsKDoRbN4rj",
@@ -2705,7 +3366,7 @@
       "filetype": ".png",
       "category": "Button Group",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
       ]
@@ -2720,7 +3381,12 @@
         "height": 144
       },
       "filetype": ".png",
-      "category": "Header"
+      "category": "Header",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "52vKsoy9BqNsTtgGp8sNoa",
@@ -2733,7 +3399,11 @@
       },
       "filetype": ".gif",
       "category": "Motion",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "omnEeVmvuv6dLdFFTkikgP",
@@ -2746,7 +3416,11 @@
       },
       "filetype": ".png",
       "category": "Tabs",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ]
     },
     {
       "id": "A7LhHdXt5M7LAfZ5dfAcxc",
@@ -2759,7 +3433,12 @@
       },
       "filetype": ".png",
       "category": "Text",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "vkH4uHDW5Reu4pHbCvpgtT",
@@ -2771,7 +3450,11 @@
         "height": 76
       },
       "filetype": ".png",
-      "category": "Subheader"
+      "category": "Subheader",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "rMAiheDH3iB7UMnXHvXdDu",
@@ -2800,7 +3483,7 @@
       "filetype": ".png",
       "category": "Accordions",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": "Pulse UI"
     },
     {
@@ -2815,7 +3498,10 @@
       "filetype": ".png",
       "category": "List",
       "saving": false,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "gF7urkqbcLM8wMyPDpXofa",
@@ -2829,7 +3515,7 @@
       "filetype": ".png",
       "category": "Button",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
       ]
@@ -2846,7 +3532,10 @@
       "filetype": ".png",
       "category": "Checkbox",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "qgdtsoiZc4AosNcbHuuAQr",
@@ -2860,20 +3549,27 @@
       "filetype": ".png",
       "category": "Checkbox",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "qCm7pyhhF9i7MZcL6stg67",
       "name": "Widget Subheader",
       "url": "https://pulse-staging.kickup.co/reports/786#Reactions%20%20Learnings",
-      "description": "",
+      "description": "Section: Open Response Trends Header",
       "dimensions": {
         "width": 176,
         "height": 54
       },
       "filetype": ".png",
       "category": "Text",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "Y58vfN9miohPBfDJnp6mDH",
@@ -2885,7 +3581,11 @@
         "height": 50
       },
       "filetype": ".png",
-      "category": "Link"
+      "category": "Link",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "ZmbmruqBnqqmFG7o9VU53Q",
@@ -2898,7 +3598,11 @@
       },
       "filetype": ".png",
       "category": "Text",
-      "saving": false
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "e79xZRUh5obrcsdrp2wdXC",
@@ -2911,7 +3615,11 @@
       },
       "filetype": ".png",
       "category": "Overlay",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "H6qmXLL7G3qwYXdQaoXkbg",
@@ -2925,7 +3633,10 @@
       "filetype": ".png",
       "category": "Other",
       "saving": true,
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "jJw4e4SAbZdmHLgU7grxkU",
@@ -2939,7 +3650,7 @@
       "filetype": ".png",
       "category": "Button Group",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
       ]
@@ -2955,7 +3666,11 @@
       },
       "filetype": ".png",
       "category": "List",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "oiCR5tzeJQ3uT2dfKG8yee",
@@ -2968,7 +3683,11 @@
       },
       "filetype": ".png",
       "category": "List",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "cRcFCSjr3ox4vhqaYmWdUF",
@@ -2982,7 +3701,7 @@
       "filetype": ".png",
       "category": "Button Group",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
       ]
@@ -2999,7 +3718,11 @@
       "filetype": ".png",
       "category": "Select",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "aE5NtwcDiSpZoATjgFbCcS",
@@ -3012,7 +3735,10 @@
       },
       "filetype": ".png",
       "category": "Header",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "2o9TcT3ukRHYa5ggqvEaAX",
@@ -3026,7 +3752,10 @@
       "filetype": ".png",
       "category": "Empty State",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "Pnsq2QdwqFfVRokVd6ioHC",
@@ -3040,7 +3769,10 @@
       "filetype": ".png",
       "category": "Upload",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "GCuvj2NjC48QiqNJx8QjGK",
@@ -3054,13 +3786,16 @@
       "filetype": ".png",
       "category": "Input",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "5UYv2i9sARDbYuxEkBk3J8",
       "name": "Outline Checkbox",
       "url": "https://pulse-staging.kickup.co/reports/manage/786/edit",
-      "description": "{section: \"Configure Settings\"}",
+      "description": "{section: \"Configure Report Content/Edit Heatmap Widget/Configure Settings\"}",
       "dimensions": {
         "width": 416,
         "height": 48
@@ -3068,13 +3803,16 @@
       "filetype": ".png",
       "category": "Checkbox",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "kFRduqqjy8d6Mp2gjqPnkb",
       "name": "Outline Checkbox - Selected",
       "url": "https://pulse-staging.kickup.co/reports/manage/786/edit",
-      "description": "{section: \"Configure Settings\"}",
+      "description": "https://pulse-staging.kickup.co/reports/manage/786/edit",
       "dimensions": {
         "width": 406,
         "height": 52
@@ -3082,7 +3820,10 @@
       "filetype": ".png",
       "category": "Checkbox",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "queVrUDotYc2CLVzjQqEoi",
@@ -3096,7 +3837,7 @@
       "filetype": ".png",
       "category": "Button Group",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Pulse UI"
       ]
@@ -3113,7 +3854,7 @@
       "filetype": ".png",
       "category": "Button Group",
       "saving": true,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Styled Component"
       ]
@@ -3130,7 +3871,10 @@
       "filetype": ".png",
       "category": "Select",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "kExrdo4E63Qe2S72Qv8BVt",
@@ -3142,9 +3886,12 @@
         "height": 1052
       },
       "filetype": ".png",
-      "category": "Other",
+      "category": "Select",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "DvCNC27fqvwsTztn3evqbF",
@@ -3158,7 +3905,10 @@
       "filetype": ".png",
       "category": "Metadata",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "6MzL3DkrhSyw5iQgyDSXGF",
@@ -3171,7 +3921,11 @@
       },
       "filetype": ".png",
       "category": "List",
-      "saving": true
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "NqZ2aqd3V8LMDgi29Q7ghv",
@@ -3185,7 +3939,7 @@
       "filetype": ".png",
       "category": "Button Group",
       "saving": false,
-      "clientFacing": null,
+      "clientFacing": true,
       "styleSource": [
         "Styled Component"
       ]
@@ -3194,7 +3948,7 @@
       "id": "7ndDLwZqPURAYas7LrTsys",
       "name": "Storybook Danger Modal",
       "url": "http://kickup-styleguide.s3-website-us-east-1.amazonaws.com/master/?selectedKind=button.BackButton&selectedStory=Default&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel",
-      "description": "",
+      "description": "Section: menu.ListMenu > With confirmation modal",
       "dimensions": {
         "width": 1252,
         "height": 386
@@ -3202,7 +3956,10 @@
       "filetype": ".png",
       "category": "Overlay",
       "saving": false,
-      "clientFacing": false
+      "clientFacing": false,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "pdLdAibFJjvoKzqmQn67NC",
@@ -3216,7 +3973,12 @@
       "filetype": ".png",
       "category": "Data",
       "saving": true,
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less",
+        "Bootstrap"
+      ]
     },
     {
       "id": "qZDinFbqNZd394NZRdL3SN",
@@ -3230,7 +3992,12 @@
       "filetype": ".png",
       "category": "Data",
       "saving": false,
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less",
+        "Bootstrap"
+      ]
     },
     {
       "id": "wwQNRbLS5tVQf9SWhFssyj",
@@ -3244,7 +4011,10 @@
       "filetype": ".png",
       "category": "Data",
       "saving": true,
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "bftWgHsQzcnhTwZhVgmc45",
@@ -3258,7 +4028,10 @@
       "filetype": ".png",
       "category": "Multi Select",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "26egJKSdeUkNZJpA6mnctt",
@@ -3272,7 +4045,10 @@
       "filetype": ".png",
       "category": "Checkbox",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "a4fkPdgFQZi8Vbmxwkgriy",
@@ -3285,7 +4061,10 @@
       },
       "filetype": ".png",
       "category": "Checkbox",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "bDJuhV7eB5Bx667AZiVrpm",
@@ -3299,13 +4078,16 @@
       "filetype": ".png",
       "category": "Input",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "4CdKdnwe49sKXKiwti3HSa",
       "name": "Inline- Info Message",
       "url": "https://pulse-staging.kickup.co/reports/1803",
-      "description": "{section: \"Edit Tags Modal\"}",
+      "description": "{section: \"Edit Tags Modal\"}\nMust select 2 items from the list",
       "dimensions": {
         "width": 646,
         "height": 52
@@ -3313,7 +4095,10 @@
       "filetype": ".png",
       "category": "Message",
       "saving": true,
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "f2RsPgLZVhNZY9Fe63H5SX",
@@ -3326,20 +4111,26 @@
       },
       "filetype": ".png",
       "category": "Multi Select",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "LGEBC2t9oZa6bm4hv6x2Rz",
       "name": "Removable Tag",
       "url": "https://pulse-staging.kickup.co/reports/manage/1669/edit",
-      "description": "",
+      "description": "Section: Anonymize Report",
       "dimensions": {
         "width": 368,
         "height": 92
       },
       "filetype": ".png",
       "category": "Tags",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "C778hbifAJShLormRTt8dM",
@@ -3352,7 +4143,10 @@
       },
       "filetype": ".png",
       "category": "Message",
-      "clientFacing": null
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "sc6jqxvqacB9qfi8n2KiTD",
@@ -3365,7 +4159,10 @@
       },
       "filetype": ".png",
       "category": "Upload",
-      "clientFacing": null
+      "clientFacing": false,
+      "styleSource": [
+        "Bootstrap"
+      ]
     },
     {
       "id": "EcDHZAp3VsUqLwebrq8qoQ",
@@ -3378,7 +4175,7 @@
       },
       "filetype": ".png",
       "category": "Button Group",
-      "clientFacing": null,
+      "clientFacing": false,
       "styleSource": [
         "Bootstrap"
       ]
@@ -3394,7 +4191,12 @@
       },
       "filetype": ".png",
       "category": "Data",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less",
+        "Bootstrap"
+      ]
     },
     {
       "id": "iBCq8boaCUxzXscyTTtLKu",
@@ -3407,7 +4209,10 @@
       },
       "filetype": ".png",
       "category": "Data",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "XFYdbqMEgDty6KmtQinytZ",
@@ -3420,7 +4225,10 @@
       },
       "filetype": ".png",
       "category": "Data",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "GR6gCZRkfXfzqSh8fXbFt9",
@@ -3449,7 +4257,10 @@
       },
       "filetype": ".png",
       "category": "Data",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "QFtZMZsr98gEzoCeQRor4x",
@@ -3462,7 +4273,10 @@
       },
       "filetype": ".png",
       "category": "Data",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "P6ujhE6Dur6DsyGfWn9A6q",
@@ -3521,7 +4335,10 @@
       },
       "filetype": ".png",
       "category": "Text",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "u4RoxFd7SaquEaVAL7sGe2",
@@ -3534,7 +4351,10 @@
       },
       "filetype": ".png",
       "category": "List",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "chpPtd4Ao6SRkmQGPYt2cM",
@@ -3547,7 +4367,10 @@
       },
       "filetype": ".png",
       "category": "Overlay",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "qCGFEFKELroyPABV5zQYdT",
@@ -3560,7 +4383,10 @@
       },
       "filetype": ".png",
       "category": "Text",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "nqa9YKWEn3chNjhVJzHrg6",
@@ -3573,20 +4399,27 @@
       },
       "filetype": ".png",
       "category": "Text",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "4YBcw3fCg4jmZF5xquz6ag",
       "name": "Icon + Text",
       "url": "https://pulse-staging.kickup.co/reports/1281#2%20PL%20Plan%20Trends",
-      "description": "Multiple Choice Question",
+      "description": "Section: Multiple Choice Question",
       "dimensions": {
         "width": 242,
         "height": 62
       },
       "filetype": ".png",
       "category": "Link",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "eaEg92UF4AVBoKDy2touNa",
@@ -3599,7 +4432,10 @@
       },
       "filetype": ".png",
       "category": "Metadata",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "9QLoh6ayNmthgeWcAV67Tg",
@@ -3612,7 +4448,10 @@
       },
       "filetype": ".png",
       "category": "Data",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "G2NXYYT3hK6J766gHpsYEw",
@@ -3625,7 +4464,10 @@
       },
       "filetype": ".png",
       "category": "Data",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "ry8FhbmfvjyqGfZJMpJ5F7",
@@ -3638,7 +4480,10 @@
       },
       "filetype": ".png",
       "category": "Data",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "nSWJxmzrt8afuCYsciaiRz",
@@ -3651,20 +4496,26 @@
       },
       "filetype": ".png",
       "category": "Calendar",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ]
     },
     {
       "id": "ZLyp9rZiHTcFCNhtJXJyJC",
       "name": "Grouped Dropdown",
       "url": "https://pulse-staging.kickup.co/reports/1893#Assessing%20Impact",
-      "description": "",
+      "description": "Section: Segmented Total Widget",
       "dimensions": {
         "width": 2518,
         "height": 774
       },
       "filetype": ".png",
       "category": "Select",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "E6GD6iH2fCPWAbtQQrVJLc",
@@ -3693,7 +4544,10 @@
       },
       "filetype": ".png",
       "category": "List",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "wMfMcV7Pb7V3HsmtTKhWRg",
@@ -3706,7 +4560,10 @@
       },
       "filetype": ".png",
       "category": "List",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "CJYzyf22sFiYwkEdocNqgr",
@@ -3761,7 +4618,10 @@
       },
       "filetype": ".png",
       "category": "Data",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "8zFJmPcqcyoan2HrdnojDw",
@@ -3774,7 +4634,11 @@
       },
       "filetype": ".png",
       "category": "Table",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less",
+        "Bootstrap"
+      ]
     },
     {
       "id": "djatGEaRKPyvKzzjcF2cox",
@@ -3787,7 +4651,11 @@
       },
       "filetype": ".png",
       "category": "Tabs",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less"
+      ]
     },
     {
       "id": "mWEDPJFxW2QLivBqoxGXQy",
@@ -3800,7 +4668,10 @@
       },
       "filetype": ".png",
       "category": "Cell",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "32WA9sJmNnUECinfvMDbsn",
@@ -3813,7 +4684,11 @@
       },
       "filetype": ".png",
       "category": "Overlay",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less"
+      ]
     },
     {
       "id": "XMQtuBtT2ggkepb7shi2gV",
@@ -3826,7 +4701,10 @@
       },
       "filetype": ".png",
       "category": "Message",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "Ai2WEW4nRcgZpdXLd5MiDv",
@@ -3839,7 +4717,10 @@
       },
       "filetype": ".png",
       "category": "Select",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "MZJikun6kHk3hRvKeWoFyn",
@@ -3852,7 +4733,10 @@
       },
       "filetype": ".png",
       "category": "Select",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "TPM9NfBqgnWuVRocYLpHp7",
@@ -3864,8 +4748,11 @@
         "height": 82
       },
       "filetype": ".png",
-      "category": "Form",
-      "clientFacing": true
+      "category": "Select",
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "6bmtBjWeiocqG83ChXiw35",
@@ -3878,7 +4765,10 @@
       },
       "filetype": ".png",
       "category": "Select",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "jQGKMUeDQyjS9huyKbGgy7",
@@ -3891,7 +4781,10 @@
       },
       "filetype": ".png",
       "category": "Container",
-      "clientFacing": false
+      "clientFacing": false,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "v7YLFDXzRTnbtamdtQH6ba",
@@ -3918,7 +4811,10 @@
       },
       "filetype": ".png",
       "category": "Cell",
-      "clientFacing": false
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "QyUCjYBKsiLtXnq8ycsnkq",
@@ -3931,7 +4827,11 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": null
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less"
+      ]
     },
     {
       "id": "FdVvWQXStKrEh2h4rHfV69",
@@ -3944,12 +4844,15 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
     },
     {
       "id": "KnhunuyfWrbeacmgiSfgZW",
       "name": "Gray on White",
-      "url": "https://pulse-staging.kickup.co",
+      "url": "https://pulse-staging.kickup.co/",
       "description": "",
       "dimensions": {
         "width": 74,
@@ -3957,7 +4860,11 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "N/A",
+        "In-product Less"
+      ]
     },
     {
       "id": "tUvUtACD5QX3PiApnTHtDi",
@@ -3970,12 +4877,16 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "N/A",
+        "In-product Less"
+      ]
     },
     {
       "id": "7nuEDGKvaotXnVjiuTaJMP",
       "name": "Dark Gray on White",
-      "url": "https://pulse-staging.kickup.co",
+      "url": "https://pulse-staging.kickup.co/",
       "description": "{section:\"Recent reports header icon\"}",
       "dimensions": {
         "width": 44,
@@ -3983,20 +4894,10 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": null
-    },
-    {
-      "id": "KfjQT9PmphMK5UezXBmbZr",
-      "name": "Light Gray on White",
-      "url": "https://pulse-staging.kickup.co",
-      "description": "",
-      "dimensions": {
-        "width": 116,
-        "height": 142
-      },
-      "filetype": ".png",
-      "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "CrgJ9u9PXBaNfcxWS6dkKf",
@@ -4009,7 +4910,10 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "dZtGJiNpgWD8Ub5AUfqzyP",
@@ -4022,7 +4926,10 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "kaYBiCBgDsQsjRhApJbGwu",
@@ -4035,7 +4942,10 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "CiNUMtqoi2hLoquYnfmSzm",
@@ -4048,7 +4958,11 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "N/A",
+        "Pulse UI"
+      ]
     },
     {
       "id": "wCMecZenTjiGHe9c8aia9M",
@@ -4075,7 +4989,10 @@
       },
       "filetype": ".png",
       "category": "List",
-      "clientFacing": null
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ]
     },
     {
       "id": "kMeyfae8ihVkS7hjeeKhh9",
@@ -4088,7 +5005,10 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "g8pm5jqEJb4kcfKUE6nDDW",
@@ -4101,7 +5021,10 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "qwRR8sqfRA5e5863kANhgj",
@@ -4114,7 +5037,10 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "N/A"
+      ]
     },
     {
       "id": "8Uj4iwcKZbmaMmoB8wteu8",
@@ -4127,20 +5053,26 @@
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "Vzob9A6htnj8TuLQWQ5bMg",
       "name": "White Icon on transparent circle with dark blue outline",
       "url": "https://pulse-staging.kickup.co/reports/manage/1893/edit",
-      "description": "",
+      "description": "https://pulse-staging.kickup.co/reports/manage/1893/edit",
       "dimensions": {
         "width": 106,
         "height": 108
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
     },
     {
       "id": "eRtGr85SfFr8fGkEapvpsZ",
@@ -4153,7 +5085,11 @@
       },
       "filetype": ".png",
       "category": "Container",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component",
+        "Bootstrap"
+      ]
     },
     {
       "id": "kbju4rgcXE74f3MwTur4cj",
@@ -4166,20 +5102,28 @@
       },
       "filetype": ".png",
       "category": "Container",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component",
+        "Bootstrap"
+      ]
     },
     {
       "id": "PsMMrDeqiU3DxvYdqJMtHy",
       "name": "Thin Chevron",
       "url": "https://pulse-staging.kickup.co/events/browse",
-      "description": "",
+      "description": "Section: Sidebar calendar",
       "dimensions": {
         "width": 38,
         "height": 54
       },
       "filetype": ".png",
       "category": "Icon",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less"
+      ]
     },
     {
       "id": "sR9a6VBDtsUFdkdU8aC3rd",
@@ -4192,7 +5136,11 @@
       },
       "filetype": ".png",
       "category": "Tooltip",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
     },
     {
       "id": "kf87uhpNnr68esqFwsEh3K",
@@ -4205,7 +5153,10 @@
       },
       "filetype": ".png",
       "category": "Select",
-      "clientFacing": true
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
     },
     {
       "id": "BbBtsLobUCvLJszjPBzZoR",
@@ -4335,6 +5286,268 @@
       "clientFacing": true,
       "styleSource": [
         "Bootstrap"
+      ]
+    },
+    {
+      "id": "8PN2CnX4dgQqH76isWJgkV",
+      "name": "Comparison Chart",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 2662,
+        "height": 814
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true,
+      "styleSource": [
+        "Plotly"
+      ]
+    },
+    {
+      "id": "Hod3b8XVPTt6hugk6hornY",
+      "name": "Groups",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 2632,
+        "height": 1400
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "z4F8dcdjsjuLcUXYBjcKu3",
+      "name": "Interests",
+      "url": "https://pulse-staging.kickup.co/reports/329#3%20Interests",
+      "description": "",
+      "dimensions": {
+        "width": 2704,
+        "height": 484
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
+    },
+    {
+      "id": "zMhoxA3YfaGhnWPaXwZQwM",
+      "name": "Successes and Needs Widget",
+      "url": "https://pulse-staging.kickup.co/reports/166",
+      "description": "",
+      "dimensions": {
+        "width": 2704,
+        "height": 888
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
+    },
+    {
+      "id": "HfP6ZTpGJU6LJHKh9FFuzS",
+      "name": "Rich Text Widget",
+      "url": "https://pulse-staging.kickup.co/reports/166#Summary",
+      "description": "",
+      "dimensions": {
+        "width": 2696,
+        "height": 534
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "xyy7qBG88afKjxU5kgohH2",
+      "name": "Possible Leaders",
+      "url": "https://pulse-staging.kickup.co/reports/329#3%20Interests",
+      "description": "",
+      "dimensions": {
+        "width": 2696,
+        "height": 848
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less",
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "4AGt8qDx6zQhXG5jM528mf",
+      "name": "Validation Message",
+      "url": "https://pulse-staging.kickup.co/directory/people/manage/invitations/create",
+      "description": "",
+      "dimensions": {
+        "width": 824,
+        "height": 50
+      },
+      "filetype": ".png",
+      "category": "Message",
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "UwhmrYyk7HWA9SbDbEgfUB",
+      "name": "Number Input",
+      "url": "https://pulse-staging.kickup.co/events/collection/create",
+      "description": "Section: Limit number of events users can register for",
+      "dimensions": {
+        "width": 2296,
+        "height": 148
+      },
+      "filetype": ".png",
+      "category": "Number",
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "XsWDANd8trijw4Yr67sZKq",
+      "name": "Message with Warning Underline",
+      "url": "https://pulse-staging.kickup.co/events/collection/tQfyZzgtLZPviHBnjP7BMm",
+      "description": "",
+      "dimensions": {
+        "width": 488,
+        "height": 94
+      },
+      "filetype": ".png",
+      "category": "Message",
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "DyhxkSUEV9xiLHY9Z5QVhB",
+      "name": "Message with Success underline",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 648,
+        "height": 90
+      },
+      "filetype": ".png",
+      "category": "Message",
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "EKKd2xDWFmswocmM5skhL9",
+      "name": "Event Not Found",
+      "url": "https://pulse-staging.kickup.co/events/collection/96t3e6GUJZ7KRyaTbsXJvB",
+      "description": "",
+      "dimensions": {
+        "width": 352,
+        "height": 140
+      },
+      "filetype": ".png",
+      "category": "Message",
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
+    },
+    {
+      "id": "gmY3PwPR8BRvjusrGAAoYn",
+      "name": "Possible Leaders",
+      "url": "https://pulse-staging.kickup.co/reports/488",
+      "description": "Section: Consider Next Steps",
+      "dimensions": {
+        "width": 2552,
+        "height": 364
+      },
+      "filetype": ".png",
+      "category": "List",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less"
+      ]
+    },
+    {
+      "id": "Nqv46CPhGNeeDwjVAmPjiB",
+      "name": "No data",
+      "url": "https://pulse-staging.kickup.co/reports/488",
+      "description": "Section: Potential Leaders modal",
+      "dimensions": {
+        "width": 434,
+        "height": 54
+      },
+      "filetype": ".png",
+      "category": "Message",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "8XEbqqCwCjGAfqNxKgb2yR",
+      "name": "Icon",
+      "url": "https://pulse-staging.kickup.co/reports/488",
+      "description": "",
+      "dimensions": {
+        "width": 24,
+        "height": 24
+      },
+      "filetype": ".png",
+      "category": "Tooltip",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less"
+      ]
+    },
+    {
+      "id": "hBtWE8Zt5i2EdTDtAuffUE",
+      "name": "Warning Message",
+      "url": "https://pulse-staging.kickup.co/reports/1748#Support%20Feedback",
+      "description": "District: Atlanta Public Schools\nSection: Support Feedback > Empty Matrix Widget",
+      "dimensions": {
+        "width": 1232,
+        "height": 144
+      },
+      "filetype": ".png",
+      "category": "Message",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "Wr4Y5yWixg2G7WuunqeAx8",
+      "name": "User Account Loading",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 125,
+        "height": 125
+      },
+      "filetype": ".gif",
+      "category": "Motion",
+      "clientFacing": true,
+      "styleSource": [
+        "N/A"
       ]
     }
   ],
@@ -4545,9 +5758,9 @@
       "id": "wWEHgSS6D4j9NWeTiapFWf"
     },
     {
-      "name": "Bookmark Bar",
-      "parent": "All",
-      "id": "cUzL7Ak75VS5F2ChT9si89"
+      "name": "Number",
+      "parent": "Form",
+      "id": "ngmYGATpH949BTfdRTfyre"
     }
   ]
 }
