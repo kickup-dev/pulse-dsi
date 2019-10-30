@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "pulse-dsi",
+  "scope": "kickup",
+  "env": {
+    "DB_SRV": "@db_srv"
+  },
+  "builds": [
+    { "src": "package.json", "use": "@now/next" },
+    { "src": "api/index.js", "use": "@now/node"},
+    {"src":"public/**/*","use":"@now/static"}
+  ],
+  "routes": [
+    { "src": "/api(.*)", "dest": "api/index.js" }
+  ]
+}

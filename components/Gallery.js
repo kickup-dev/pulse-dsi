@@ -1,9 +1,11 @@
 import React from 'react';
+import fetch from 'isomorphic-unfetch';
 import styled from 'styled-components';
 import CategoryList from './CategoryList.js';
 import {titleCase, missingAttributes} from '../helpers/Helpers.js';
 import {Label, Select} from './common.js';
 import { transparentize } from 'polished';
+import Ghost from './Ghost';
 
 export default class Gallery extends React.Component {
   constructor(props) {
@@ -11,19 +13,16 @@ export default class Gallery extends React.Component {
     this.state = {
       images: [],
       selectedImage: null,
-      selectedCategory: "All",
+      selectedCategory: {name: "All"},
       sortOrder: "desc"
     }
   }
 
   componentDidMount() {
     this.fetchData()
-    setInterval(() => {
-      this.fetchData()
-    }, 1000)
   }
   fetchData() {
-    fetch('http://localhost:8000/images/')
+    fetch('api/images/')
       .then(res => res.json())
       .then(items => {
         this.setState({
@@ -40,10 +39,11 @@ export default class Gallery extends React.Component {
     let result = [];
     let imagesList = [];
     let count = 0;
+    console.log(this.state.selectedCategory);
 
-    if (this.state.selectedCategory === "All") {
+    if (this.state.selectedCategory.name === "All") {
       images.forEach(item => {
-        var imgURL = "http://localhost:8000/" + item.id + (item.filetype ? item.filetype : ".png");
+        var imgURL = "public/images/" + item.id + (item.filetype ? item.filetype : ".png");
         imagesList.push(
           <Image
             item={item}
@@ -57,7 +57,7 @@ export default class Gallery extends React.Component {
       })
       return(
         <div>
-          <CategoryHeader key={1}>{titleCase(this.state.selectedCategory) || "All"} ({images.length})  {this.sortToggle()}</CategoryHeader>
+          <CategoryHeader key={1}>{titleCase(this.state.selectedCategory.name) || "All"} ({images.length})  {this.sortToggle()}</CategoryHeader>
           <ImageListContainer>
             {this.state.sortOrder === "asc" ? imagesList : imagesList.reverse()}
           </ImageListContainer>
@@ -65,8 +65,8 @@ export default class Gallery extends React.Component {
       )
     } else {
         images.forEach(item => {
-          if (this.state.selectedCategory === item.category) {
-            var imgURL = "http://localhost:8000/" + item.id + (item.filetype ? item.filetype : ".png");
+          if (this.state.selectedCategory._id === item.category._id) {
+            var imgURL = "public/images/" + item.id + (item.filetype ? item.filetype : ".png");
             imagesList.push(
               <Image
                 item={item}
@@ -82,7 +82,7 @@ export default class Gallery extends React.Component {
         })
         result.push(
           <div>
-            <CategoryHeader key={count}>{this.state.selectedCategory} ({count}) {this.sortToggle()}</CategoryHeader>
+            <CategoryHeader key={count}>{this.state.selectedCategory.name} ({count}) {this.sortToggle()}</CategoryHeader>
             <ImageListContainer>
               {this.state.sortOrder === "asc" ? imagesList : imagesList.reverse()}
             </ImageListContainer>
@@ -123,7 +123,7 @@ export default class Gallery extends React.Component {
       <Container>
         <CategoryList images={this.state.images} handleToggleTheme={() => this.props.handleToggleTheme()} handleSelectCategory={(cat) => this.handleSelectCategory(cat)}/>
         <GalleryColumn>
-          {this.displayImages()}
+          {this.state.images.length > 0 ? this.displayImages() : <Ghost.Images length={10}/>}
         </GalleryColumn>
       </Container>
     )
@@ -190,7 +190,7 @@ const ImageBlock = styled.div`
   height: 90%;
   background-color: white;
   border-radius: 6px;
-  
+
   &::after {
     content: '';
     width: 100%;
@@ -203,7 +203,7 @@ const ImageBlock = styled.div`
     transition-duration: .1s;
     box-shadow: 0 20px 20px ${props => transparentize(.9, props.theme.body)};
   }
-  
+
   &:hover {
     &::after {
       opacity: 1;

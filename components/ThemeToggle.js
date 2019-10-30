@@ -4,7 +4,7 @@ import {darken} from 'polished';
 import { withTheme } from 'styled-components';
 
 class ThemeToggle extends React.Component {
-    
+
     render() {
         let themeName = this.props.theme.body === "white" ? "darkMode" : "lightMode";
         return (

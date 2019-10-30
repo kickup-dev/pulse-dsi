@@ -1,0 +1,4553 @@
+{
+  "images": [
+    {
+      "id": "xgSbpf6yuuiG63ge92Zage",
+      "name": "Large Button",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 1254,
+        "height": 232
+      },
+      "category": "Button",
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
+    },
+    {
+      "id": "RzCFp6FRbc8sVdje5RPfvs",
+      "name": "Blue Outline Button",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 306,
+        "height": 104
+      },
+      "category": "Button",
+      "clientFacing": true,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "U5PY4njWcJeBRJURmqvqKe",
+      "name": "Dropdown Button",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "Under recent reports",
+      "dimensions": {
+        "width": 262,
+        "height": 106
+      },
+      "category": "Button",
+      "filetype": ".png",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "kreHCjt6Lq8HU9ajCtwgtu",
+      "name": "Dropdown",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "Icon + Action",
+      "dimensions": {
+        "width": 372,
+        "height": 252
+      },
+      "category": "Menu",
+      "filetype": ".png",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "m4bMoEdfGX8Z6xGtytd4rT",
+      "name": "Solid Blue Button",
+      "url": "https://pulse-staging.kickup.co/reports/browse/",
+      "description": "",
+      "dimensions": {
+        "width": 372,
+        "height": 116
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "dpjac8Ktv9tbzZZzgVck6p",
+      "name": "Small Green Button Group",
+      "url": "https://pulse-staging.kickup.co/reports/browse/",
+      "description": "",
+      "dimensions": {
+        "width": 404,
+        "height": 68
+      },
+      "category": "Button Group",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "HdqMkmet5f3fTnW8jig2Bk",
+      "name": "Home Page Tabs",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 1102,
+        "height": 190
+      },
+      "category": "Tabs",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "f6RWvBjKtFjS48mmfGFZ7g",
+      "name": "Blue Ghost button",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "In list under upcoming events",
+      "dimensions": {
+        "width": 236,
+        "height": 140
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "ARfBNjvN5tdHwyn5tCv5Up",
+      "name": "Solid Blue Icon Button",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 286,
+        "height": 128
+      },
+      "category": "Button",
+      "filetype": ".png",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "XpRTtPkbWuSbCVotmgYB2T",
+      "name": "Gray Outline Dropdown",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "Filters",
+      "dimensions": {
+        "width": 424,
+        "height": 100
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "RrrJMe5gyCf7qy4ft5ps9t",
+      "name": "Gray Outline",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "Event Card item",
+      "dimensions": {
+        "width": 524,
+        "height": 108
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "eqEeHXxMM7RbamaGgAo63o",
+      "name": "Toggle Button Group with icons",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "Calendar picker",
+      "dimensions": {
+        "width": 486,
+        "height": 80
+      },
+      "category": "Button Group",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "dkPZsDgiCAejqjH9fS7ZJa",
+      "name": "Orange Tab Group",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 780,
+        "height": 166
+      },
+      "category": "Tabs",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": ""
+    },
+    {
+      "id": "PZhb4TrCprjLmxiV8FpLtD",
+      "name": "Back Button",
+      "url": "https://pulse-staging.kickup.co/events/browse/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "",
+      "dimensions": {
+        "width": 398,
+        "height": 108
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "eXBep2NqkwCQeaZdoZggsr",
+      "name": "Outline Button Group",
+      "url": "https://pulse-staging.kickup.co/events/browse/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "",
+      "dimensions": {
+        "width": 734,
+        "height": 102
+      },
+      "category": "Button Group",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "DMvKYji35nJ93anymkuQkv",
+      "name": "Triple Dot Outline Button (Blue)",
+      "url": "https://pulse-staging.kickup.co/events/browse/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "",
+      "dimensions": {
+        "width": 82,
+        "height": 92
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "baSKYjjkLQEsCrwgGb8iCX",
+      "name": "Dropdown Button",
+      "url": "https://pulse-staging.kickup.co/events/browse/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "Under attendance code",
+      "dimensions": {
+        "width": 724,
+        "height": 94
+      },
+      "category": "Button",
+      "filetype": ".png",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "cPtpNXznHCpUJdQAK3xcSe",
+      "name": "Gray Ghost Icon",
+      "url": "https://pulse-staging.kickup.co/events/browse/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "Under \"Event Attendance\"",
+      "dimensions": {
+        "width": 90,
+        "height": 96
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "nXc4R8pZU3MdHsq3To25g7",
+      "name": "Small Gray Outline Button",
+      "url": "https://pulse-staging.kickup.co/events/browse/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "Must be on a past event. Event Attendance registration email message",
+      "dimensions": {
+        "width": 368,
+        "height": 86
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "Xd6SpXUfJ7Guiu9rn5gF7F",
+      "name": "Green Outline Icon",
+      "url": "https://pulse-staging.kickup.co/events/browse/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "In list of attendees",
+      "dimensions": {
+        "width": 328,
+        "height": 90
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "qSfVG35NYcSdBximp5LR75",
+      "name": "Blue Ghost Icon",
+      "url": "https://pulse-staging.kickup.co/events/browse/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "In list of attendees",
+      "dimensions": {
+        "width": 108,
+        "height": 84
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "cRsexcGquiDxPfBhG4wJbR",
+      "name": "Actions Dropdown",
+      "url": "https://pulse-staging.kickup.co/events/browse/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "Icon + Action",
+      "dimensions": {
+        "width": 462,
+        "height": 306
+      },
+      "category": "Menu",
+      "filetype": ".png",
+      "clientFacing": null,
+      "styleSource": ""
+    },
+    {
+      "id": "DP3ekXCLXvbNUa7TjaBFpM",
+      "name": "Green Solid Button",
+      "url": "https://pulse-staging.kickup.co/events/edit/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "",
+      "dimensions": {
+        "width": 494,
+        "height": 118
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "Vb9JMVS3aPwgc2k6KKrZHU",
+      "name": "Button Group with label stacked",
+      "url": "https://pulse-staging.kickup.co/events/edit/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "Section: Visibility and Permissions",
+      "dimensions": {
+        "width": 1668,
+        "height": 120
+      },
+      "category": "Button Group",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "qGHMqr4uh6yKazeggds2ba",
+      "name": "Small Gray Outline Button",
+      "url": "https://pulse-staging.kickup.co/reports/browse/",
+      "description": "",
+      "dimensions": {
+        "width": 274,
+        "height": 76
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "QMfwpWqZKjFvZNVjpBdQ86",
+      "name": "Red Ghost Button",
+      "url": "https://pulse-staging.kickup.co/events/log",
+      "description": "",
+      "dimensions": {
+        "width": 302,
+        "height": 80
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "67Qoquinew5Fm4BDm2EaYP",
+      "name": "Pagination Inline Text & Button",
+      "url": "https://pulse-staging.kickup.co/events/manage/attendance?includeUnconfirmed=false&limit=10&offset=0&order=DESC&orderBy=last_name&search=",
+      "description": "",
+      "dimensions": {
+        "width": 330,
+        "height": 88
+      },
+      "category": "Select",
+      "filetype": ".png",
+      "saving": true
+    },
+    {
+      "id": "x54MDxR6pMKiAgVL9mnCo3",
+      "name": "Blue ghost Button with icon",
+      "url": "https://pulse-staging.kickup.co/events/manage/tags",
+      "description": "",
+      "dimensions": {
+        "width": 238,
+        "height": 96
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "WxhQPcqCUmPTJhMF8BSeSR",
+      "name": "Account Tabs",
+      "url": "https://pulse-staging.kickup.co/accounts/manage/",
+      "description": "",
+      "dimensions": {
+        "width": 1536,
+        "height": 142
+      },
+      "category": "Tabs"
+    },
+    {
+      "id": "3Edn4kxUcsf3ZMJbzucYgd",
+      "name": "Small Primary Button",
+      "url": "https://pulse-staging.kickup.co/accounts/email/",
+      "description": "",
+      "dimensions": {
+        "width": 240,
+        "height": 82
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "CTJ53AJs8dKfDQiydRxrg7",
+      "name": "Small Primary with Gray Outline",
+      "url": "https://pulse-staging.kickup.co/accounts/email/",
+      "description": "",
+      "dimensions": {
+        "width": 336,
+        "height": 86
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "t7N2tyr7DB9aKdK8GwQbGJ",
+      "name": "Branded Solid Button with icon",
+      "url": "https://pulse-staging.kickup.co/accounts/social/connections/",
+      "description": "",
+      "dimensions": {
+        "width": 552,
+        "height": 108
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "epzXeQiV4zsC62yK6RypjA",
+      "name": "Blue Solid with Icon before",
+      "url": "https://pulse-staging.kickup.co/goals/modify",
+      "description": "",
+      "dimensions": {
+        "width": 372,
+        "height": 102
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "iRp3VSGHTqxMHWubKbDzcr",
+      "name": "Small Gray Outline",
+      "url": "https://pulse-staging.kickup.co/goals/modify",
+      "description": "Under items in the \"Job Queues\" list",
+      "dimensions": {
+        "width": 280,
+        "height": 78
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "dTYh9vGFjKJxeKPGJ8WvNb",
+      "name": "Icon Button",
+      "url": "https://pulse-staging.kickup.co/goals/",
+      "description": "",
+      "dimensions": {
+        "width": 154,
+        "height": 96
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "7xGKQC8LtPZqAtCrnPAJwW",
+      "name": "Inline input button",
+      "url": "https://pulse-staging.kickup.co/reports/manage/links/",
+      "description": "",
+      "dimensions": {
+        "width": 654,
+        "height": 106
+      },
+      "category": "Button Group",
+      "filetype": ".png",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "wPKuLR4FjcPrdkVEQoUYRj",
+      "name": "Inline Icon Button Text input",
+      "url": "https://pulse-staging.kickup.co/manage/auth-tokens/",
+      "description": "",
+      "dimensions": {
+        "width": 1072,
+        "height": 134
+      },
+      "category": "Button Group",
+      "filetype": ".png",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "uuQAEfu3GCJ6L25h3EzsW7",
+      "name": "In-table icon outline button underlined",
+      "url": "https://pulse-staging.kickup.co/directory/people",
+      "description": "",
+      "dimensions": {
+        "width": 290,
+        "height": 74
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "vnUbvzAgod2D88Euaq35ZS",
+      "name": "Small in-table red outline button with icon",
+      "url": "https://pulse-staging.kickup.co/directory/groups/edit/873",
+      "description": "",
+      "dimensions": {
+        "width": 204,
+        "height": 70
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "zrUuTx6qSPsrqeeGgKkaQ2",
+      "name": "Red outline button",
+      "url": "https://pulse-staging.kickup.co/directory/groups/edit/873",
+      "description": "",
+      "dimensions": {
+        "width": 226,
+        "height": 96
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "U8eAk6Sn9S6VbxHDemdGEF",
+      "name": "Back Button",
+      "url": "https://pulse-staging.kickup.co/directory/groups/edit/873",
+      "description": "",
+      "dimensions": {
+        "width": 560,
+        "height": 116
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "Dw6P2BnLsqufLYfe9KCGP2",
+      "name": "Gray Outline dropdown button with icon",
+      "url": "https://pulse-staging.kickup.co/campaigns/edit/16/list",
+      "description": "1px border",
+      "dimensions": {
+        "width": 276,
+        "height": 116
+      },
+      "category": "Button",
+      "filetype": ".png",
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "ZU366KTmsaPy7dXDzt89Qh",
+      "name": "Small Gray outline button",
+      "url": "https://pulse-staging.kickup.co/campaigns/edit/16/list",
+      "description": "",
+      "dimensions": {
+        "width": 228,
+        "height": 84
+      },
+      "category": "Button",
+      "filetype": ".png",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "onemfszf4TaFddCWn8yznQ",
+      "name": "White Dropdown button with icon",
+      "url": "https://pulse-staging.kickup.co/reports/1803",
+      "description": "",
+      "dimensions": {
+        "width": 356,
+        "height": 90
+      },
+      "category": "Button",
+      "filetype": ".png",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "oJWDKC4m5MsBPVE5HdfSbp",
+      "name": "Averages/Percentages Toggle",
+      "url": "https://pulse-staging.kickup.co/reports/1803",
+      "description": "",
+      "dimensions": {
+        "width": 422,
+        "height": 86
+      },
+      "category": "Button Group",
+      "saving": false
+    },
+    {
+      "id": "YUTX6YTmi7KaUVXY5qW7BA",
+      "name": "Inline sort button group",
+      "url": "https://pulse-staging.kickup.co/reports/1803#Planning%20%20Implementing%20Supports",
+      "description": "Open response question",
+      "dimensions": {
+        "width": 380,
+        "height": 106
+      },
+      "category": "Button Group",
+      "saving": false
+    },
+    {
+      "id": "CgDRS6oEiJiQ82YJbPQZmd",
+      "name": "Light gray outline button with icon",
+      "url": "https://pulse-staging.kickup.co/reports/1803#Planning%20%20Implementing%20Supports",
+      "description": "Open response question",
+      "dimensions": {
+        "width": 240,
+        "height": 92
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "S6b3qPvjKRBjqysuhRNhwR",
+      "name": "Dropdown with horizontal line",
+      "url": "https://pulse-staging.kickup.co/reports/1891",
+      "description": "Icon + Action",
+      "dimensions": {
+        "width": 410,
+        "height": 332
+      },
+      "category": "Menu",
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "roqAiK3XsY4bh8UieYQhH2",
+      "name": "Hamburger dropdown",
+      "url": "https://pulse-staging.kickup.co/reports/1891",
+      "description": "Matrix widget",
+      "dimensions": {
+        "width": 434,
+        "height": 204
+      },
+      "category": "Menu",
+      "filetype": ".png",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "hysVsASXNGscfZaJ4TmiUh",
+      "name": "Dropdown with double arrow icon",
+      "url": "https://pulse-staging.kickup.co/reports/1891",
+      "description": "Uses default os dropdown",
+      "dimensions": {
+        "width": 926,
+        "height": 120
+      },
+      "category": "Select",
+      "filetype": ".png",
+      "saving": true
+    },
+    {
+      "id": "uYVrxJUBTc4HyuWArsEu6B",
+      "name": "Group by dropdown",
+      "url": "https://pulse-staging.kickup.co/reports/838#Baseline%20Needs",
+      "description": "Matrix question",
+      "dimensions": {
+        "width": 806,
+        "height": 348
+      },
+      "category": "Select",
+      "filetype": ".png",
+      "saving": true
+    },
+    {
+      "id": "k3jRp2uMaMnfDdyhq3paCt",
+      "name": "Configure report section button action group",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 194,
+        "height": 76
+      },
+      "category": "Button Group",
+      "saving": true
+    },
+    {
+      "id": "NTbDBsmz3dXK7qpXemfVzF",
+      "name": "Widget Action Button Group",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 430,
+        "height": 62
+      },
+      "category": "Button Group",
+      "saving": false
+    },
+    {
+      "id": "ayeVKumisG7b7LqGQHWqKa",
+      "name": "Widget list icon + text button",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 594,
+        "height": 214
+      },
+      "category": "Card",
+      "clientFacing": null
+    },
+    {
+      "id": "KSKM3DPYw9AP8TBp6hT5V9",
+      "name": "Grouped Select",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "Initial Group selection dropdown\nReact Select",
+      "dimensions": {
+        "width": 3004,
+        "height": 1100
+      },
+      "category": "Select",
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "dKgnRxiwPt2f7hKgjtoMfk",
+      "name": "Multi-select Dropdown",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "Goal selector",
+      "dimensions": {
+        "width": 3022,
+        "height": 842
+      },
+      "category": "Select",
+      "filetype": ".png"
+    },
+    {
+      "id": "KurCNPcbhX5G3QbWvRcceC",
+      "name": "Large Selectable Button",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "Anonymize report section",
+      "dimensions": {
+        "width": 1336,
+        "height": 224
+      },
+      "category": "Button",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "UAW2YkdtRfQG9VJkdt4Sig",
+      "name": "Large Selectable Button with icons",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "Stateful",
+      "dimensions": {
+        "width": 1346,
+        "height": 308
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "aVE6shqzmYq6oGmH3pcfSs",
+      "name": "Thick border blue outline button",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 514,
+        "height": 100
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "QoUMzjSrCDzSygg6nFQhid",
+      "name": "Thick border blue outline button",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 268,
+        "height": 110
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "8M37uKKMAQRRSqdZoDeBaL",
+      "name": "View Hidden Reports",
+      "url": "https://pulse-staging.kickup.co/reports/browse/",
+      "description": "",
+      "dimensions": {
+        "width": 3360,
+        "height": 1696
+      },
+      "category": "Overlay"
+    },
+    {
+      "id": "zu6QjFWfGsbssrsriWnm54",
+      "name": "Loading modal",
+      "url": "https://pulse-staging.kickup.co/reports/1891",
+      "description": "",
+      "dimensions": {
+        "width": 1434,
+        "height": 680
+      },
+      "category": "Overlay"
+    },
+    {
+      "id": "NPCVoVSYiVE75oahq7ogPq",
+      "name": "Tooltip with header",
+      "url": "https://pulse-staging.kickup.co/reports/1891",
+      "description": "Matrix widget",
+      "dimensions": {
+        "width": 880,
+        "height": 486
+      },
+      "category": "Tooltip",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "4L5St8JSgSoYhdLzAJ72tR",
+      "name": "Paragraph Tooltip",
+      "url": "https://pulse-staging.kickup.co/reports/1891",
+      "description": "Matrix widget",
+      "dimensions": {
+        "width": 876,
+        "height": 616
+      },
+      "category": "Tooltip",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "qimpiASiHmhAoXbgKhvpyc",
+      "name": "Selectable Dropdown",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "Icon: downward chevron",
+      "dimensions": {
+        "width": 456,
+        "height": 474
+      },
+      "category": "Multi Select",
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "fjp5rksvwE3F665fvhmmZr",
+      "name": "Hours Log",
+      "url": "https://pulse-staging.kickup.co/events/manage/attendance?includeUnconfirmed=false&limit=10&offset=0&order=DESC&orderBy=last_name&search=",
+      "description": "",
+      "dimensions": {
+        "width": 2478,
+        "height": 222
+      },
+      "category": "Pagination"
+    },
+    {
+      "id": "3xsLH2BQybNvqwM8m53zs2",
+      "name": "Default OS dropdown",
+      "url": "https://pulse-staging.kickup.co/manage/attributes/modify",
+      "description": "",
+      "dimensions": {
+        "width": 1408,
+        "height": 612
+      },
+      "category": "Select",
+      "filetype": ".png",
+      "saving": true
+    },
+    {
+      "id": "F7eYkTtX65vKvruHhd8b8q",
+      "name": "Goals Actions",
+      "url": "https://pulse-staging.kickup.co/goals/",
+      "description": "Just text",
+      "dimensions": {
+        "width": 374,
+        "height": 246
+      },
+      "category": "Menu",
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "a62cLg6VsxL8LWh7fozKb7",
+      "name": "Red Outline Icon Button",
+      "url": "https://pulse-staging.kickup.co/goals/",
+      "description": "Edit Goal",
+      "dimensions": {
+        "width": 190,
+        "height": 124
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "RJci7Q9bm9YwoVRrfGngRr",
+      "name": "Light Blue Solid Button",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/",
+      "description": "",
+      "dimensions": {
+        "width": 474,
+        "height": 104
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "pY2q8efwwV6UB5Qivt43kM",
+      "name": "Data Source List Action Button Group",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/",
+      "description": "",
+      "dimensions": {
+        "width": 246,
+        "height": 72
+      },
+      "category": "Button Group",
+      "saving": false
+    },
+    {
+      "id": "TKoGs52mXzDzrj6zrsEG4Y",
+      "name": "Gray Icon Button",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/",
+      "description": "Refresh Data Source",
+      "dimensions": {
+        "width": 96,
+        "height": 76
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "5LB2kmUfdx2G7dAYebsiZt",
+      "name": "Small Gray Low Contrast Button",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/",
+      "description": "",
+      "dimensions": {
+        "width": 304,
+        "height": 78
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "Uo3HKvuc68ezRdU3Pfexec",
+      "name": "Copy Tooltip",
+      "url": "https://pulse-staging.kickup.co/manage/auth-tokens/#",
+      "description": "",
+      "dimensions": {
+        "width": 192,
+        "height": 180
+      },
+      "category": "Tooltip",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "dxM7w56g2HbBh4AJ68dyRS",
+      "name": "Directory Bulk Actions",
+      "url": "https://pulse-staging.kickup.co/directory/people",
+      "description": "",
+      "dimensions": {
+        "width": 444,
+        "height": 658
+      },
+      "category": "Menu",
+      "filetype": ".png",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "RyejniSJzagdx6yHXwb9eu",
+      "name": "Selectable dropdown",
+      "url": "https://pulse-staging.kickup.co/directory/people",
+      "description": "",
+      "dimensions": {
+        "width": 668,
+        "height": 1218
+      },
+      "category": "Multi Select",
+      "filetype": ".png",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "XtcvjBKnz8VJGjspALYuEp",
+      "name": "Separated Selectable Dropdown",
+      "url": "https://pulse-staging.kickup.co/directory/people/manage/invitations/create",
+      "description": "Icon: downward solid triangle",
+      "dimensions": {
+        "width": 508,
+        "height": 744
+      },
+      "category": "Multi Select",
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "aJyftdgmq9PrNbwhxyV8Tj",
+      "name": "Red Ghost button with outline",
+      "url": "https://pulse-staging.kickup.co/directory/people/manage/invitations/create",
+      "description": "Restrictions Section",
+      "dimensions": {
+        "width": 424,
+        "height": 96
+      },
+      "category": "Button",
+      "clientFacing": null,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "p2ZB5ieghwABWNBzogxcyx",
+      "name": "Home - Recently Active Reports",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 2462,
+        "height": 1188
+      },
+      "category": "List",
+      "clientFacing": null
+    },
+    {
+      "id": "n2AGFYeBkRMxsrnWtRnbnn",
+      "name": "Home - Upcoming Events List",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 2470,
+        "height": 616
+      },
+      "category": "List",
+      "clientFacing": null
+    },
+    {
+      "id": "8ZdonecCsvbPH74PLAy4dg",
+      "name": "Home - Recent Events",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 2466,
+        "height": 562
+      },
+      "category": "List",
+      "clientFacing": null
+    },
+    {
+      "id": "Tq3tuQfKsush3aLVH4saPt",
+      "name": "Reports List",
+      "url": "https://pulse-staging.kickup.co/reports/browse/",
+      "description": "",
+      "dimensions": {
+        "width": 2744,
+        "height": 1056
+      },
+      "category": "List"
+    },
+    {
+      "id": "tm4unJijRnmMy2qubvkXsz",
+      "name": "Hidden Reports List",
+      "url": "https://pulse-staging.kickup.co/reports/browse/",
+      "description": "",
+      "dimensions": {
+        "width": 2592,
+        "height": 1338
+      },
+      "category": "List"
+    },
+    {
+      "id": "6gX9n4dxuL8PNZ4Yv7jijk",
+      "name": "Events List",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 1794,
+        "height": 982
+      },
+      "category": "Item",
+      "clientFacing": null,
+      "styleSource": ""
+    },
+    {
+      "id": "FKTmG7AKyemm7d3Batfhzh",
+      "name": "Events List - With collections",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 1784,
+        "height": 1424
+      },
+      "category": "Item",
+      "clientFacing": null
+    },
+    {
+      "id": "4ig7FDKmbVoVv6ANa7Tdsx",
+      "name": "Event Attendance List",
+      "url": "https://pulse-staging.kickup.co/events/browse/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "Border divider\nAction columns (attendance and︙)\nTitle case labels",
+      "dimensions": {
+        "width": 2352,
+        "height": 788
+      },
+      "category": "Table",
+      "saving": false
+    },
+    {
+      "id": "mDskNR84trp7pUSXzNHbxP",
+      "name": "Visibility and Permissions List",
+      "url": "https://pulse-staging.kickup.co/events/edit/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "Title case labels",
+      "dimensions": {
+        "width": 2338,
+        "height": 1306
+      },
+      "category": "Table",
+      "saving": false
+    },
+    {
+      "id": "6tiVwSp7shomnMsTtsmUyb",
+      "name": "Edit Report List",
+      "url": "https://pulse-staging.kickup.co/reports/manage/create/",
+      "description": "",
+      "dimensions": {
+        "width": 2752,
+        "height": 1288
+      },
+      "category": "Accordions",
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "AcvzGN4q8uW5uVFbZCqdvi",
+      "name": "Selectable List",
+      "url": "https://pulse-staging.kickup.co/reports/manage/create/",
+      "description": "Filter data -> Filter Responses",
+      "dimensions": {
+        "width": 846,
+        "height": 880
+      },
+      "category": "List"
+    },
+    {
+      "id": "htFBiaD57onM66XfuSCLik",
+      "name": "Small Solid Green Button",
+      "url": "https://pulse-staging.kickup.co/reports/manage/create/",
+      "description": "",
+      "dimensions": {
+        "width": 676,
+        "height": 88
+      },
+      "category": "Button",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI",
+        "In-product Less"
+      ]
+    },
+    {
+      "id": "HpFZnattYuuDfYpsVHFuvh",
+      "name": "Dropdown",
+      "url": "https://pulse-staging.kickup.co/reports/manage/create/",
+      "description": "Anonymize report section. Default OS select.\nIcon: opposite solid triangles",
+      "dimensions": {
+        "width": 296,
+        "height": 96
+      },
+      "category": "Select",
+      "filetype": ".png"
+    },
+    {
+      "id": "TyoEPSQfKakVrqB75S3fiz",
+      "name": "Gray Outline Button with Icon",
+      "url": "https://pulse-staging.kickup.co/reports/manage/create/",
+      "description": "Anonymize report section",
+      "dimensions": {
+        "width": 208,
+        "height": 94
+      },
+      "category": "Button",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "zA6mce2kHby6KoGD6NqFq6",
+      "name": "Attendance Log",
+      "url": "https://pulse-staging.kickup.co/events/log",
+      "description": "Border divider & alternating rows\nTitle case labels",
+      "dimensions": {
+        "width": 2358,
+        "height": 772
+      },
+      "category": "Table",
+      "saving": false
+    },
+    {
+      "id": "mkaA9BbLv4Pu3cqgVMGbDM",
+      "name": "Collection Select",
+      "url": "https://pulse-staging.kickup.co/events/edit/KoSD6f8h5pdLykZtnmrNLR",
+      "description": "Collection Section.\nReact select?",
+      "dimensions": {
+        "width": 2316,
+        "height": 766
+      },
+      "category": "Select",
+      "filetype": ".png"
+    },
+    {
+      "id": "rvb7hNfJ7uV3DZqZ4Pk33t",
+      "name": "Large Text Tooltip",
+      "url": "https://pulse-staging.kickup.co/events/collection/96t3e6GUJZ7KRyaTbsXJvB",
+      "description": "Register for all events",
+      "dimensions": {
+        "width": 864,
+        "height": 298
+      },
+      "category": "Tooltip",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "oks9NnLAixobr87vkvdYNg",
+      "name": "Bulk Register Attendance",
+      "url": "https://pulse-staging.kickup.co/events/browse/KoSD6f8h5pdLykZtnmrNLR",
+      "description": "New style",
+      "dimensions": {
+        "width": 1420,
+        "height": 736
+      },
+      "category": "Overlay",
+      "saving": false
+    },
+    {
+      "id": "W7GaV4PnaFMPJGXXhwNQPs",
+      "name": "Text Input",
+      "url": "https://pulse-staging.kickup.co/events/manage/tags/134",
+      "description": "",
+      "dimensions": {
+        "width": 2326,
+        "height": 172
+      },
+      "category": "Input",
+      "filetype": ".png"
+    },
+    {
+      "id": "aMXFqfCwkYytcHN4J3mxtZ",
+      "name": "Rich Text Field",
+      "url": "https://pulse-staging.kickup.co/events/collection/create",
+      "description": "",
+      "dimensions": {
+        "width": 2316,
+        "height": 404
+      },
+      "category": "Rich Text",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "HajRupKA7UecSHmRjwmVkk",
+      "name": "Confirm Attendance Modal",
+      "url": "https://pulse-staging.kickup.co/events/collection/create",
+      "description": "",
+      "dimensions": {
+        "width": 1386,
+        "height": 590
+      },
+      "category": "Overlay",
+      "saving": false
+    },
+    {
+      "id": "7jPCUYiVvvn3sykV7qDv5S",
+      "name": "Radio Button",
+      "url": "https://pulse-staging.kickup.co/accounts/social/connections/",
+      "description": "Manage Social Logins ",
+      "dimensions": {
+        "width": 376,
+        "height": 86
+      },
+      "category": "Radio Button",
+      "filetype": ".png"
+    },
+    {
+      "id": "YSYqsR28NcARxFNnc497Ex",
+      "name": "Shared Links List",
+      "url": "https://pulse-staging.kickup.co/reports/manage/links/",
+      "description": "",
+      "dimensions": {
+        "width": 2712,
+        "height": 892
+      },
+      "category": "List",
+      "saving": false
+    },
+    {
+      "id": "vpniQkjQ2J4wKukrGuoybm",
+      "name": "Shared Links Checkbox List",
+      "url": "https://pulse-staging.kickup.co/reports/manage/links/45/update",
+      "description": "",
+      "dimensions": {
+        "width": 852,
+        "height": 426
+      },
+      "category": "Checkbox",
+      "filetype": ".png"
+    },
+    {
+      "id": "ZrqivHyb5XmtRjXRoEHhtr",
+      "name": "All Table",
+      "url": "https://pulse-staging.kickup.co/reports/22",
+      "description": "Border divider and alternating rows\nLinked cells (About and Completed By)\nTitle case labels",
+      "dimensions": {
+        "width": 2586,
+        "height": 1360
+      },
+      "category": "Table",
+      "saving": false
+    },
+    {
+      "id": "qHC9fgpZ8Fha4CCfYxGCvh",
+      "name": "Calendar Picker",
+      "url": "https://pulse-staging.kickup.co/reports/22#!",
+      "description": "",
+      "dimensions": {
+        "width": 1440,
+        "height": 664
+      },
+      "category": "Calendar",
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "iPNLjS3Rzm3jdasJaKA3V7",
+      "name": "Rich Text Editor",
+      "url": "https://pulse-staging.kickup.co/reports/22#!",
+      "description": "Key Takeaways",
+      "dimensions": {
+        "width": 1494,
+        "height": 218
+      },
+      "category": "Rich Text",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "oAqghJB3hwak3GtbBmYb8f",
+      "name": "Column Selector",
+      "url": "https://pulse-staging.kickup.co/reports/manage/22/edit",
+      "description": "",
+      "dimensions": {
+        "width": 2354,
+        "height": 396
+      },
+      "category": "Other",
+      "saving": false
+    },
+    {
+      "id": "TimiDTZwvA7dBhkHnLugrN",
+      "name": "Share Report List",
+      "url": "https://pulse-staging.kickup.co/reports/manage/22/edit",
+      "description": "Border divider & alternating rows\nIcon and actions columns",
+      "dimensions": {
+        "width": 2622,
+        "height": 264
+      },
+      "category": "Table",
+      "saving": false
+    },
+    {
+      "id": "uzRJRWatbjD6ps2njpTTZM",
+      "name": "Confirmation Codes Modal",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 1646,
+        "height": 1034
+      },
+      "category": "Overlay",
+      "saving": false
+    },
+    {
+      "id": "hNL4aCxtFo5YZ8B6fD6ddE",
+      "name": "Time Picker",
+      "url": "https://pulse-staging.kickup.co/events/edit/n3V5egbJEp26AVBf3pgbmH",
+      "description": "",
+      "dimensions": {
+        "width": 1174,
+        "height": 404
+      },
+      "category": "Calendar",
+      "saving": false,
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "aHSYACHWAB4fkmSBKG5GyA",
+      "name": "Collapsable List",
+      "url": "https://pulse-staging.kickup.co/events/edit/n3V5egbJEp26AVBf3pgbmH",
+      "description": "Edit/new event",
+      "dimensions": {
+        "width": 2314,
+        "height": 366
+      },
+      "category": "Accordions",
+      "saving": false,
+      "clientFacing": true,
+      "styleSource": "Styled Component"
+    },
+    {
+      "id": "8Tz5n4BfNcgf7Mtbvsat3g",
+      "name": "Share Event Link",
+      "url": "https://pulse-staging.kickup.co/events/edit/n3V5egbJEp26AVBf3pgbmH",
+      "description": "",
+      "dimensions": {
+        "width": 1924,
+        "height": 112
+      },
+      "category": "Button Group",
+      "saving": false,
+      "filetype": ".png"
+    },
+    {
+      "id": "fyLT2ApMXJsTANbencs3iX",
+      "name": "Directory",
+      "url": "https://pulse-staging.kickup.co/directory/people",
+      "description": "Border separators and alternating rows\nGrouped headers\nAction column\nLinked cells (User and Groups)\nTitle case labels",
+      "dimensions": {
+        "width": 2674,
+        "height": 1030
+      },
+      "category": "Table",
+      "saving": false
+    },
+    {
+      "id": "e93U7Aa4Buzz62YegnWUzF",
+      "name": "Attributes List",
+      "url": "https://pulse-staging.kickup.co/directory/people/edit/6735",
+      "description": "Title case labels",
+      "dimensions": {
+        "width": 2648,
+        "height": 822
+      },
+      "category": "Table",
+      "saving": false
+    },
+    {
+      "id": "kVjL6B9nVEqxubzZ4TCaDa",
+      "name": "Permissions List",
+      "url": "https://pulse-staging.kickup.co/directory/people/edit/6735",
+      "description": "",
+      "dimensions": {
+        "width": 2448,
+        "height": 858
+      },
+      "category": "List",
+      "saving": false
+    },
+    {
+      "id": "FDhQF7ZR5YsysbToLD6ps2",
+      "name": "Edit Restrictions",
+      "url": "https://pulse-staging.kickup.co/directory/people/edit/6735",
+      "description": "",
+      "dimensions": {
+        "width": 1982,
+        "height": 1750
+      },
+      "category": "Overlay",
+      "saving": false
+    },
+    {
+      "id": "86RXAPNH67hTY4a72qCeZA",
+      "name": "Email List",
+      "url": "https://pulse-staging.kickup.co/directory/people/edit/6735",
+      "description": "Title case labels",
+      "dimensions": {
+        "width": 2626,
+        "height": 360
+      },
+      "category": "Table",
+      "saving": false
+    },
+    {
+      "id": "TBNmS4yhKdhy4zfWVtzdjq",
+      "name": "Switch District Dropdown",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 816,
+        "height": 670
+      },
+      "category": "Other",
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "Hykwf7yU4LYFisN87a9yvv",
+      "name": "Opened & Last Activity",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "From: Recently Active Reports\nIncludes label",
+      "dimensions": {
+        "width": 410,
+        "height": 92
+      },
+      "category": "Metadata",
+      "saving": false,
+      "filetype": ".png"
+    },
+    {
+      "id": "sBhHKLyCxk7KsqehTKc8hV",
+      "name": "Submission count",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 310,
+        "height": 90
+      },
+      "category": "Metadata",
+      "saving": false,
+      "filetype": ".png"
+    },
+    {
+      "id": "mu3dyxcQRsYBqZu88k7iar",
+      "name": "Event Date",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "{section: \"Upcoming Events List\", notes: \"No label\"}\n",
+      "dimensions": {
+        "width": 392,
+        "height": 92
+      },
+      "category": "Metadata",
+      "saving": false,
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "rhfDHZ5ato5MPqjDafugEQ",
+      "name": "Part of Collection",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "{section: \"Upcoming Events List\"}",
+      "dimensions": {
+        "width": 476,
+        "height": 64
+      },
+      "category": "Metadata",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "78fyajhrtqUePfnxgE68wn",
+      "name": "Shortcut Button Header",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 324,
+        "height": 176
+      },
+      "category": "Subheader",
+      "filetype": ".png"
+    },
+    {
+      "id": "TsuFzNwMypWR5zd9nnc5z2",
+      "name": "Last Activity",
+      "url": "https://pulse-staging.kickup.co/reports/1015",
+      "description": "Reports header",
+      "dimensions": {
+        "width": 310,
+        "height": 48
+      },
+      "category": "Metadata",
+      "saving": false
+    },
+    {
+      "id": "c3XiYMjGkJNsaBe4cCwBTe",
+      "name": "Event Card Metadata",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 560,
+        "height": 80
+      },
+      "category": "Metadata",
+      "saving": false
+    },
+    {
+      "id": "9uTDzfvaycwRfwe2t9T3WV",
+      "name": "Event Month Header",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 268,
+        "height": 106
+      },
+      "category": "Subheader",
+      "filetype": ".png"
+    },
+    {
+      "id": "478TamXFgiiCmuN9nazaf9",
+      "name": "Calendar",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 450,
+        "height": 458
+      },
+      "category": "Other",
+      "filetype": ".png"
+    },
+    {
+      "id": "9UNu5aty5BtwvkgvFXh4G5",
+      "name": "Button Group (Event)",
+      "url": "https://pulse-staging.kickup.co/events/browse/KoSD6f8h5pdLykZtnmrNLR",
+      "description": "",
+      "dimensions": {
+        "width": 706,
+        "height": 268
+      },
+      "category": "Button Group",
+      "saving": false
+    },
+    {
+      "id": "754hqCBmfGgF7LghTHWvsX",
+      "name": "Button Group (Event Collection)",
+      "url": "https://pulse-staging.kickup.co/events/browse/KoSD6f8h5pdLykZtnmrNLR",
+      "description": "",
+      "dimensions": {
+        "width": 672,
+        "height": 264
+      },
+      "category": "Button Group",
+      "saving": false
+    },
+    {
+      "id": "H5b2zd7zvQmFCyhHMdDzJS",
+      "name": "Events in Collection",
+      "url": "https://pulse-staging.kickup.co/events/collection/96t3e6GUJZ7KRyaTbsXJvB",
+      "description": "",
+      "dimensions": {
+        "width": 308,
+        "height": 48
+      },
+      "category": "Metadata",
+      "saving": false
+    },
+    {
+      "id": "UHHixNNvLfYqr699sJ48ZY",
+      "name": "Gray Ghost Icon Button",
+      "url": "https://pulse-staging.kickup.co/events/log",
+      "description": "{notes: \"Has to be in a district with instructions turned on (SSD)\"}",
+      "dimensions": {
+        "width": 326,
+        "height": 92
+      },
+      "category": "Button",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "Vu85Mu9XuXuSQPH9VLD2ey",
+      "name": "Confirmation Codes",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "{notes: \"Border divider & alternating rows. Title case labels\"}",
+      "dimensions": {
+        "width": 1124,
+        "height": 394
+      },
+      "category": "Table",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "uQiWjbbk2HYqqWRr84VWR6",
+      "name": "Users",
+      "url": "https://pulse-staging.kickup.co/events/browse/KoSD6f8h5pdLykZtnmrNLR",
+      "description": "{notes: \"Autocomplete/fuzzy/lookahead\"}",
+      "dimensions": {
+        "width": 2310,
+        "height": 498
+      },
+      "category": "Search",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "zPTbWLgd4GnSL7NRV9BbNi",
+      "name": "Event Search",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "Highlighted query",
+      "dimensions": {
+        "width": 2406,
+        "height": 1314
+      },
+      "category": "Search",
+      "saving": false
+    },
+    {
+      "id": "JrxBhfrcd2cnd7JNbfKGqu",
+      "name": "Date Picker",
+      "url": "https://pulse-staging.kickup.co/events/edit/KoSD6f8h5pdLykZtnmrNLR",
+      "description": "Time & Location section",
+      "dimensions": {
+        "width": 498,
+        "height": 730
+      },
+      "category": "Calendar",
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "iGYfiupKU9BaDcYMqswMjr",
+      "name": "Users & Groups",
+      "url": "https://pulse-staging.kickup.co/events/edit/KoSD6f8h5pdLykZtnmrNLR",
+      "description": "Autocomplete/fuzzy/lookahead",
+      "dimensions": {
+        "width": 2300,
+        "height": 822
+      },
+      "category": "Search",
+      "saving": false
+    },
+    {
+      "id": "nzZ6H5oGDoeazZhks53vFF",
+      "name": "Placeholder",
+      "url": "https://pulse-staging.kickup.co/events/edit/KoSD6f8h5pdLykZtnmrNLR",
+      "description": "",
+      "dimensions": {
+        "width": 2318,
+        "height": 92
+      },
+      "category": "Search",
+      "filetype": ".png"
+    },
+    {
+      "id": "3XbLP49QjREZopiMf6U8oC",
+      "name": "Event Search",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 704,
+        "height": 74
+      },
+      "category": "Empty State",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "bv8fNmzTmAJPCktn2MxcaZ",
+      "name": "Checkbox",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 264,
+        "height": 74
+      },
+      "category": "Checkbox",
+      "filetype": ".png"
+    },
+    {
+      "id": "EiHqGqZH5EYi2ZaqAZ7wUr",
+      "name": "Removable Tag",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 122,
+        "height": 72
+      },
+      "category": "Tags",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "ZFAX2hj49PBuKknma3UpbR",
+      "name": "Label",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 118,
+        "height": 70
+      },
+      "category": "Text",
+      "saving": false
+    },
+    {
+      "id": "6LZuKF5MK5RdfwhdjCfNzQ",
+      "name": "Tag List",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 1454,
+        "height": 78
+      },
+      "category": "Tags",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "7EXD6ejaCRdyAKe3ERx384",
+      "name": "Section Header",
+      "url": "https://pulse-staging.kickup.co/events/manage/tags/create",
+      "description": "",
+      "dimensions": {
+        "width": 354,
+        "height": 84
+      },
+      "category": "Subheader",
+      "filetype": ".png"
+    },
+    {
+      "id": "psn9mwkX5z4k2KHhKMJKCU",
+      "name": "Tags List",
+      "url": "https://pulse-staging.kickup.co/events/manage/tags/create",
+      "description": "",
+      "dimensions": {
+        "width": 392,
+        "height": 78
+      },
+      "category": "Empty State",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "jzeQcbjGZyYDwSjTZVp65p",
+      "name": "Card Header",
+      "url": "https://pulse-staging.kickup.co/events/log",
+      "description": "{section: \"Submitted Out of District Events\"}",
+      "dimensions": {
+        "width": 706,
+        "height": 98
+      },
+      "category": "Subheader",
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "jwV67dhm6swrP99qw73tWt",
+      "name": "Edit Report Section Header",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 502,
+        "height": 136
+      },
+      "category": "Subheader",
+      "filetype": ".png",
+      "saving": true
+    },
+    {
+      "id": "iGaB3u8nv6KqzZs5goRCut",
+      "name": "Data Sources & Submissions",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "{section: \"Select Data Sources\"}",
+      "dimensions": {
+        "width": 788,
+        "height": 62
+      },
+      "category": "Metadata",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "NknCPHoVChtJrnodGQrA4Y",
+      "name": "Edit Report Section Advance Buttons",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 504,
+        "height": 118
+      },
+      "category": "Button Group",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "t8qabHj8xid24abonceq2b",
+      "name": "Page Header",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/",
+      "description": "",
+      "dimensions": {
+        "width": 836,
+        "height": 130
+      },
+      "category": "Header",
+      "filetype": ".png"
+    },
+    {
+      "id": "6s6cnCdyV9UcSNuWXQCJ5E",
+      "name": "Widget Breadcrumbs",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "{section: \"Edit Widget Modal\"}",
+      "dimensions": {
+        "width": 596,
+        "height": 82
+      },
+      "category": "Other",
+      "clientFacing": null
+    },
+    {
+      "id": "Bi9bvK4r2Ye7v9a7EaJ8Fi",
+      "name": "Breadcrumbs (Edit Report)",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 420,
+        "height": 68
+      },
+      "category": "Other",
+      "saving": false
+    },
+    {
+      "id": "ind7eahF2fd4urNoo5jefS",
+      "name": "Data Filters",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 1438,
+        "height": 304
+      },
+      "category": "List",
+      "saving": false
+    },
+    {
+      "id": "ooknXQ9c2QoVUnXopDABbF",
+      "name": "Available Widgets",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 584,
+        "height": 1230
+      },
+      "category": "Button Group",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "GbYa4iXWm6HK5duPZJPjaH",
+      "name": "Share Report User List",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 230,
+        "height": 46
+      },
+      "category": "Empty State",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "uipepvtYZBVkckuT5MVNVA",
+      "name": "No Placeholder",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/",
+      "description": "{section: \"Manage Data Sources\"}",
+      "dimensions": {
+        "width": 1390,
+        "height": 104
+      },
+      "category": "Search",
+      "filetype": ".png",
+      "clientFacing": null
+    },
+    {
+      "id": "Faq8FVLb3SsC6kJWZ2L9vS",
+      "name": "Solid Carat",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/?show_archived=false",
+      "description": "",
+      "dimensions": {
+        "width": 70,
+        "height": 62
+      },
+      "category": "Button",
+      "filetype": ".png",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "ZvkKB3HbgNp96qmZsCGfAh",
+      "name": "Manage Data Sources",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/?show_archived=false",
+      "description": "",
+      "dimensions": {
+        "width": 2684,
+        "height": 1004
+      },
+      "category": "Table"
+    },
+    {
+      "id": "Mzr4UZvgZrgdrzSJUvt6xt",
+      "name": "Warning Message",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 1276,
+        "height": 176
+      },
+      "category": "Message",
+      "filetype": ".png"
+    },
+    {
+      "id": "vXgPqcPV5PvgNhMf9pHR67",
+      "name": "Highlighted Value",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "{section: \"Import Details\"}",
+      "dimensions": {
+        "width": 462,
+        "height": 50
+      },
+      "category": "Metadata",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "x7Q9xCz6jFZSnrsxPV2x4T",
+      "name": "Plain Text",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "{section: \"Data Source Details\"}",
+      "dimensions": {
+        "width": 606,
+        "height": 44
+      },
+      "category": "Metadata",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "zXKe7Gp7Spe4rwWcgdvq9g",
+      "name": "Small Gray Outline Button",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 154,
+        "height": 50
+      },
+      "category": "Button",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "v6smt4n2K3npsot7ZdqY2M",
+      "name": "Disabled Primary Button",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 1280,
+        "height": 92
+      },
+      "category": "Button",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "t2fn57VGzmgA8QvmKBWaAj",
+      "name": "Disabled Warning Button",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 1278,
+        "height": 88
+      },
+      "category": "Button",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "kZbcASyfWphQordpPf5xXy",
+      "name": "Expandable Group",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 2790,
+        "height": 668
+      },
+      "category": "Accordions",
+      "saving": false,
+      "clientFacing": false,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "4fYspdAujsfRLjP39iwm6g",
+      "name": "Response Data",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 1270,
+        "height": 418
+      },
+      "category": "Text",
+      "saving": false
+    },
+    {
+      "id": "vKUtvVDEaHFHEhS8oY9CaZ",
+      "name": "Disabled Text Input",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 1578,
+        "height": 162
+      },
+      "category": "Input",
+      "filetype": ".png"
+    },
+    {
+      "id": "LU6n5h99os9xVj3evCB93Q",
+      "name": "District Dropdown Options",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 1528,
+        "height": 1950
+      },
+      "category": "Select",
+      "saving": true
+    },
+    {
+      "id": "4Q44GAgdkt898uF2yn9wou",
+      "name": "Multi-select",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 1562,
+        "height": 272
+      },
+      "category": "Multi Select",
+      "saving": true,
+      "clientFacing": false
+    },
+    {
+      "id": "LpTM6mfk6WVmHyJb8PaSRL",
+      "name": "Checkbox item",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 152,
+        "height": 60
+      },
+      "category": "Checkbox",
+      "filetype": ".png"
+    },
+    {
+      "id": "YjSYjhqNmHXHqdFnvi3pKd",
+      "name": "Date Picker",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 1556,
+        "height": 188
+      },
+      "category": "Button Group",
+      "filetype": ".png",
+      "clientFacing": null,
+      "styleSource": [
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "kAneXJmkC6JrSPySaaW6Zr",
+      "name": "Select with Inline Label",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/update_processor_columns_mappings/",
+      "description": "",
+      "dimensions": {
+        "width": 2232,
+        "height": 126
+      },
+      "category": "Select",
+      "saving": false,
+      "filetype": ".png"
+    },
+    {
+      "id": "ZuMJjVmki6x4dTZQ6mGUSA",
+      "name": "Number Input with Inline Label",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/update_processor_columns_mappings/",
+      "description": "",
+      "dimensions": {
+        "width": 2264,
+        "height": 200
+      },
+      "category": "Form",
+      "saving": false
+    },
+    {
+      "id": "wB2RoiM8T9PB2CQ6i4Hkod",
+      "name": "Entity Processor Editor (Group)",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/entity_processor/create",
+      "description": "",
+      "dimensions": {
+        "width": 816,
+        "height": 96
+      },
+      "category": "Button Group",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "bscCpUGwRjrR3dTCJp9Tfn",
+      "name": "Entity Processor List",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "{section: \"Entity Processor List\"}",
+      "dimensions": {
+        "width": 2708,
+        "height": 338
+      },
+      "category": "List",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "EQfTwKRa9zBcNaG8z9rJkm",
+      "name": "Tall Primary Solid Button",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "Section: Entity Processors",
+      "dimensions": {
+        "width": 166,
+        "height": 100
+      },
+      "category": "Button",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "58ad62opLkFNHpb9oQ6RZm",
+      "name": "Textarea with inline label",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/bulk_addprocessor/",
+      "description": "",
+      "dimensions": {
+        "width": 2274,
+        "height": 462
+      },
+      "category": "Textarea",
+      "saving": false,
+      "filetype": ".png"
+    },
+    {
+      "id": "rquSsABoHRr7LuDGUX4Kk9",
+      "name": "Bulk Add Response Processors (Group)",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/bulk_addprocessor/",
+      "description": "",
+      "dimensions": {
+        "width": 398,
+        "height": 96
+      },
+      "category": "Button Group",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "oHyrQw6c8Mho4bk7bojTjj",
+      "name": "Bulk Edit Goal Processors",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/bulk_edit_goal_processors/",
+      "description": "",
+      "dimensions": {
+        "width": 2690,
+        "height": 1214
+      },
+      "category": "Table",
+      "saving": false
+    },
+    {
+      "id": "Gr38q3AykN3NYB3dp42tzc",
+      "name": "Gray Outline dropdown button with icon",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/bulk_edit_goal_processors/",
+      "description": "{style: \"2px\"}",
+      "dimensions": {
+        "width": 368,
+        "height": 98
+      },
+      "category": "Button",
+      "filetype": ".png",
+      "clientFacing": null,
+      "styleSource": [
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "TazzRwqRy6Q2r6qMpwXapF",
+      "name": "Dropdown with selectable options",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/bulk_edit_goal_processors/",
+      "description": "",
+      "dimensions": {
+        "width": 418,
+        "height": 174
+      },
+      "category": "Select",
+      "filetype": ".png"
+    },
+    {
+      "id": "qKDs5i4hP3RFzpv92us4Xx",
+      "name": "Primary Outline Button with Icon",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 630,
+        "height": 92
+      },
+      "category": "Button",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "YxBPAsqJmXdkXw92Enoxtt",
+      "name": "Response Processor List",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/s",
+      "description": "",
+      "dimensions": {
+        "width": 2710,
+        "height": 1716
+      },
+      "category": "List",
+      "saving": true
+    },
+    {
+      "id": "kVLyo8fr3W6pi8dvYrZcK7",
+      "name": "Label + Icon",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/details/",
+      "description": "",
+      "dimensions": {
+        "width": 180,
+        "height": 52
+      },
+      "category": "Metadata"
+    },
+    {
+      "id": "KiqRVhtugLzu4DYNo4giqF",
+      "name": "Inline Radio Button with long text",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1153/update_submission_id_configuration/",
+      "description": "",
+      "dimensions": {
+        "width": 2198,
+        "height": 290
+      },
+      "category": "Radio Button",
+      "filetype": ".png",
+      "saving": false
+    },
+    {
+      "id": "8hgWai5UoyinUM5kmRovmt",
+      "name": "Success Message",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1239/details/",
+      "description": "",
+      "dimensions": {
+        "width": 1286,
+        "height": 146
+      },
+      "category": "Message",
+      "filetype": ".png"
+    },
+    {
+      "id": "F8m3Sk9QEwD3omTFmj77K8",
+      "name": "Warning Badge",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/",
+      "description": "",
+      "dimensions": {
+        "width": 430,
+        "height": 64
+      },
+      "category": "Badge",
+      "saving": false,
+      "clientFacing": false,
+      "styleSource": "In-product Less"
+    },
+    {
+      "id": "vV7ouQEgBg72HqktfoXnkf",
+      "name": "Error Badge",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/",
+      "description": "",
+      "dimensions": {
+        "width": 420,
+        "height": 62
+      },
+      "category": "Badge",
+      "saving": false,
+      "clientFacing": false,
+      "styleSource": "In-product Less"
+    },
+    {
+      "id": "j5wtadRTeWr9uo2Ppe79JD",
+      "name": "Success Badge",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/",
+      "description": "",
+      "dimensions": {
+        "width": 466,
+        "height": 78
+      },
+      "category": "Badge",
+      "saving": false,
+      "clientFacing": false,
+      "styleSource": "In-product Less"
+    },
+    {
+      "id": "n6AdWuQS3qghRcTGYrfyxw",
+      "name": "Tall Tooltip Error Message",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/",
+      "description": "",
+      "dimensions": {
+        "width": 856,
+        "height": 1458
+      },
+      "category": "Tooltip",
+      "clientFacing": null
+    },
+    {
+      "id": "Yifj4EYqKSra6VhyhKpatW",
+      "name": "Error Modal",
+      "url": "https://pulse-staging.kickup.co/events/edit/QYUatFqqU8rKA7q5TiUMsY",
+      "description": "",
+      "dimensions": {
+        "width": 1556,
+        "height": 602
+      },
+      "filetype": ".png",
+      "category": "Overlay"
+    },
+    {
+      "id": "BnrYofYZ688TaNJ9j9VNre",
+      "name": "Home Page",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 376,
+        "height": 324
+      },
+      "filetype": ".gif",
+      "category": "Motion"
+    },
+    {
+      "id": "MqG3WrL89VhbEs3iZSMY4e",
+      "name": "Horizontal Loading Bars",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 864,
+        "height": 414
+      },
+      "filetype": ".gif",
+      "category": "Motion",
+      "saving": false
+    },
+    {
+      "id": "rAW7MV6EKyqjqochYoRYon",
+      "name": "Events List",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 1872,
+        "height": 948
+      },
+      "filetype": ".gif",
+      "category": "Motion",
+      "saving": false
+    },
+    {
+      "id": "s4hZ9GekTP2hdCvYuHCg2n",
+      "name": "Loading Event Count Value",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 390,
+        "height": 163
+      },
+      "filetype": ".gif",
+      "category": "Motion",
+      "saving": false
+    },
+    {
+      "id": "arit5DtJCewqX8JNsRfdmC",
+      "name": "Dotted Pagination",
+      "url": "https://pulse-staging.kickup.co/directory/people",
+      "description": "",
+      "dimensions": {
+        "width": 844,
+        "height": 136
+      },
+      "filetype": ".png",
+      "category": "Pagination",
+      "saving": false
+    },
+    {
+      "id": "wuTWammDGPZNYz5XhhQrzN",
+      "name": "Bulk Permissions Modal",
+      "url": "https://pulse-staging.kickup.co/directory/people",
+      "description": "",
+      "dimensions": {
+        "width": 2654,
+        "height": 1534
+      },
+      "filetype": ".png",
+      "category": "Overlay",
+      "saving": true
+    },
+    {
+      "id": "w3A2iKW9tefB9DtLLqH5hz",
+      "name": "Alternating Selectable List",
+      "url": "https://pulse-staging.kickup.co/directory/people",
+      "description": "",
+      "dimensions": {
+        "width": 1346,
+        "height": 656
+      },
+      "filetype": ".png",
+      "category": "List",
+      "saving": false
+    },
+    {
+      "id": "xoMFYnjg8LnGkdsducHqHg",
+      "name": "Bulk Groups Editing Group",
+      "url": "https://pulse-staging.kickup.co/directory/people",
+      "description": "",
+      "dimensions": {
+        "width": 1386,
+        "height": 126
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "In-product Less"
+      ]
+    },
+    {
+      "id": "SMJhQbJVJCJQdcddfafSps",
+      "name": "Warning Modal",
+      "url": "https://pulse-staging.kickup.co/directory/people",
+      "description": "",
+      "dimensions": {
+        "width": 2138,
+        "height": 920
+      },
+      "filetype": ".png",
+      "category": "Overlay"
+    },
+    {
+      "id": "wWNq64uZjy726Kpuv9E6CD",
+      "name": "Button Tabs",
+      "url": "https://pulse-staging.kickup.co/directory/people/manage/invitations/create",
+      "description": "",
+      "dimensions": {
+        "width": 628,
+        "height": 180
+      },
+      "filetype": ".png",
+      "category": "Tabs",
+      "saving": false
+    },
+    {
+      "id": "cvja7fijuq7S3oPqT4uUtE",
+      "name": "Invitations Actions Button Group",
+      "url": "https://pulse-staging.kickup.co/directory/people/manage/invitations/create",
+      "description": "",
+      "dimensions": {
+        "width": 424,
+        "height": 114
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": [
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "wexLX8qgbLVNjtqEz25KhE",
+      "name": "Inline- Info Message",
+      "url": "https://pulse-staging.kickup.co/directory/people/manage/invitations/create",
+      "description": "",
+      "dimensions": {
+        "width": 1112,
+        "height": 86
+      },
+      "filetype": ".png",
+      "category": "Message",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "FmhLQezyj5PTaZhZ2ooCDq",
+      "name": "Error State Text Input",
+      "url": "https://pulse-staging.kickup.co/directory/people/manage/invitations/create",
+      "description": "",
+      "dimensions": {
+        "width": 1392,
+        "height": 172
+      },
+      "filetype": ".png",
+      "category": "Input",
+      "saving": true
+    },
+    {
+      "id": "BkqEmnnbq2ghanrQEp6E7r",
+      "name": "Page Header",
+      "url": "https://pulse-staging.kickup.co/directory",
+      "description": "",
+      "dimensions": {
+        "width": 438,
+        "height": 168
+      },
+      "filetype": ".png",
+      "category": "Header",
+      "saving": true
+    },
+    {
+      "id": "Xf7w393WTuejsKDoRbN4rj",
+      "name": "Edit Person Actions Group",
+      "url": "https://pulse-staging.kickup.co/directory/people/edit/394661",
+      "description": "",
+      "dimensions": {
+        "width": 924,
+        "height": 96
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "LMRrDeGKwXqioyAkPUEV3D",
+      "name": "Header with subheader",
+      "url": "https://pulse-staging.kickup.co/reports/browse/",
+      "description": "",
+      "dimensions": {
+        "width": 882,
+        "height": 144
+      },
+      "filetype": ".png",
+      "category": "Header"
+    },
+    {
+      "id": "52vKsoy9BqNsTtgGp8sNoa",
+      "name": "Running Man",
+      "url": "https://pulse-staging.kickup.co/reports/786",
+      "description": "",
+      "dimensions": {
+        "width": 684,
+        "height": 432
+      },
+      "filetype": ".gif",
+      "category": "Motion",
+      "saving": false
+    },
+    {
+      "id": "omnEeVmvuv6dLdFFTkikgP",
+      "name": "Report Tabs",
+      "url": "https://pulse-staging.kickup.co/reports/786",
+      "description": "",
+      "dimensions": {
+        "width": 1990,
+        "height": 192
+      },
+      "filetype": ".png",
+      "category": "Tabs",
+      "saving": true
+    },
+    {
+      "id": "A7LhHdXt5M7LAfZ5dfAcxc",
+      "name": "Key Takeaways Header",
+      "url": "https://pulse-staging.kickup.co/reports/786",
+      "description": "",
+      "dimensions": {
+        "width": 2698,
+        "height": 128
+      },
+      "filetype": ".png",
+      "category": "Text",
+      "saving": false
+    },
+    {
+      "id": "vkH4uHDW5Reu4pHbCvpgtT",
+      "name": "Widget Header",
+      "url": "https://pulse-staging.kickup.co/reports/786#Reactions%20%20Learnings",
+      "description": "",
+      "dimensions": {
+        "width": 708,
+        "height": 76
+      },
+      "filetype": ".png",
+      "category": "Subheader"
+    },
+    {
+      "id": "rMAiheDH3iB7UMnXHvXdDu",
+      "name": "Filters List - Collapsed",
+      "url": "https://pulse-staging.kickup.co/reports/786#Reactions%20%20Learnings",
+      "description": "{section: \"Filters modal\"}",
+      "dimensions": {
+        "width": 1284,
+        "height": 840
+      },
+      "filetype": ".png",
+      "category": "Accordions",
+      "saving": true,
+      "clientFacing": true,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "hJ5YrA5ZrHfg8D5DwVUMAr",
+      "name": "Filters List - Expanded",
+      "url": "https://pulse-staging.kickup.co/reports/786#Reactions%20%20Learnings",
+      "description": "{section: \"Filters modal\"}",
+      "dimensions": {
+        "width": 1272,
+        "height": 420
+      },
+      "filetype": ".png",
+      "category": "Accordions",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "kzooZziNPArefAeWcjhZmz",
+      "name": "Selected Filters",
+      "url": "https://pulse-staging.kickup.co/reports/786#Reactions%20%20Learnings",
+      "description": "{section: \"Filters modal\"}",
+      "dimensions": {
+        "width": 1224,
+        "height": 352
+      },
+      "filetype": ".png",
+      "category": "List",
+      "saving": false,
+      "clientFacing": null
+    },
+    {
+      "id": "gF7urkqbcLM8wMyPDpXofa",
+      "name": "Tiny Gray Outline Button",
+      "url": "https://pulse-staging.kickup.co/reports/786#Reactions%20%20Learnings",
+      "description": "{section: \"Filters modal\"}",
+      "dimensions": {
+        "width": 178,
+        "height": 54
+      },
+      "filetype": ".png",
+      "category": "Button",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "tpsDy24JTeTcsRBtAnv8Hn",
+      "name": "Check\"box\"",
+      "url": "https://pulse-staging.kickup.co/reports/786#Reactions%20%20Learnings",
+      "description": "{section: \"Filters modal\"}",
+      "dimensions": {
+        "width": 248,
+        "height": 54
+      },
+      "filetype": ".png",
+      "category": "Checkbox",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "qgdtsoiZc4AosNcbHuuAQr",
+      "name": "Check\"box\" - Selected",
+      "url": "https://pulse-staging.kickup.co/reports/786#Reactions%20%20Learnings",
+      "description": "{section: \"Filters modal\"}",
+      "dimensions": {
+        "width": 340,
+        "height": 60
+      },
+      "filetype": ".png",
+      "category": "Checkbox",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "qCm7pyhhF9i7MZcL6stg67",
+      "name": "Widget Subheader",
+      "url": "https://pulse-staging.kickup.co/reports/786#Reactions%20%20Learnings",
+      "description": "",
+      "dimensions": {
+        "width": 176,
+        "height": 54
+      },
+      "filetype": ".png",
+      "category": "Text",
+      "saving": true
+    },
+    {
+      "id": "Y58vfN9miohPBfDJnp6mDH",
+      "name": "Rubrics Link",
+      "url": "https://pulse-staging.kickup.co/reports/786#Reactions%20%20Learnings",
+      "description": "",
+      "dimensions": {
+        "width": 166,
+        "height": 50
+      },
+      "filetype": ".png",
+      "category": "Link"
+    },
+    {
+      "id": "ZmbmruqBnqqmFG7o9VU53Q",
+      "name": "Open Responses Prompt",
+      "url": "https://pulse-staging.kickup.co/reports/786#Reactions%20%20Learnings",
+      "description": "",
+      "dimensions": {
+        "width": 2078,
+        "height": 94
+      },
+      "filetype": ".png",
+      "category": "Text",
+      "saving": false
+    },
+    {
+      "id": "e79xZRUh5obrcsdrp2wdXC",
+      "name": "Response Overlay",
+      "url": "https://pulse-staging.kickup.co/reports/786#Baseline%20Needs",
+      "description": "",
+      "dimensions": {
+        "width": 3350,
+        "height": 1684
+      },
+      "filetype": ".png",
+      "category": "Overlay",
+      "saving": true
+    },
+    {
+      "id": "H6qmXLL7G3qwYXdQaoXkbg",
+      "name": "Tag List",
+      "url": "https://pulse-staging.kickup.co/reports/786#Baseline%20Needs",
+      "description": "{section: \"Response Modal\"}",
+      "dimensions": {
+        "width": 2080,
+        "height": 80
+      },
+      "filetype": ".png",
+      "category": "Other",
+      "saving": true,
+      "clientFacing": true
+    },
+    {
+      "id": "jJw4e4SAbZdmHLgU7grxkU",
+      "name": "Printer Friendly View",
+      "url": "https://pulse-staging.kickup.co/reports/history/159347/",
+      "description": "",
+      "dimensions": {
+        "width": 406,
+        "height": 128
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "RpQRyX5nu4ktmGHyy7tqSu",
+      "name": "Covered Topics with Color Swatch",
+      "url": "https://pulse-staging.kickup.co/reports/history/159347/",
+      "description": "",
+      "dimensions": {
+        "width": 870,
+        "height": 702
+      },
+      "filetype": ".png",
+      "category": "List",
+      "saving": true
+    },
+    {
+      "id": "oiCR5tzeJQ3uT2dfKG8yee",
+      "name": "Questions List with Icons",
+      "url": "https://pulse-staging.kickup.co/reports/history/159347/",
+      "description": "",
+      "dimensions": {
+        "width": 1602,
+        "height": 722
+      },
+      "filetype": ".png",
+      "category": "List",
+      "saving": true
+    },
+    {
+      "id": "cRcFCSjr3ox4vhqaYmWdUF",
+      "name": "Response Action Group",
+      "url": "https://pulse-staging.kickup.co/reports/history/159347/",
+      "description": "",
+      "dimensions": {
+        "width": 484,
+        "height": 82
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "o2naiLcpKYXjtrixV4KCV8",
+      "name": "Response Action Group - Open",
+      "url": "https://pulse-staging.kickup.co/reports/history/159347/",
+      "description": "",
+      "dimensions": {
+        "width": 456,
+        "height": 252
+      },
+      "filetype": ".png",
+      "category": "Select",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "aE5NtwcDiSpZoATjgFbCcS",
+      "name": "Response Modal Header",
+      "url": "https://pulse-staging.kickup.co/reports/history/159347/",
+      "description": "{section: \"Recent Activity Response Modal\"}",
+      "dimensions": {
+        "width": 826,
+        "height": 150
+      },
+      "filetype": ".png",
+      "category": "Header",
+      "clientFacing": null
+    },
+    {
+      "id": "2o9TcT3ukRHYa5ggqvEaAX",
+      "name": "Empty Attendance Log",
+      "url": "https://pulse-staging.kickup.co/events/log",
+      "description": "",
+      "dimensions": {
+        "width": 710,
+        "height": 54
+      },
+      "filetype": ".png",
+      "category": "Empty State",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "Pnsq2QdwqFfVRokVd6ioHC",
+      "name": "Upload Dropzone",
+      "url": "https://pulse-staging.kickup.co/events/manage/import-events",
+      "description": "",
+      "dimensions": {
+        "width": 2302,
+        "height": 468
+      },
+      "filetype": ".png",
+      "category": "Upload",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "GCuvj2NjC48QiqNJx8QjGK",
+      "name": "Invalid Input",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "{section: \"Confirmation code modal\"}",
+      "dimensions": {
+        "width": 1152,
+        "height": 170
+      },
+      "filetype": ".png",
+      "category": "Input",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "5UYv2i9sARDbYuxEkBk3J8",
+      "name": "Outline Checkbox",
+      "url": "https://pulse-staging.kickup.co/reports/manage/786/edit",
+      "description": "{section: \"Configure Settings\"}",
+      "dimensions": {
+        "width": 416,
+        "height": 48
+      },
+      "filetype": ".png",
+      "category": "Checkbox",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "kFRduqqjy8d6Mp2gjqPnkb",
+      "name": "Outline Checkbox - Selected",
+      "url": "https://pulse-staging.kickup.co/reports/manage/786/edit",
+      "description": "{section: \"Configure Settings\"}",
+      "dimensions": {
+        "width": 406,
+        "height": 52
+      },
+      "filetype": ".png",
+      "category": "Checkbox",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "queVrUDotYc2CLVzjQqEoi",
+      "name": "Large Selectable Button List",
+      "url": "https://pulse-staging.kickup.co/reports/manage/786/edit",
+      "description": "{section: \"Topic Highlight Widget\"}",
+      "dimensions": {
+        "width": 1494,
+        "height": 750
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "XfuRmYt3ChtJbvGaG4isat",
+      "name": "Horizontal Large Button Group",
+      "url": "https://pulse-staging.kickup.co/reports/manage/786/edit",
+      "description": "{section: \"Topic Highlight Widget\"}",
+      "dimensions": {
+        "width": 2966,
+        "height": 208
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "saving": true,
+      "clientFacing": null,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "HAeg3ns9x2cn8NZt6fSxZH",
+      "name": "Topic Select",
+      "url": "https://pulse-staging.kickup.co/reports/manage/786/edit",
+      "description": "{section: \"Topic Highlight Widget\"}",
+      "dimensions": {
+        "width": 2026,
+        "height": 1942
+      },
+      "filetype": ".png",
+      "category": "Select",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "kExrdo4E63Qe2S72Qv8BVt",
+      "name": "Multiple Choice Question Select",
+      "url": "https://pulse-staging.kickup.co/reports/manage/786/edit",
+      "description": "{section: \"Multiple Choice Widget\"}",
+      "dimensions": {
+        "width": 2974,
+        "height": 1052
+      },
+      "filetype": ".png",
+      "category": "Other",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "DvCNC27fqvwsTztn3evqbF",
+      "name": "Last Edited Badge",
+      "url": "https://pulse-staging.kickup.co/reports/manage/786/edit",
+      "description": "{section: \"Edit Report Widget Item\"}",
+      "dimensions": {
+        "width": 200,
+        "height": 46
+      },
+      "filetype": ".png",
+      "category": "Metadata",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "6MzL3DkrhSyw5iQgyDSXGF",
+      "name": "Action List",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 566,
+        "height": 380
+      },
+      "filetype": ".png",
+      "category": "List",
+      "saving": true
+    },
+    {
+      "id": "NqZ2aqd3V8LMDgi29Q7ghv",
+      "name": "Storybook Danger Modal Button Group",
+      "url": "http://kickup-styleguide.s3-website-us-east-1.amazonaws.com/master/?selectedKind=button.BackButton&selectedStory=Default&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel",
+      "description": "",
+      "dimensions": {
+        "width": 432,
+        "height": 94
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "saving": false,
+      "clientFacing": null,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "7ndDLwZqPURAYas7LrTsys",
+      "name": "Storybook Danger Modal",
+      "url": "http://kickup-styleguide.s3-website-us-east-1.amazonaws.com/master/?selectedKind=button.BackButton&selectedStory=Default&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel",
+      "description": "",
+      "dimensions": {
+        "width": 1252,
+        "height": 386
+      },
+      "filetype": ".png",
+      "category": "Overlay",
+      "saving": false,
+      "clientFacing": false
+    },
+    {
+      "id": "pdLdAibFJjvoKzqmQn67NC",
+      "name": "Matrix - Collapsed",
+      "url": "https://pulse-staging.kickup.co/reports/1803",
+      "description": "",
+      "dimensions": {
+        "width": 2478,
+        "height": 616
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "saving": true,
+      "clientFacing": true
+    },
+    {
+      "id": "qZDinFbqNZd394NZRdL3SN",
+      "name": "Matrix - Expanded",
+      "url": "https://pulse-staging.kickup.co/reports/1803",
+      "description": "",
+      "dimensions": {
+        "width": 2472,
+        "height": 1072
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "saving": false,
+      "clientFacing": true
+    },
+    {
+      "id": "wwQNRbLS5tVQf9SWhFssyj",
+      "name": "Response List",
+      "url": "https://pulse-staging.kickup.co/reports/1803",
+      "description": "",
+      "dimensions": {
+        "width": 2584,
+        "height": 1068
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "saving": true,
+      "clientFacing": true
+    },
+    {
+      "id": "bftWgHsQzcnhTwZhVgmc45",
+      "name": "Tag Select",
+      "url": "https://pulse-staging.kickup.co/reports/1803",
+      "description": "",
+      "dimensions": {
+        "width": 1144,
+        "height": 500
+      },
+      "filetype": ".png",
+      "category": "Multi Select",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "26egJKSdeUkNZJpA6mnctt",
+      "name": "Checkbox",
+      "url": "https://pulse-staging.kickup.co/reports/1803",
+      "description": "{section: \"Open Response\"}",
+      "dimensions": {
+        "width": 62,
+        "height": 58
+      },
+      "filetype": ".png",
+      "category": "Checkbox",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "a4fkPdgFQZi8Vbmxwkgriy",
+      "name": "Checkbox - Selected",
+      "url": "https://pulse-staging.kickup.co/reports/1803",
+      "description": "{section: \"Open Response\"}",
+      "dimensions": {
+        "width": 60,
+        "height": 54
+      },
+      "filetype": ".png",
+      "category": "Checkbox",
+      "clientFacing": null
+    },
+    {
+      "id": "bDJuhV7eB5Bx667AZiVrpm",
+      "name": "Add Tags - Different Font",
+      "url": "https://pulse-staging.kickup.co/reports/1803",
+      "description": "{section: \"Edit Tags Modal\"}",
+      "dimensions": {
+        "width": 1136,
+        "height": 92
+      },
+      "filetype": ".png",
+      "category": "Input",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "4CdKdnwe49sKXKiwti3HSa",
+      "name": "Inline- Info Message",
+      "url": "https://pulse-staging.kickup.co/reports/1803",
+      "description": "{section: \"Edit Tags Modal\"}",
+      "dimensions": {
+        "width": 646,
+        "height": 52
+      },
+      "filetype": ".png",
+      "category": "Message",
+      "saving": true,
+      "clientFacing": null
+    },
+    {
+      "id": "f2RsPgLZVhNZY9Fe63H5SX",
+      "name": "Multi-select Input",
+      "url": "https://pulse-staging.kickup.co/reports/manage/1669/edit",
+      "description": "{section: \"Anonymize Report\"}",
+      "dimensions": {
+        "width": 1248,
+        "height": 138
+      },
+      "filetype": ".png",
+      "category": "Multi Select",
+      "clientFacing": null
+    },
+    {
+      "id": "LGEBC2t9oZa6bm4hv6x2Rz",
+      "name": "Removable Tag",
+      "url": "https://pulse-staging.kickup.co/reports/manage/1669/edit",
+      "description": "",
+      "dimensions": {
+        "width": 368,
+        "height": 92
+      },
+      "filetype": ".png",
+      "category": "Tags",
+      "clientFacing": null
+    },
+    {
+      "id": "C778hbifAJShLormRTt8dM",
+      "name": "Primary Message",
+      "url": "https://pulse-staging.kickup.co/utilities/convert_csv/",
+      "description": "",
+      "dimensions": {
+        "width": 1338,
+        "height": 224
+      },
+      "filetype": ".png",
+      "category": "Message",
+      "clientFacing": null
+    },
+    {
+      "id": "sc6jqxvqacB9qfi8n2KiTD",
+      "name": "File Upload",
+      "url": "https://pulse-staging.kickup.co/utilities/convert_csv/",
+      "description": "",
+      "dimensions": {
+        "width": 482,
+        "height": 98
+      },
+      "filetype": ".png",
+      "category": "Upload",
+      "clientFacing": null
+    },
+    {
+      "id": "EcDHZAp3VsUqLwebrq8qoQ",
+      "name": "Label + Disabled Button",
+      "url": "https://pulse-staging.kickup.co/utilities/convert_csv/",
+      "description": "",
+      "dimensions": {
+        "width": 614,
+        "height": 98
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "clientFacing": null,
+      "styleSource": [
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "vEQtH83nYk787oxkDzGPpG",
+      "name": "Matrix Question - Single Response",
+      "url": "https://pulse-staging.kickup.co/reports/1803#All%20Responses",
+      "description": "",
+      "dimensions": {
+        "width": 2828,
+        "height": 914
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true
+    },
+    {
+      "id": "iBCq8boaCUxzXscyTTtLKu",
+      "name": "Open Response - Single Response",
+      "url": "https://pulse-staging.kickup.co/reports/1803#All%20Responses",
+      "description": "",
+      "dimensions": {
+        "width": 2902,
+        "height": 264
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true
+    },
+    {
+      "id": "XFYdbqMEgDty6KmtQinytZ",
+      "name": "Bar Chart",
+      "url": "https://pulse-staging.kickup.co/reports/1893",
+      "description": "{section: \"Open Response Tags\"}",
+      "dimensions": {
+        "width": 1812,
+        "height": 282
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true
+    },
+    {
+      "id": "GR6gCZRkfXfzqSh8fXbFt9",
+      "name": "Feedback Types Button List",
+      "url": "https://pulse-staging.kickup.co/reports/1893",
+      "description": "",
+      "dimensions": {
+        "width": 494,
+        "height": 84
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "QrBU34CC5hmsgxfkT5TW4f",
+      "name": "Multiple Choice",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Planning%20%20Implementing%20Supports",
+      "description": "",
+      "dimensions": {
+        "width": 2606,
+        "height": 990
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true
+    },
+    {
+      "id": "QFtZMZsr98gEzoCeQRor4x",
+      "name": "Segmented Total",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Planning%20%20Implementing%20Supports",
+      "description": "",
+      "dimensions": {
+        "width": 828,
+        "height": 572
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true
+    },
+    {
+      "id": "P6ujhE6Dur6DsyGfWn9A6q",
+      "name": "Instructions Accordion",
+      "url": "https://pulse-staging.kickup.co/events/request/create",
+      "description": "",
+      "dimensions": {
+        "width": 1151,
+        "height": 65
+      },
+      "filetype": ".png",
+      "category": "Accordions",
+      "clientFacing": true,
+      "styleSource": "In-product Less"
+    },
+    {
+      "id": "45EsLBiZieZZiqspKasqfe",
+      "name": "Add Credits",
+      "url": "https://pulse-staging.kickup.co/events/request/create",
+      "description": "",
+      "dimensions": {
+        "width": 123,
+        "height": 57
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "clientFacing": true,
+      "styleSource": [
+        "In-product Less"
+      ]
+    },
+    {
+      "id": "c545nsbVSp9ehqr7oo2A5d",
+      "name": "Event Request",
+      "url": "https://pulse-staging.kickup.co/events/request/10779",
+      "description": "",
+      "dimensions": {
+        "width": 349,
+        "height": 130
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "T7MYvSc7Z3QUNjhanjGPkg",
+      "name": "Event Request Status",
+      "url": "https://pulse-staging.kickup.co/events/request/10779",
+      "description": "",
+      "dimensions": {
+        "width": 181,
+        "height": 38
+      },
+      "filetype": ".png",
+      "category": "Text",
+      "clientFacing": true
+    },
+    {
+      "id": "u4RoxFd7SaquEaVAL7sGe2",
+      "name": "Timeline List",
+      "url": "https://pulse-staging.kickup.co/events/request/10779",
+      "description": "",
+      "dimensions": {
+        "width": 1161,
+        "height": 227
+      },
+      "filetype": ".png",
+      "category": "List",
+      "clientFacing": true
+    },
+    {
+      "id": "chpPtd4Ao6SRkmQGPYt2cM",
+      "name": "Upload Files Modal",
+      "url": "https://pulse-staging.kickup.co/events/request/10779",
+      "description": "",
+      "dimensions": {
+        "width": 1518,
+        "height": 946
+      },
+      "filetype": ".png",
+      "category": "Overlay",
+      "clientFacing": true
+    },
+    {
+      "id": "qCGFEFKELroyPABV5zQYdT",
+      "name": "Submission Status (In-table)",
+      "url": "https://pulse-staging.kickup.co/events/log",
+      "description": "",
+      "dimensions": {
+        "width": 330,
+        "height": 78
+      },
+      "filetype": ".png",
+      "category": "Text",
+      "clientFacing": true
+    },
+    {
+      "id": "nqa9YKWEn3chNjhVJzHrg6",
+      "name": "Code",
+      "url": "https://pulse-staging.kickup.co/events/manage/import-events",
+      "description": "",
+      "dimensions": {
+        "width": 374,
+        "height": 60
+      },
+      "filetype": ".png",
+      "category": "Text",
+      "clientFacing": null
+    },
+    {
+      "id": "4YBcw3fCg4jmZF5xquz6ag",
+      "name": "Icon + Text",
+      "url": "https://pulse-staging.kickup.co/reports/1281#2%20PL%20Plan%20Trends",
+      "description": "Multiple Choice Question",
+      "dimensions": {
+        "width": 242,
+        "height": 62
+      },
+      "filetype": ".png",
+      "category": "Link",
+      "clientFacing": true
+    },
+    {
+      "id": "eaEg92UF4AVBoKDy2touNa",
+      "name": "Response Total",
+      "url": "https://pulse-staging.kickup.co/reports/1281#2%20PL%20Plan%20Trends",
+      "description": "{section: \"Multiple Choice Question\"}",
+      "dimensions": {
+        "width": 562,
+        "height": 60
+      },
+      "filetype": ".png",
+      "category": "Metadata",
+      "clientFacing": null
+    },
+    {
+      "id": "9QLoh6ayNmthgeWcAV67Tg",
+      "name": "Multiple Choice - Drill In",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Planning%20%20Implementing%20Supports",
+      "description": "",
+      "dimensions": {
+        "width": 2602,
+        "height": 1518
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true
+    },
+    {
+      "id": "G2NXYYT3hK6J766gHpsYEw",
+      "name": "Topic Highlight",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Planning%20%20Implementing%20Supports",
+      "description": "",
+      "dimensions": {
+        "width": 878,
+        "height": 998
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true
+    },
+    {
+      "id": "ry8FhbmfvjyqGfZJMpJ5F7",
+      "name": "Progress Ring",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Assessing%20Impact",
+      "description": "",
+      "dimensions": {
+        "width": 182,
+        "height": 184
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true
+    },
+    {
+      "id": "nSWJxmzrt8afuCYsciaiRz",
+      "name": "Date Picker",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Assessing%20Impact",
+      "description": "{section: \"Segmented Totals\"}",
+      "dimensions": {
+        "width": 1354,
+        "height": 628
+      },
+      "filetype": ".png",
+      "category": "Calendar",
+      "clientFacing": true
+    },
+    {
+      "id": "ZLyp9rZiHTcFCNhtJXJyJC",
+      "name": "Grouped Dropdown",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Assessing%20Impact",
+      "description": "",
+      "dimensions": {
+        "width": 2518,
+        "height": 774
+      },
+      "filetype": ".png",
+      "category": "Select",
+      "clientFacing": true
+    },
+    {
+      "id": "E6GD6iH2fCPWAbtQQrVJLc",
+      "name": "Solid Light Gray Button",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Identifying%20Needs",
+      "description": "{section: \"Open Response Widget\",\nstate: \"After selecting responses\",}",
+      "dimensions": {
+        "width": 254,
+        "height": 100
+      },
+      "filetype": ".png",
+      "category": "Button",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "kgEU4HVMBXDUqetiPFzhKa",
+      "name": "Horizontal Timeline",
+      "url": "https://pulse-staging.kickup.co/reports/history/159347/",
+      "description": "",
+      "dimensions": {
+        "width": 1377,
+        "height": 291
+      },
+      "filetype": ".png",
+      "category": "List",
+      "clientFacing": true
+    },
+    {
+      "id": "wMfMcV7Pb7V3HsmtTKhWRg",
+      "name": "Response History",
+      "url": "https://pulse-staging.kickup.co/reports/history/159347/",
+      "description": "",
+      "dimensions": {
+        "width": 1378,
+        "height": 865
+      },
+      "filetype": ".png",
+      "category": "List",
+      "clientFacing": null
+    },
+    {
+      "id": "CJYzyf22sFiYwkEdocNqgr",
+      "name": "Green",
+      "url": "https://pulse-staging.kickup.co/accounts/email/",
+      "description": "",
+      "dimensions": {
+        "width": 144,
+        "height": 46
+      },
+      "filetype": ".png",
+      "category": "Badge",
+      "clientFacing": true,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "AYdEaDRuEVq9Rf7aGt5gJu",
+      "name": "Blue",
+      "url": "https://pulse-staging.kickup.co/accounts/email/",
+      "description": "",
+      "dimensions": {
+        "width": 138,
+        "height": 42
+      },
+      "filetype": ".png",
+      "category": "Badge",
+      "clientFacing": true,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "S6rcBAF3CJJ4CjjsCmBsYu",
+      "name": "Warning",
+      "url": "https://pulse-staging.kickup.co/accounts/email/",
+      "description": "",
+      "dimensions": {
+        "width": 176,
+        "height": 42
+      },
+      "filetype": ".png",
+      "category": "Badge",
+      "clientFacing": true,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "NsDX4KLGDADntgro2y6cNq",
+      "name": "Progress Ring",
+      "url": "https://pulse-staging.kickup.co/campaigns/list",
+      "description": "{section: \"Completion column\"}",
+      "dimensions": {
+        "width": 128,
+        "height": 62
+      },
+      "filetype": ".png",
+      "category": "Data",
+      "clientFacing": true
+    },
+    {
+      "id": "8zFJmPcqcyoan2HrdnojDw",
+      "name": "Clickable Row Table",
+      "url": "https://pulse-staging.kickup.co/campaigns/list",
+      "description": "",
+      "dimensions": {
+        "width": 2686,
+        "height": 296
+      },
+      "filetype": ".png",
+      "category": "Table",
+      "clientFacing": true
+    },
+    {
+      "id": "djatGEaRKPyvKzzjcF2cox",
+      "name": "Large Underline Tabs",
+      "url": "https://pulse-staging.kickup.co/campaigns/edit/16/overview",
+      "description": "",
+      "dimensions": {
+        "width": 2794,
+        "height": 118
+      },
+      "filetype": ".png",
+      "category": "Tabs",
+      "clientFacing": true
+    },
+    {
+      "id": "mWEDPJFxW2QLivBqoxGXQy",
+      "name": "Reflection Count",
+      "url": "https://pulse-staging.kickup.co/campaigns/edit/16/list",
+      "description": "",
+      "dimensions": {
+        "width": 64,
+        "height": 66
+      },
+      "filetype": ".png",
+      "category": "Cell",
+      "clientFacing": true
+    },
+    {
+      "id": "32WA9sJmNnUECinfvMDbsn",
+      "name": "Add Person Modal",
+      "url": "https://pulse-staging.kickup.co/campaigns/edit/16/list",
+      "description": "",
+      "dimensions": {
+        "width": 1556,
+        "height": 844
+      },
+      "filetype": ".png",
+      "category": "Overlay",
+      "clientFacing": true
+    },
+    {
+      "id": "XMQtuBtT2ggkepb7shi2gV",
+      "name": "Green Info - Small",
+      "url": "https://pulse-staging.kickup.co/campaigns/edit/16/list",
+      "description": "{section: \"Add Person Modal\"}",
+      "dimensions": {
+        "width": 892,
+        "height": 48
+      },
+      "filetype": ".png",
+      "category": "Message",
+      "clientFacing": true
+    },
+    {
+      "id": "Ai2WEW4nRcgZpdXLd5MiDv",
+      "name": "User Search - Open",
+      "url": "https://pulse-staging.kickup.co/campaigns/edit/16/list",
+      "description": "{section: \"Add Person Modal\"}",
+      "dimensions": {
+        "width": 954,
+        "height": 720
+      },
+      "filetype": ".png",
+      "category": "Select",
+      "clientFacing": true
+    },
+    {
+      "id": "MZJikun6kHk3hRvKeWoFyn",
+      "name": "Attributes Search - Open",
+      "url": "https://pulse-staging.kickup.co/campaigns/edit/16/list",
+      "description": "{section: \"Add Person Modal\"}",
+      "dimensions": {
+        "width": 970,
+        "height": 734
+      },
+      "filetype": ".png",
+      "category": "Select",
+      "clientFacing": true
+    },
+    {
+      "id": "TPM9NfBqgnWuVRocYLpHp7",
+      "name": "Inline Label & Select Dropdown",
+      "url": "https://pulse-staging.kickup.co/campaigns/edit/16/list",
+      "description": "{section: \"Add Person Modal\"}",
+      "dimensions": {
+        "width": 940,
+        "height": 82
+      },
+      "filetype": ".png",
+      "category": "Form",
+      "clientFacing": true
+    },
+    {
+      "id": "6bmtBjWeiocqG83ChXiw35",
+      "name": "Searchable - Closed",
+      "url": "https://pulse-staging.kickup.co/campaigns/edit/16/list",
+      "description": "{section: \"Add Person Modal\"}",
+      "dimensions": {
+        "width": 936,
+        "height": 88
+      },
+      "filetype": ".png",
+      "category": "Select",
+      "clientFacing": null
+    },
+    {
+      "id": "jQGKMUeDQyjS9huyKbGgy7",
+      "name": "Job Queues",
+      "url": "https://pulse-staging.kickup.co/manage/attributes/modify",
+      "description": "",
+      "dimensions": {
+        "width": 2616,
+        "height": 366
+      },
+      "filetype": ".png",
+      "category": "Container",
+      "clientFacing": false
+    },
+    {
+      "id": "v7YLFDXzRTnbtamdtQH6ba",
+      "name": "Job Queue",
+      "url": "https://pulse-staging.kickup.co/manage/attributes/modify",
+      "description": "",
+      "dimensions": {
+        "width": 2608,
+        "height": 532
+      },
+      "filetype": ".png",
+      "category": "Accordions",
+      "clientFacing": false,
+      "styleSource": "In-product Less"
+    },
+    {
+      "id": "dKgQcv7ymJCiAiokv2mJnT",
+      "name": "True/Completed",
+      "url": "https://pulse-staging.kickup.co/manage/attributes/modify",
+      "description": "{section: \"Job Queue item\"}",
+      "dimensions": {
+        "width": 46,
+        "height": 46
+      },
+      "filetype": ".png",
+      "category": "Cell",
+      "clientFacing": false
+    },
+    {
+      "id": "QyUCjYBKsiLtXnq8ycsnkq",
+      "name": "Checkmark Icon",
+      "url": "https://pulse-staging.kickup.co/manage/attributes/modify",
+      "description": "{section: \"Job Queue item\"}",
+      "dimensions": {
+        "width": 82,
+        "height": 82
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": null
+    },
+    {
+      "id": "FdVvWQXStKrEh2h4rHfV69",
+      "name": "Bar Chart",
+      "url": "https://pulse-staging.kickup.co/",
+      "description": "",
+      "dimensions": {
+        "width": 74,
+        "height": 78
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "KnhunuyfWrbeacmgiSfgZW",
+      "name": "Gray on White",
+      "url": "https://pulse-staging.kickup.co",
+      "description": "",
+      "dimensions": {
+        "width": 74,
+        "height": 70
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "tUvUtACD5QX3PiApnTHtDi",
+      "name": "Gray on Light Gray",
+      "url": "https://pulse-staging.kickup.co",
+      "description": "{section:\"Subheaders for analytics and events\"}",
+      "dimensions": {
+        "width": 56,
+        "height": 50
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "7nuEDGKvaotXnVjiuTaJMP",
+      "name": "Dark Gray on White",
+      "url": "https://pulse-staging.kickup.co",
+      "description": "{section:\"Recent reports header icon\"}",
+      "dimensions": {
+        "width": 44,
+        "height": 52
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": null
+    },
+    {
+      "id": "KfjQT9PmphMK5UezXBmbZr",
+      "name": "Light Gray on White",
+      "url": "https://pulse-staging.kickup.co",
+      "description": "",
+      "dimensions": {
+        "width": 116,
+        "height": 142
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "CrgJ9u9PXBaNfcxWS6dkKf",
+      "name": "White and Gray Logo on Light Gray Background",
+      "url": "https://pulse-staging.kickup.co/reports/browse",
+      "description": "",
+      "dimensions": {
+        "width": 142,
+        "height": 166
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "dZtGJiNpgWD8Ub5AUfqzyP",
+      "name": "Color on white",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Identifying%20Needs",
+      "description": "{section:\"Matrix Question - Averages/percentages toggle tooltip\"}",
+      "dimensions": {
+        "width": 96,
+        "height": 106
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": null
+    },
+    {
+      "id": "kaYBiCBgDsQsjRhApJbGwu",
+      "name": "White on colored circle with border",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Identifying%20Needs",
+      "description": "",
+      "dimensions": {
+        "width": 58,
+        "height": 62
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "CiNUMtqoi2hLoquYnfmSzm",
+      "name": "Gray on Light Gray circle with border",
+      "url": "https://pulse-staging.kickup.co/reports/1803",
+      "description": "{section:\"Open Response Qurestion\"}",
+      "dimensions": {
+        "width": 100,
+        "height": 96
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "wCMecZenTjiGHe9c8aia9M",
+      "name": "Filter Selection Count",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Assessing%20Impact",
+      "description": "",
+      "dimensions": {
+        "width": 54,
+        "height": 50
+      },
+      "filetype": ".png",
+      "category": "Badge",
+      "clientFacing": true,
+      "styleSource": "Pulse UI"
+    },
+    {
+      "id": "9Dm8SsqiUmUsCeBBwkz7o2",
+      "name": "Rubric Goals",
+      "url": "https://pulse-staging.kickup.co/reports/1893#Assessing%20Impact",
+      "description": "{section:\"Matrix Question => See rubrics modal\"}",
+      "dimensions": {
+        "width": 1502,
+        "height": 928
+      },
+      "filetype": ".png",
+      "category": "List",
+      "clientFacing": null
+    },
+    {
+      "id": "kMeyfae8ihVkS7hjeeKhh9",
+      "name": "Full Color",
+      "url": "https://pulse-staging.kickup.co/reports/manage/1893/edit",
+      "description": "",
+      "dimensions": {
+        "width": 80,
+        "height": 66
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "g8pm5jqEJb4kcfKUE6nDDW",
+      "name": "Full Color",
+      "url": "https://pulse-staging.kickup.co/reports/manage/1893/edit",
+      "description": "",
+      "dimensions": {
+        "width": 68,
+        "height": 56
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "qwRR8sqfRA5e5863kANhgj",
+      "name": "Gray on white",
+      "url": "https://pulse-staging.kickup.co/reports/manage/1893/edit",
+      "description": "{section:\"Clone widget section\"}",
+      "dimensions": {
+        "width": 44,
+        "height": 52
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "8Uj4iwcKZbmaMmoB8wteu8",
+      "name": "White on light gray circle with dark gray outline",
+      "url": "https://pulse-staging.kickup.co/reports/manage/1893/edit",
+      "description": "",
+      "dimensions": {
+        "width": 116,
+        "height": 108
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "Vzob9A6htnj8TuLQWQ5bMg",
+      "name": "White Icon on transparent circle with dark blue outline",
+      "url": "https://pulse-staging.kickup.co/reports/manage/1893/edit",
+      "description": "",
+      "dimensions": {
+        "width": 106,
+        "height": 108
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "eRtGr85SfFr8fGkEapvpsZ",
+      "name": "Content Block - Light Blue",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 2438,
+        "height": 548
+      },
+      "filetype": ".png",
+      "category": "Container",
+      "clientFacing": true
+    },
+    {
+      "id": "kbju4rgcXE74f3MwTur4cj",
+      "name": "Content Block - Navy",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 2390,
+        "height": 514
+      },
+      "filetype": ".png",
+      "category": "Container",
+      "clientFacing": true
+    },
+    {
+      "id": "PsMMrDeqiU3DxvYdqJMtHy",
+      "name": "Thin Chevron",
+      "url": "https://pulse-staging.kickup.co/events/browse",
+      "description": "",
+      "dimensions": {
+        "width": 38,
+        "height": 54
+      },
+      "filetype": ".png",
+      "category": "Icon",
+      "clientFacing": true
+    },
+    {
+      "id": "sR9a6VBDtsUFdkdU8aC3rd",
+      "name": "Small Text",
+      "url": "https://pulse-staging.kickup.co/events/browse/Veg7nNZi2a8Y7f6fdYVKUY",
+      "description": "{section:\"Attendance code tooltip\"}",
+      "dimensions": {
+        "width": 838,
+        "height": 192
+      },
+      "filetype": ".png",
+      "category": "Tooltip",
+      "clientFacing": true
+    },
+    {
+      "id": "kf87uhpNnr68esqFwsEh3K",
+      "name": "Collection Select - Selected",
+      "url": "https://pulse-staging.kickup.co/events/create",
+      "description": "",
+      "dimensions": {
+        "width": 2298,
+        "height": 144
+      },
+      "filetype": ".png",
+      "category": "Select",
+      "clientFacing": true
+    },
+    {
+      "id": "BbBtsLobUCvLJszjPBzZoR",
+      "name": "Event Permissions",
+      "url": "https://pulse-staging.kickup.co/events/create",
+      "description": "",
+      "dimensions": {
+        "width": 1646,
+        "height": 118
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "clientFacing": true,
+      "styleSource": [
+        "Styled Component"
+      ]
+    },
+    {
+      "id": "LwsJz3mrdt2zMpQra2L5ut",
+      "name": "Large Button Group",
+      "url": "https://pulse-staging.kickup.co/reports/manage/838/edit",
+      "description": "",
+      "dimensions": {
+        "width": 1850,
+        "height": 290
+      },
+      "filetype": ".png",
+      "category": "Button Group",
+      "clientFacing": true,
+      "": "Button Group",
+      "styleSource": [
+        "Pulse UI",
+        "Bootstrap"
+      ]
+    },
+    {
+      "id": "wUSTx8KTn6QiS3qhDHErx2",
+      "name": "Report Empty Widgets",
+      "url": "https://pulse-staging.kickup.co/reports/manage/create/",
+      "description": "",
+      "dimensions": {
+        "width": 1006,
+        "height": 118
+      },
+      "filetype": ".png",
+      "category": "Empty State",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "3tw54p5u9qCggcgNqxNTfN",
+      "name": "Widget Dropzone",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/",
+      "description": "",
+      "dimensions": {
+        "width": 1138,
+        "height": 244
+      },
+      "filetype": ".png",
+      "category": "Upload",
+      "clientFacing": true,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "NTuGkDsa3Ba8tJLPJ8Pvue",
+      "name": "Extra Space Gray Outline Button",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1212/details/",
+      "description": "Section: Entity Processors",
+      "dimensions": {
+        "width": 384,
+        "height": 106
+      },
+      "filetype": ".png",
+      "category": "Button",
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "htgeqKS4RFTq4Y2jgNh4yZ",
+      "name": "Extra Space Red Outline Button",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1212/details/",
+      "description": "Section: Entity Processors",
+      "dimensions": {
+        "width": 242,
+        "height": 96
+      },
+      "filetype": ".png",
+      "category": "Button",
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "g5SAnNTh9GbyMa9tuGb3m8",
+      "name": "Wide Gray Outline Button with Icon",
+      "url": "https://pulse-staging.kickup.co/manage/surveys/1212/details/",
+      "description": "Section: Entity Processors",
+      "dimensions": {
+        "width": 1858,
+        "height": 88
+      },
+      "filetype": ".png",
+      "category": "Button",
+      "clientFacing": false,
+      "styleSource": [
+        "Pulse UI"
+      ]
+    },
+    {
+      "id": "sQafLFMtTseeQVWJsMpacJ",
+      "name": "Shared Links",
+      "url": "https://pulse-staging.kickup.co/reports/manage/links/",
+      "description": "",
+      "dimensions": {
+        "width": 1810,
+        "height": 1106
+      },
+      "filetype": ".png",
+      "category": "List",
+      "clientFacing": true,
+      "styleSource": [
+        "Bootstrap"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Accordions",
+      "parent": "All",
+      "id": "P8SQm4VNG6PH482PPoo5Ev"
+    },
+    {
+      "name": "Badge",
+      "parent": "All",
+      "id": "aB8ckAMxdrNqXAosfLfxxU"
+    },
+    {
+      "name": "Button",
+      "parent": "All",
+      "id": "rgZ3uwwXkRSob7Wkt6LRLA"
+    },
+    {
+      "name": "Container",
+      "parent": "All",
+      "id": "43UUttdYhiqTbVSXCTDb6i"
+    },
+    {
+      "name": "Data",
+      "parent": "All",
+      "id": "toTREiMTde4NFbqo785Qjx"
+    },
+    {
+      "name": "Dropdown",
+      "parent": "All",
+      "id": "uBcgErUGvcv4bNck6u5tug"
+    },
+    {
+      "name": "Events",
+      "parent": "All",
+      "id": "HGoGMesATrvUgmNpvq9hiL"
+    },
+    {
+      "name": "Form",
+      "parent": "All",
+      "id": "CWmAab69yi8Ha2tQeHwA4V"
+    },
+    {
+      "name": "Icon",
+      "parent": "All",
+      "id": "o2KhBatSd2xpAsBGnwkSvT"
+    },
+    {
+      "name": "List",
+      "parent": "All",
+      "id": "BDdbEGEixNKrcEuu8wnZfL"
+    },
+    {
+      "name": "Message",
+      "parent": "All",
+      "id": "tP3fcRmiDk7p8dyHTDFSCS"
+    },
+    {
+      "name": "Metadata",
+      "parent": "All",
+      "id": "JdStmDKzDe2uswdVb4LKqJ"
+    },
+    {
+      "name": "Motion",
+      "parent": "All",
+      "id": "uB38TqcbVKbwtPZJM28DpK"
+    },
+    {
+      "name": "Other",
+      "parent": "All",
+      "id": "phgpLyiNkQG4tXWJW6Xyvf"
+    },
+    {
+      "name": "Overlay",
+      "parent": "All",
+      "id": "sijNiA6orNRsKneM8nEKHk"
+    },
+    {
+      "name": "Pagination",
+      "parent": "All",
+      "id": "mTyH7nDhvVGpDEmwsejJpo"
+    },
+    {
+      "name": "Search",
+      "parent": "All",
+      "id": "6ZbJgNEM228HkVuU3cob5w"
+    },
+    {
+      "name": "Table",
+      "parent": "All",
+      "id": "RzBCe7bgU2TWFWWhhGuz33"
+    },
+    {
+      "name": "Tabs",
+      "parent": "All",
+      "id": "EHitWU5sWtpqmW5dnHbEtn"
+    },
+    {
+      "name": "Tags",
+      "parent": "All",
+      "id": "PyM3yvKV56N27tVrcy5dAf"
+    },
+    {
+      "name": "Text",
+      "parent": "All",
+      "id": "hd5DkHp7Q4k7vjFYFpA4kS"
+    },
+    {
+      "name": "Button Group",
+      "parent": "Button",
+      "id": "gMX7p6dvjn7TSsh7iEqc9W"
+    },
+    {
+      "name": "Card",
+      "parent": "Container",
+      "id": "kPsFAwe8LMQR9qAmrm9Ybp"
+    },
+    {
+      "name": "Menu",
+      "parent": "Dropdown",
+      "id": "u5Bu368M6unPiNwewnf5Ch"
+    },
+    {
+      "name": "Item",
+      "parent": "Events",
+      "id": "82yYoTf99UNbV6xPksdyjo"
+    },
+    {
+      "name": "Checkbox",
+      "parent": "Form",
+      "id": "5psvGeX7ftZnki7cUKshbo"
+    },
+    {
+      "name": "Input",
+      "parent": "Form",
+      "id": "sZurq9KYGc4KqqKjsTgF2g"
+    },
+    {
+      "name": "Radio Button",
+      "parent": "Form",
+      "id": "5MVpj5DTdCzgRoPGmENRoC"
+    },
+    {
+      "name": "Rich Text",
+      "parent": "Form",
+      "id": "H2j7qwihTXi2qCv5VhF4hf"
+    },
+    {
+      "name": "Select",
+      "parent": "Form",
+      "id": "jeXVMEA3SgLBoK3VrooPrA"
+    },
+    {
+      "name": "Textarea",
+      "parent": "Form",
+      "id": "7weCNm8vt5UzQJUuvqMiNH"
+    },
+    {
+      "name": "Upload",
+      "parent": "Form",
+      "id": "tUkZcnJyZv9tayDt2WNo42"
+    },
+    {
+      "name": "Empty State",
+      "parent": "Message",
+      "id": "HCXHKrfhogDa33WZs9vDYE"
+    },
+    {
+      "name": "Tooltip",
+      "parent": "Overlay",
+      "id": "t3DqK29uoiRxcrKPUDpiLe"
+    },
+    {
+      "name": "Cell",
+      "parent": "Table",
+      "id": "Co7GPnsrBikq4gbaxN6n6m"
+    },
+    {
+      "name": "Header",
+      "parent": "Text",
+      "id": "iiH9bcZZ3LUZbezpcwg8QA"
+    },
+    {
+      "name": "Link",
+      "parent": "Text",
+      "id": "qBBxVW7v36bf7hcQ4fLEca"
+    },
+    {
+      "name": "Subheader",
+      "parent": "Text",
+      "id": "m2eE6iEv7Yr4HENppPaqEu"
+    },
+    {
+      "name": "Calendar",
+      "parent": "Select",
+      "id": "qVn8RFStoD6gV9h9rQfGLE"
+    },
+    {
+      "name": "Multi Select",
+      "parent": "Select",
+      "id": "Nrzw9xypPRuku7zKbc8PXb"
+    },
+    {
+      "name": "Bookmarks",
+      "parent": "Accordions",
+      "id": "wWEHgSS6D4j9NWeTiapFWf"
+    },
+    {
+      "name": "Bookmark Bar",
+      "parent": "All",
+      "id": "cUzL7Ak75VS5F2ChT9si89"
+    }
+  ]
+}

@@ -37,6 +37,7 @@ class Index extends React.Component {
     );
   }
 }
+
 export default Index;
 
 const AppContainer = styled.div`
@@ -47,3 +48,4 @@ const Main = styled.div`
   display: flex;
   flex-direction: row;
 `;
+

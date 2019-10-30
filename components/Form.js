@@ -1,4 +1,5 @@
 import React from 'react';
+import fetch from 'isomorphic-unfetch';
 import styled from 'styled-components';
 import {transparentize} from 'polished';
 import hotkeys from 'hotkeys-js';
@@ -45,7 +46,7 @@ export default class Form extends React.Component {
     }
   }
   fetchData(id) {
-    fetch('http://localhost:8000/images/'+id)
+    fetch('api/images/'+id)
       .then(res => res.json())
       .then(item => {
         copy(item.url)
@@ -68,7 +69,7 @@ export default class Form extends React.Component {
       })
   }
   fetchCategories(callback) {
-    fetch('http://localhost:8000/categories')
+    fetch('api/categories')
       .then(res => res.json())
       .then(categories => {
         callback(categories)
@@ -102,7 +103,7 @@ export default class Form extends React.Component {
       if (list.indexOf(this.state.url) > -1) {
         list.splice(list.indexOf(this.state.url), 1)
       };
-      
+
       // max the recent list at 3 items
       if (list.length >= 3) {
         list.shift();
@@ -112,7 +113,7 @@ export default class Form extends React.Component {
     }
 
     var that = this;
-    fetch('http://localhost:8000/edit/'+ this.props.selectedID, {
+    fetch('api/edit/'+ this.props.selectedID, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -129,7 +130,7 @@ export default class Form extends React.Component {
     var confirm = window.confirm("Are you sure you want to delete this?")
     if (confirm) {
       var that = this;
-      fetch('http://localhost:8000/delete/'+ this.props.selectedID, {
+      fetch('api/delete/'+ this.props.selectedID, {
         method: 'DELETE',
         headers: {
           'Content-Type': 'application/json'
@@ -179,10 +180,10 @@ export default class Form extends React.Component {
         result.push(opt.value || opt.text);
       }
     }
-    
+
     let obj = {};
     obj[select.name] = result;
-    
+
     this.setState({
       data: Object.assign(this.state.data, obj)
     })
@@ -200,10 +201,10 @@ export default class Form extends React.Component {
     if (item.id){
       return (
         <FormContainer >
-          <a style={{width: "100%"}} target="_blank" rel="noopener noreferrer" href={"http://localhost:8000/" + item.id + (item.filetype ? item.filetype : ".png")}>
+          <a style={{width: "100%"}} target="_blank" rel="noopener noreferrer" href={"api/" + item.id + (item.filetype ? item.filetype : ".png")}>
             <ImagePreviewContainer>
                 <ImagePreview
-                  src={"http://localhost:8000/" + item.id + (item.filetype ? item.filetype : ".png")}
+                  src={"public/images/" + item.id + (item.filetype ? item.filetype : ".png")}
                   width={item.dimensions.width / 2 > 600 ? "100%" : item.dimensions.width / 2}
                   alt=""/>
             </ImagePreviewContainer>
