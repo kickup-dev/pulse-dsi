@@ -11,6 +11,9 @@ const models = require('./models.js');
 const data = require('./db.json');
 const {images, categories} = data;
 
+const categoriesToAdd = require('./categoriesToAdd.json');
+
+
 console.log(images.length, categories.length);
 
 function createAllCategory(callback){
@@ -87,8 +90,52 @@ function createImages(index, callback){
       })
     })
   }, callback);
+}
 
+function addStyleSource(callback){
+  return async.each(images, (image, cb) => {
+    const getCategory = models.Category.findOne({name: image.category});
+    getCategory.then(category => {
+      if(!category) {
+        console.log("No category yet", image.category);
+        return cb();
+      }
+      console.log("Category:", image.category)
+      image.category = category;
 
+      return models.Item.update({id: image.id}, {styleSource: image.styleSource}, (err, result) => {
+        if (err) {
+          console.log(err);
+          return cb();
+        }
+        console.log(result);
+        return cb()
+      })
+    })
+  }, callback);
+}
+
+function updateCategories(callback){
+  return async.each(images, (image, cb) => {
+    const getCategory = models.Category.findOne({name: image.category});
+    getCategory.then(category => {
+      if(!category) {
+        console.log("No category yet", image.category);
+        return cb();
+      }
+      console.log("Category:", image.category)
+      image.category = category;
+
+      return models.Item.update({id: image.id}, { category }, (err, result) => {
+        if (err) {
+          console.log(err);
+          return cb();
+        }
+        console.log(result);
+        return cb()
+      })
+    })
+  }, callback);
 }
 
 function createTopLevelCategories(callback){
@@ -121,6 +168,31 @@ function createImage(image, callback){
     console.log("Added", item.name)
     return callback()
   });
+}
+
+function addMissedCategories(callback) {
+  let subCategories = categoriesToAdd;
+  console.log(subCategories.length);
+  return async.each(subCategories, (cat, cb) => {
+    const getParent = models.Category.findOne({name: cat.parent});
+    getParent.then(parent => {
+      if(!parent) {
+        console.log("No parent yet", cat.name);
+        return cb();
+      }
+      console.log("Parent:", parent.name)
+
+      return models.Category.create({name: cat.name, parent: parent}, (err, result) => {
+        if (err) {
+          console.log(err);
+          return cb();
+        }
+        console.log(result);
+        return cb()
+      })
+    })
+
+  }, callback);
 }
 
 createImages(()=> process.exit(1));

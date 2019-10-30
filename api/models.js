@@ -13,6 +13,9 @@ const ItemSchema = new mongoose.Schema({
     type: String,
     enum: ['.png', '.gif', '.jpg', 'png', 'gif', 'jpg'],
   },
+  styleSource: [{
+    type: String
+  }],
   clientFacing: Boolean,
   category: { type: mongoose.Schema.Types.ObjectId, ref: 'Category' }
 });
