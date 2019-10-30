@@ -11,6 +11,7 @@ import CategorySelect from './CategorySelect.js';
 export default class Form extends React.Component {
   constructor(props) {
     super(props)
+    console.log("DEV IS: ", process.env.DEV)
     this.state = {
       data: {
         name: "",
@@ -260,7 +261,9 @@ export default class Form extends React.Component {
             <SmallID readOnly ref={this.imagePath} value={"~/Desktop/design-system-inventory-database/images/" + item.id} onClick={() => this.imagePath.current.select()} />
           </FormGroup>
           <FooterActions>
-            <Button warning onClick={() => this.handleDelete()} value="Delete">Delete</Button>
+            {
+              process.env.DEV && <Button warning onClick={() => this.handleDelete()} value="Delete">Delete</Button>
+            }
           </FooterActions>
         </FormContainer>
       )

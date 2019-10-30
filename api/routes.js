@@ -1,3 +1,5 @@
+const dotenv = require('dotenv');
+dotenv.config();
 const mongoose = require('mongoose');
 const models = require('./models');
 
@@ -21,6 +23,9 @@ router.get('/images/:id', (req, res) => {
 })
 
 router.post('/edit/:id', (req, res) => {
+  if (!process.env.DEV) {
+    return res.err('Only available in DEV mode.')
+  }
   models.Item.updateOne({id: req.params.id}, req.body, (err, item)=>{
     console.log(req.params.id + ' has been edited')
     return res.send({status: req.params.id + ' has been edited'});
@@ -28,6 +33,9 @@ router.post('/edit/:id', (req, res) => {
 })
 
 router.delete('/delete/:id', (req, res) => {
+  if (!process.env.DEV) {
+    return res.err('Only available in DEV mode.')
+  }
   models.Item.removeOne({id: req.params.id}, (err, item)=>{
     console.log("Deleted: " + req.params.id);
     return res.send({status: "Deleted: " + req.params.id});
@@ -44,6 +52,9 @@ router.get('/categories', (req, res) => {
 })
 
 router.post('/category', (req, res) => {
+  if (!process.env.DEV) {
+    return res.err('Only available in DEV mode.')
+  }
   models.Category.updateOne({id: req.params.id}, req.body, (err, item)=>{
     console.log(req.params.id + ' has been edited')
     return res.send({status: req.params.id + ' has been edited'});
