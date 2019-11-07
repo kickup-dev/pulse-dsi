@@ -63,10 +63,10 @@ const Sidebar = ({length} = 5) => {
   for(var i = 0; i < length; i++) {
     chunks.push(
        <Fragment>
-        <GhostCategory offset={0}/>
-        <GhostCategory offset={1}/>
-        <GhostCategory offset={2}/>
-        <GhostCategory offset={3}/>
+        <GhostCategory offset={0} key={1 + i}/>
+        <GhostCategory offset={1} key={2 + i}/>
+        <GhostCategory offset={2} key={3 + i}/>
+        <GhostCategory offset={3} key={4 + i}/>
       </Fragment>
     )
   }
