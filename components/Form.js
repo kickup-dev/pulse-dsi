@@ -215,7 +215,7 @@ export default class Form extends React.Component {
               <Title>{item.name}</Title>
               <Link target="_blank" href={item.url}>{url}</Link>
             </div>
-             { process.env.DEV && <Button primary style={{marginLeft: "16px"}} onClick={() => this.handleSubmit()}>{this.state.saving ? "Saving..." : "Save"}</Button> }
+             { process.env.DEV === true && <Button primary style={{marginLeft: "16px"}} onClick={() => this.handleSubmit()}>{this.state.saving ? "Saving..." : "Save"}</Button> }
           </Header>
           <br/>
           <FormGroup>
@@ -232,7 +232,7 @@ export default class Form extends React.Component {
             <Label htmlFor="">Style Source {!item.styleSource ? <Indicator type={"undefined"} /> : ""}</Label>
             <Select style={{height: "unset", padding: "4px"}} multiple={true} onChange={(e) => this.onChangeMultiSelect(e)} name="styleSource" value={item.styleSource ? Array.isArray(item.styleSource) ? item.styleSource : [item.styleSource]: [""]}>
               <MultiSelectOption value="N/A">N/A</MultiSelectOption>
-              <MultiSelectOption value="Styled Component"><span role="img" aria-label="nails">💅</span> Styled Component</MultiSelectOption>
+              <MultiSelectOption value="Styled Component">💅 Styled Component</MultiSelectOption>
               <MultiSelectOption value="Pulse UI">Pulse UI - browserModules.css</MultiSelectOption>
               <MultiSelectOption value="In-product Less">{"In-Product Less - {name}.css"}</MultiSelectOption>
               <MultiSelectOption value="Bootstrap">Bootstrap (bootstrap.css)</MultiSelectOption>
@@ -262,7 +262,7 @@ export default class Form extends React.Component {
           </FormGroup>
           <FooterActions>
             {
-              process.env.DEV && <Button warning onClick={() => this.handleDelete()} value="Delete">Delete</Button>
+              process.env.DEV === true && <Button warning onClick={() => this.handleDelete()} value="Delete">Delete</Button>
             }
           </FooterActions>
         </FormContainer>

@@ -15,12 +15,14 @@ export default class CategorySelect extends Component {
       var obj = {};
       obj[e.target.name] = e.target.value;
 
+      console.log("value is . . . ", e.target.value);
+
       this.setState({
         data: Object.assign(this.state.data, obj)
       })
     }
     listCategories(parent, indent) {
-      console.log("ITEM: ", this.props.item);
+      // console.log("ITEM: ", this.props.item);
         const {categories} = this.props;
         indent = indent ? indent : 0;
         const all = categories.filter(cat => cat.name === "All")[0];
@@ -29,7 +31,7 @@ export default class CategorySelect extends Component {
         let result = [];
         sortedCategories.forEach((category, i) => {
           if (category.parent && category.parent._id === parent._id) {
-            result.push(<option value={category} key={category._id + category.name}>{"--".repeat(indent)} {category.name}</option>)
+            result.push(<option value={category._id} key={category._id + category.name + i}>{"--".repeat(indent)} {category.name}</option>)
             result.push(this.listCategories(category, indent + 1))
           }
         })
@@ -43,7 +45,7 @@ export default class CategorySelect extends Component {
       const {data} = this.state;
       const obj = {
         name: data.name,
-        parent: data.parent || all
+        parent: data.parent|| all._id
       }
 
       var that = this;
@@ -54,11 +56,16 @@ export default class CategorySelect extends Component {
         },
         body: JSON.stringify(obj)
       })
-      .then(() => {
+      .then((id) => {
         that.setState({
-          savingCategory: false
+          savingCategory: false,
         })
       })
+    }
+
+    tempOnChange(e){
+      console.log("value is . . . ", e.target.value);
+      this.props.onChange(e);
     }
 
     render() {
@@ -74,7 +81,7 @@ export default class CategorySelect extends Component {
                     </FormGroup>
                     <FormGroup>
                     <Label htmlFor="">Parent?</Label>
-                      <Select onChange={(e) => this.onChange(e)} name="parent" value={data.parent || ""}>
+                      <Select onChange={(e) => this.onChange(e)} name="parent" value={data.parent ?  data.parent : ""}>
                           <option value="" >None</option>
                           {this.listCategories()}
                       </Select>
@@ -90,7 +97,7 @@ export default class CategorySelect extends Component {
                 <FormGroup>
                     <Label htmlFor="">Category {!item.category ? <Indicator type={"undefined"} /> : ""}</Label>
                     <SelectRow>
-                      <Select style={{flex: "1"}} onChange={(e) => this.props.onChange(e)} name="category" value={item.category ? item.category : ""}>
+                      <Select style={{flex: "1"}} onChange={(e) => this.tempOnChange(e)} name="category" value={item.category ? item.category : ""}>
                         <option value="" disabled>Select One</option>
                         {this.listCategories()}
                       </Select>

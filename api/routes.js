@@ -17,7 +17,6 @@ router.get('/images', (req, res) => {
 
 router.get('/images/:id', (req, res) => {
   models.Item.findOne({id: req.params.id})
-    .populate({path: 'category', populate: {path: 'parent'}})
     .exec((err, item)=>{
       if (err) return err;
       return res.json(item);
@@ -57,9 +56,10 @@ router.post('/category', (req, res) => {
   if (!process.env.DEV) {
     return res.err('Only available in DEV mode.')
   }
-  models.Category.updateOne({id: req.params.id}, req.body, (err, item)=>{
-    console.log(req.params.id + ' has been edited')
-    return res.send({status: req.params.id + ' has been edited'});
+  models.Category.create(req.body, (err, item)=>{
+    if(err) { return res.send(err)}
+    console.log(item.name + ' has been edited')
+    return res.send(item._id);
   });
 })
 

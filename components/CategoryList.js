@@ -39,6 +39,7 @@ export default class CategoryList extends React.Component {
   listCategories() {
     const {categories} = this.state;
     const all = categories.filter(cat => cat.name === "All")[0];
+    console.log("All is", all);
     let filteredCategories = categories.filter(cat => cat.name !== "All");
 
     if (!filteredCategories) return;
@@ -96,7 +97,10 @@ export default class CategoryList extends React.Component {
 
         let anyMissingAttributes = 0;
         this.props.images.forEach(image => {
-          if (image.category._id === category._id && missingAttributes(image)) {
+          if (!image.category) {
+            console.log(image)
+            return; }
+          else if (image.category._id === category._id && missingAttributes(image)) {
             anyMissingAttributes++;
           }
         })

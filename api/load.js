@@ -34,7 +34,7 @@ function createTopLevelCategories(callback){
   findAll.then(all => {
     console.log(topLevelCategories.length);
     return async.each(topLevelCategories, cat => {
-      models.Category.update({name: cat.name, parent: all}, {upsert: true}, (err, result) => {
+      models.Category.create({name: cat.name, parent: all}, {upsert: true}, (err, result) => {
         if (err) {
           console.log(err);
         }
@@ -69,15 +69,15 @@ function createSubCategories(callback){
   }, callback);
 }
 
-function createImages(index, callback){
+function createImages(callback){
   return async.each(images, (image, cb) => {
     const getCategory = models.Category.findOne({name: image.category});
     getCategory.then(category => {
       if(!category) {
-        console.log("No category yet", image.category);
+        console.log("No category yet", image.name, image.category);
         return cb();
       }
-      console.log("Category:", image.category)
+      // console.log("Category:", image.category)
       image.category = category;
 
       return models.Item.create({...image}, (err, result) => {
@@ -138,15 +138,6 @@ function updateCategories(callback){
   }, callback);
 }
 
-function createTopLevelCategories(callback){
-  let topLevelCategories = categories.filter(cat => cat.parent === 'All');
-  let findAll = models.Category.findOne({name: 'All'});
-
-  findAll.then(all => {
-    console.log(topLevelCategories.length);
-
-  })
-}
 
 function createCategory(name, parent, callback){
   models.Item.create(image, (err, item) => {
@@ -193,6 +184,17 @@ function addMissedCategories(callback) {
     })
 
   }, callback);
+}
+
+function createAllCategory(callback){
+  models.Category.create({name: 'All', _id: '5dae116630bdf32d46a1090b'}, (err, result) => {
+    if (err) {
+      console.log(err);
+      return callback();
+    }
+    console.log(result);
+    return callback();
+  })
 }
 
 createImages(()=> process.exit(1));
