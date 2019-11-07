@@ -5,7 +5,7 @@ const async = require('async');
 
 const mongoose = require('mongoose');
 mongoose.connect(process.env.DB_SRV, { useNewUrlParser: true });
-const models = require('./models.js');
+const models = require('../models');
 
 
 const data = require('./db.json');
@@ -15,6 +15,19 @@ const categoriesToAdd = require('./categoriesToAdd.json');
 
 
 console.log(images.length, categories.length);
+
+function deleteAllThings(callback){
+  models.Category.deleteMany({ _id: { $exists: true } }, err => {
+    if (err) { console.error(err)};
+    console.log("All Categories Deleted");
+    models.Item.deleteMany({ _id: { $exists: true}}, err=> {
+      if (err) {console.error(err)};
+      console.log("All Items Deleted.");
+      return callback();
+    })
+
+  })
+}
 
 function createAllCategory(callback){
   models.Category.create({name: 'All'}, (err, result) => {
@@ -33,14 +46,15 @@ function createTopLevelCategories(callback){
 
   findAll.then(all => {
     console.log(topLevelCategories.length);
-    return async.each(topLevelCategories, cat => {
-      models.Category.create({name: cat.name, parent: all}, {upsert: true}, (err, result) => {
+    return async.each(topLevelCategories, (cat, cb) => {
+      models.Category.create({name: cat.name, parent: all}, (err, result) => {
         if (err) {
           console.log(err);
         }
         console.log(result);
+        return cb()
       })
-    }, callback);
+    }, () => callback());
   })
 }
 
@@ -61,7 +75,7 @@ function createSubCategories(callback){
           console.log(err);
           return cb();
         }
-        console.log(result);
+        console.log(result.name + " was created");
         return cb()
       })
     })
@@ -197,4 +211,16 @@ function createAllCategory(callback){
   })
 }
 
-createImages(()=> process.exit(1));
+
+
+deleteAllThings(() => {
+  return createAllCategory(() => {
+    return createTopLevelCategories(()=> {
+      return createSubCategories(() => {
+        return addMissedCategories(()=> {
+         return createImages(()=> process.exit(1));
+        });
+      });
+    });
+  });
+});
