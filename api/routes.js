@@ -16,10 +16,12 @@ router.get('/images', (req, res) => {
 })
 
 router.get('/images/:id', (req, res) => {
-  models.Item.findOne({id: req.params.id}, (err, item)=>{
-    if (err) return err;
-    return res.json(item);
-  })
+  models.Item.findOne({id: req.params.id})
+    .populate({path: 'category', populate: {path: 'parent'}})
+    .exec((err, item)=>{
+      if (err) return err;
+      return res.json(item);
+    });
 })
 
 router.post('/edit/:id', (req, res) => {

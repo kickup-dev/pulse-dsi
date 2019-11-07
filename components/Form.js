@@ -163,7 +163,7 @@ export default class Form extends React.Component {
     var result = [];
     var sortedCategories = this.state.categories.sort((a,b) => a.name > b.name ? 1 : -1);
     sortedCategories.forEach((category, i) => {
-      result.push(<option key={category.id} value={category.name}>{category.name}</option>)
+      result.push(<option key={category._id} value={category.name}>{category.name}</option>)
     })
     return result
   }

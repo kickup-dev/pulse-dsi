@@ -20,15 +20,17 @@ export default class CategorySelect extends Component {
       })
     }
     listCategories(parent, indent) {
+      console.log("ITEM: ", this.props.item);
         const {categories} = this.props;
         indent = indent ? indent : 0;
-        parent = parent ? parent : "All";
+        const all = categories.filter(cat => cat.name === "All")[0];
+        parent = parent ? parent : all;
         let sortedCategories = categories.sort((a,b) => a.name > b.name ? 1 : -1);
         let result = [];
         sortedCategories.forEach((category, i) => {
-          if (category.parent === parent) {
-            result.push(<option value={category.name} key={category.id}>{"--".repeat(indent)} {category.name}</option>)
-            result.push(this.listCategories(category.name, indent + 1))
+          if (category.parent && category.parent._id === parent._id) {
+            result.push(<option value={category} key={category._id + category.name}>{"--".repeat(indent)} {category.name}</option>)
+            result.push(this.listCategories(category, indent + 1))
           }
         })
         return result
@@ -37,11 +39,11 @@ export default class CategorySelect extends Component {
       this.setState({
         savingCategory: true
       })
-
+      const all = this.props.categories.filter(cat => cat.name === "All")[0];
       const {data} = this.state;
       const obj = {
         name: data.name,
-        parent: data.parent || "All"
+        parent: data.parent || all
       }
 
       var that = this;
